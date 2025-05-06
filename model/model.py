@@ -10,7 +10,7 @@ def predict(handle: str) -> float:
     compute contest-to-contest deltas, then return
     the mean of the last K deltas (or overall mean).
     """
-    resp = requests.get(CF_API_URL, params={"handle": handle}, timeout=10)
+    resp = requests.get(f"{CF_API_URL}?handle={handle}")
     resp.raise_for_status()
     data = resp.json()
     if data.get("status") != "OK":

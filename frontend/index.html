@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <title>CF Rating Predictor</title>
+  <style>
+    body {
+      display: flex; align-items: center; justify-content: center;
+      height: 100vh; margin: 0; font-family: sans-serif;
+      background: #f4f6f8;
+    }
+    .card {
+      background: white; padding: 1.5rem; border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1); width: 300px;
+      text-align: center;
+    }
+    input, button {
+      width: 100%; padding: 0.5rem; margin-top: 0.75rem;
+      font-size: 1rem; border-radius: 4px; border: 1px solid #ccc;
+    }
+    button {
+      background: #0066ff; color: white; border: none;
+      cursor: pointer; transition: background 0.2s;
+    }
+    button:hover { background: #0052cc; }
+    .result { margin-top: 1rem; font-weight: bold; }
+    .error { color: #d00; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>CF Rating Predictor</h2>
+    <input id="handle" placeholder="Enter your handle" />
+    <button id="go">Predict</button>
+    <div id="output" class="result"></div>
+  </div>
+  <script>
+    const btn = document.getElementById('go'),
+          out = document.getElementById('output'),
+          inp = document.getElementById('handle');
+
+    btn.onclick = async () => {
+      const h = inp.value.trim();
+      out.textContent = '';
+      out.className = 'result';
+      if (!h) {
+        out.textContent = '❗ Please enter a handle.';
+        out.classList.add('error');
+        return;
+      }
+      out.textContent = '⏳ Predicting…';
+      try {
+        const res = await fetch(`/predict/${encodeURIComponent(h)}`);
+        const json = await res.json();
+        if (!res.ok) throw new Error(json.error || 'Unknown error');
+        out.innerHTML = `✅ <strong>${json.handle}</strong> Δ = <strong>${json.predicted_delta}</strong>`;
+      } catch (err) {
+        out.textContent = err.message;
+        out.classList.add('error');
+      }
+    };
+  </script>
+</body>
+</html>
