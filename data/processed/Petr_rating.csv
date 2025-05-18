@@ -1,0 +1,226 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+2,Codeforces Beta Round 2,Petr,5,2010-02-25 19:00:00,0,1625,1625
+3,Codeforces Beta Round 3,Petr,1,2010-03-07 14:00:00,1625,1775,150
+5,Codeforces Beta Round 5,Petr,1,2010-03-20 18:00:00,1775,1891,116
+7,Codeforces Beta Round 7,Petr,1,2010-04-01 17:45:00,1891,1977,86
+8,Codeforces Beta Round 8,Petr,1,2010-04-08 17:45:00,1977,2046,69
+10,Codeforces Beta Round 10,Petr,1,2010-04-15 17:45:00,2046,2109,63
+11,Codeforces Beta Round 11,Petr,9,2010-04-26 17:00:00,2109,2126,17
+36,Codeforces Beta Round 36,Petr,2,2010-10-19 12:00:00,2126,2183,57
+40,Codeforces Beta Round 39,Petr,2,2010-11-05 18:00:00,2183,2240,57
+46,School Personal Contest #2 (Winter Computer School 2010/11) - Codeforces Beta Round 43 (ACM-ICPC Rules),Petr,1,2010-12-05 11:00:00,2240,2279,39
+51,Codeforces Beta Round 48,Petr,4,2010-12-28 18:30:00,2279,2320,41
+54,Codeforces Beta Round 50,Petr,17,2011-01-11 10:15:00,2320,2276,-44
+55,Codeforces Beta Round 51,Petr,5,2011-01-14 10:00:00,2276,2310,34
+68,Codeforces Beta Round 62,Petr,10,2011-03-18 18:00:00,2310,2344,34
+70,Codeforces Beta Round 64,Petr,1,2011-03-26 18:00:00,2344,2391,47
+73,Codeforces Beta Round 66,Petr,14,2011-04-10 10:30:00,2391,2374,-17
+79,Codeforces Beta Round 71,Petr,2,2011-04-30 17:00:00,2374,2416,42
+81,Yandex.Algorithm Open 2011: Qualification 1,Petr,4,2011-05-04 07:00:00,2416,2441,25
+85,Yandex.Algorithm 2011: Round 1,Petr,2,2011-05-20 17:00:00,2441,2504,63
+86,Yandex.Algorithm 2011: Round 2,Petr,1,2011-05-22 17:10:00,2504,2562,58
+87,Codeforces Beta Round 73 (Div. 1 Only),Petr,6,2011-06-07 17:00:00,2562,2573,11
+95,Codeforces Beta Round 77 (Div. 1 Only),Petr,8,2011-07-08 17:00:00,2573,2566,-7
+97,Yandex.Algorithm 2011: Finals,Petr,1,2011-07-15 14:00:00,2566,2588,22
+109,Codeforces Beta Round 84 (Div. 1 Only),Petr,4,2011-08-29 18:00:00,2588,2601,13
+115,Codeforces Beta Round 87 (Div. 1 Only),Petr,2,2011-09-15 17:00:00,2601,2622,21
+121,Codeforces Beta Round 91 (Div. 1 Only),Petr,4,2011-10-27 17:00:00,2622,2628,6
+123,Codeforces Beta Round 92 (Div. 1 Only),Petr,6,2011-11-03 17:10:00,2628,2612,-16
+140,Codeforces Round 100,Petr,4,2012-01-04 17:00:00,2612,2652,40
+150,Codeforces Round 107 (Div. 1),Petr,2,2012-02-17 17:00:00,2652,2703,51
+173,Croc Champ 2012 - Round 1,Petr,4,2012-04-06 17:00:00,2703,2711,8
+193,Codeforces Round 122 (Div. 1),Petr,1,2012-06-03 17:30:00,2711,2762,51
+196,Codeforces Round 124 (Div. 1),Petr,5,2012-06-12 15:00:00,2762,2764,2
+198,Codeforces Round 125 (Div. 1),Petr,1,2012-06-22 17:30:00,2764,2837,73
+213,Codeforces Round 131 (Div. 1),Petr,2,2012-07-30 17:30:00,2837,2866,29
+217,Codeforces Round 134 (Div. 1),Petr,5,2012-08-18 09:05:00,2866,2850,-16
+223,Codeforces Round 138 (Div. 1),Petr,1,2012-09-16 17:30:00,2850,2912,62
+235,Codeforces Round 146 (Div. 1),Petr,4,2012-10-21 09:10:00,2912,2902,-10
+243,Codeforces Round 150 (Div. 1),Petr,18,2012-11-16 17:40:00,2902,2838,-64
+251,Codeforces Round 153 (Div. 1),Petr,12,2012-12-06 17:30:00,2838,2789,-49
+258,Codeforces Round 157 (Div. 1),Petr,6,2012-12-22 17:30:00,2789,2781,-8
+261,Codeforces Round 160 (Div. 1),Petr,13,2013-01-13 17:30:00,2781,2736,-45
+264,Codeforces Round 162 (Div. 1),Petr,1,2013-01-20 15:00:00,2736,2812,76
+269,Codeforces Round 165 (Div. 1),Petr,15,2013-02-01 17:30:00,2812,2766,-46
+274,Codeforces Round 168 (Div. 1),Petr,2,2013-02-20 17:30:00,2766,2802,36
+277,Codeforces Round 170 (Div. 1),Petr,3,2013-02-28 17:30:00,2802,2822,20
+280,Codeforces Round 172 (Div. 1),Petr,4,2013-03-10 17:30:00,2822,2828,6
+292,Croc Champ 2013 - Round 1,Petr,4,2013-04-15 17:35:00,2828,2848,20
+293,Croc Champ 2013 - Round 2,Petr,406,2013-04-22 17:45:00,2848,2744,-104
+303,Codeforces Round 183 (Div. 1),Petr,6,2013-05-12 15:00:00,2744,2746,2
+316,ABBYY Cup 3.0,Petr,7,2013-06-12 17:00:00,2746,2756,10
+319,Codeforces Round 189 (Div. 1),Petr,86,2013-06-23 15:10:00,2756,2654,-102
+325,MemSQL start[c]up Round 1,Petr,2,2013-07-13 19:00:00,2654,2718,64
+324,ABBYY Cup 3.0 - Finals,Petr,5,2013-07-17 08:40:00,2718,2700,-18
+329,Codeforces Round 192 (Div. 1),Petr,4,2013-07-20 15:30:00,2700,2725,25
+326,MemSQL start[c]up Round 2,Petr,1,2013-08-03 20:00:00,2725,2753,28
+343,Codeforces Round 200 (Div. 1),Petr,7,2013-09-14 17:40:00,2753,2755,2
+346,Codeforces Round 201 (Div. 1),Petr,11,2013-09-20 17:30:00,2755,2729,-26
+351,Codeforces Round 204 (Div. 1),Petr,112,2013-10-04 17:30:00,2729,2622,-107
+364,Codeforces Round 213 (Div. 1),Petr,10,2013-11-19 17:35:00,2622,2630,8
+367,Codeforces Round 215 (Div. 1),Petr,3,2013-11-26 17:30:00,2630,2676,46
+372,Codeforces Round 219 (Div. 1),Petr,66,2013-12-13 16:00:00,2676,2596,-80
+377,Codeforces Round 222 (Div. 1),Petr,1,2013-12-29 17:30:00,2596,2694,98
+379,Good Bye 2013,Petr,17,2013-12-30 17:30:00,2694,2664,-30
+380,Codeforces Round 223 (Div. 1),Petr,1,2014-01-12 17:30:00,2664,2753,89
+388,Codeforces Round 228 (Div. 1),Petr,6,2014-02-03 17:45:00,2753,2764,11
+403,Codeforces Round 236 (Div. 1),Petr,41,2014-03-16 17:30:00,2764,2687,-77
+407,Codeforces Round 239 (Div. 1),Petr,4,2014-03-30 09:00:00,2687,2717,30
+425,Codeforces Round 243 (Div. 1),Petr,5,2014-04-27 17:30:00,2717,2734,17
+438,Codeforces Round 250 (Div. 1),Petr,2,2014-06-01 15:00:00,2734,2787,53
+436,Zepto Code Rush 2014,Petr,40,2014-06-13 18:00:00,2787,2720,-67
+446,Codeforces Round #FF (Div. 1),Petr,18,2014-07-13 15:00:00,2720,2685,-35
+452,MemSQL Start[c]UP 2.0 - Round 1,Petr,18,2014-07-27 19:30:00,2685,2685,0
+453,Codeforces Round 259 (Div. 1),Petr,1,2014-08-01 17:30:00,2685,2770,85
+458,MemSQL Start[c]UP 2.0 - Round 2 - Online Round,Petr,6,2014-08-10 20:00:00,2770,2786,16
+464,Codeforces Round 265 (Div. 1),Petr,2,2014-09-07 17:30:00,2786,2837,51
+472,Codeforces Round 270,Petr,1,2014-09-28 18:05:00,2837,2890,53
+477,Codeforces Round 272 (Div. 1),Petr,1,2014-10-12 16:00:00,2890,2950,60
+482,Codeforces Round 275 (Div. 1),Petr,2,2014-10-24 19:10:00,2950,2973,23
+497,Codeforces Round 283 (Div. 1),Petr,2,2014-12-17 18:30:00,2973,2996,23
+500,Good Bye 2014,Petr,2,2014-12-30 17:30:00,2996,3002,6
+506,Codeforces Round 286 (Div. 1),Petr,100,2015-01-18 15:00:00,3002,2893,-109
+512,Codeforces Round 290 (Div. 1),Petr,1,2015-02-02 18:35:00,2893,2965,72
+513,Rockethon 2015,Petr,3,2015-02-07 20:15:00,2965,2973,8
+521,Codeforces Round 295 (Div. 1),Petr,1,2015-03-02 09:05:00,2973,3045,72
+526,ZeptoLab Code Rush 2015,Petr,16,2015-04-04 19:05:00,3045,2990,-55
+536,Codeforces Round 299 (Div. 1),Petr,6,2015-04-14 18:35:00,2990,2973,-17
+538,Codeforces Round 300,Petr,3,2015-04-26 18:30:00,2973,2987,14
+543,Codeforces Round 302 (Div. 1),Petr,1,2015-05-07 18:30:00,2987,3067,80
+549,Looksery Cup 2015,Petr,3,2015-06-06 15:30:00,3067,3077,10
+555,Codeforces Round 310 (Div. 1),Petr,2,2015-06-27 16:10:00,3077,3109,32
+566,"VK Cup 2015 - Finals, online mirror",Petr,4,2015-07-30 19:20:00,3109,3103,-6
+568,Codeforces Round 315 (Div. 1),Petr,2,2015-08-10 18:30:00,3103,3127,24
+571,Codeforces Round 317 [AimFund Thanks-Round] (Div. 1),Petr,38,2015-08-22 18:30:00,3127,3029,-98
+573,Codeforces Round 318 [RussianCodeCup Thanks-Round] (Div. 1),Petr,9,2015-08-29 18:40:00,3029,3003,-26
+603,Codeforces Round 334 (Div. 1),Petr,16,2015-12-01 17:35:00,3003,2960,-43
+611,Good Bye 2015,Petr,2,2015-12-30 18:05:00,2960,3070,110
+613,Codeforces Round 339 (Div. 1),Petr,3,2016-01-14 18:35:00,3070,3107,37
+618,Wunder Fund Round 2016 (Div. 1 + Div. 2 combined),Petr,2,2016-01-29 19:10:00,3107,3166,59
+626,8VC Venture Cup 2016 - Elimination Round,Petr,1,2016-02-13 20:05:00,3166,3292,126
+627,8VC Venture Cup 2016 - Final Round,Petr,12,2016-02-28 20:10:00,3292,3212,-80
+645,CROC 2016 - Elimination Round,Petr,1,2016-03-18 18:35:00,3212,3342,130
+668,"Codeforces Round 348 (VK Cup 2016 Round 2, Div. 1 Edition)",Petr,3,2016-04-24 18:35:00,3342,3325,-17
+666,Codeforces Round 349 (Div. 1),Petr,1,2016-04-29 18:35:00,3325,3392,67
+679,Codeforces Round 356 (Div. 1),Petr,1,2016-06-08 18:35:00,3392,3465,73
+685,Codeforces Round 359 (Div. 1),Petr,1,2016-06-23 18:35:00,3465,3524,59
+698,Codeforces Round 363 (Div. 1),Petr,1,2016-07-19 15:20:00,3524,3597,73
+700,Codeforces Round 364 (Div. 1),Petr,3,2016-07-22 18:35:00,3597,3481,-116
+739,Codeforces Round 381 (Div. 1),Petr,29,2016-11-23 18:35:00,3481,3277,-204
+744,Codeforces Round 385 (Div. 1),Petr,2,2016-12-17 18:35:00,3277,3335,58
+750,Good Bye 2016,Petr,1,2016-12-30 16:45:00,3335,3454,119
+755,8VC Venture Cup 2017 - Elimination Round,Petr,7,2017-01-15 19:05:00,3454,3400,-54
+781,"Codeforces Round 403 (Div. 1, based on Technocup 2017 Finals)",Petr,20,2017-03-05 15:05:00,3400,3266,-134
+790,"Codeforces Round 405 (rated, Div. 1, based on VK Cup 2017 Round 1)",Petr,25,2017-03-18 17:35:00,3266,3135,-131
+806,"Codeforces Round 412 (rated, Div. 1, based on VK Cup 2017 Round 3)",Petr,1,2017-05-07 18:45:00,3135,3257,122
+794,"Tinkoff Challenge - Final Round (Codeforces Round 414, rated, Div. 1 + Div. 2)",Petr,4,2017-05-13 11:35:00,3257,3265,8
+830,"Codeforces Round 424 (Div. 1, rated, based on VK Cup Finals)",Petr,3,2017-07-13 17:05:00,3265,3294,29
+833,Codeforces Round 426 (Div. 1),Petr,36,2017-07-30 16:35:00,3294,3146,-148
+840,Codeforces Round 429 (Div. 1),Petr,28,2017-08-18 17:05:00,3146,3048,-98
+859,MemSQL Start[c]UP 3.0 - Round 1,Petr,2,2017-09-16 20:05:00,3048,3163,115
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round 437 (Div. 1),Petr,2,2017-09-30 20:05:00,3163,3248,85
+868,Codeforces Round 438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),Petr,8,2017-10-05 10:05:00,3248,3192,-56
+875,"Codeforces Round 441 (Div. 1, by Moscow Team Olympiad)",Petr,5,2017-10-16 13:05:00,3192,3173,-19
+908,Good Bye 2017,Petr,1,2017-12-29 18:10:00,3173,3298,125
+936,Codeforces Round 467 (Div. 1),Petr,4,2018-02-25 18:05:00,3298,3293,-5
+930,"Codeforces Round 468 (Div. 1, based on Technocup 2018 Final Round)",Petr,2,2018-03-04 17:35:00,3293,3325,32
+966,"Codeforces Round 477 (rated, Div. 1, based on VK Cup 2018 Round 3)",Petr,2,2018-04-29 15:45:00,3325,3353,28
+995,"Codeforces Round 492 (Div. 1) [Thanks, uDebug!]",Petr,22,2018-06-24 18:35:00,3353,3220,-133
+997,Codeforces Round 493 (Div. 1),Petr,6,2018-07-01 16:05:00,3220,3223,3
+1010,Codeforces Round 499 (Div. 1),Petr,4,2018-07-26 17:05:00,3223,3233,10
+1039,"Codeforces Round 507 (Div. 1, based on Olympiad of Metropolises)",Petr,9,2018-09-05 18:35:00,3233,3161,-72
+1043,Codeforces Round 519 by Botan Investments,Petr,8,2018-10-28 17:35:00,3161,3176,15
+1044,Lyft Level 5 Challenge 2018 - Final Round,Petr,6,2018-11-04 20:10:00,3176,3140,-36
+1055,Mail.Ru Cup 2018 Round 2,Petr,9,2018-11-10 17:05:00,3140,3139,-1
+1091,Good Bye 2018,Petr,17,2018-12-30 17:15:00,3139,3132,-7
+1097,Hello 2019,Petr,5,2019-01-04 17:45:00,3132,3192,60
+1098,Codeforces Round 530 (Div. 1),Petr,2,2019-01-05 19:05:00,3192,3297,105
+1137,Codeforces Round 545 (Div. 1),Petr,2,2019-03-08 11:35:00,3297,3330,33
+1119,Codeforces Global Round 2,Petr,5,2019-04-06 13:35:00,3330,3341,11
+1149,Codeforces Round 556 (Div. 1),Petr,6,2019-04-29 16:35:00,3341,3321,-20
+1161,Codeforces Round 557 (Div. 1) [based on Forethought Future Cup - Final Round],Petr,2,2019-05-04 19:05:00,3321,3381,60
+1168,Codeforces Round 562 (Div. 1),Petr,70,2019-05-26 17:35:00,3381,3179,-202
+1148,Codeforces Global Round 3,Petr,3,2019-06-01 16:50:00,3179,3275,96
+1179,Codeforces Round 569 (Div. 1),Petr,48,2019-06-21 19:05:00,3275,3115,-160
+1198,Codeforces Round 576 (Div. 1),Petr,11,2019-07-30 16:35:00,3115,3106,-9
+1209,"Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",Petr,1,2019-09-14 15:35:00,3106,3293,187
+1229,Codeforces Round 588 (Div. 1),Petr,10,2019-09-23 16:35:00,3293,3254,-39
+1237,Codeforces Global Round 5,Petr,2,2019-10-16 17:05:00,3254,3354,100
+1246,"Codeforces Round 596 (Div. 1, based on Technocup 2020 Elimination Round 2)",Petr,157,2019-10-26 13:05:00,3354,3095,-259
+1266,Codeforces Global Round 6,Petr,13,2019-12-17 17:35:00,3095,3106,11
+1270,Good Bye 2019,Petr,7,2019-12-29 17:05:00,3106,3162,56
+1284,Hello 2020,Petr,26,2020-01-04 14:35:00,3162,3128,-34
+1310,VK Cup 2019-2020 - Elimination Round (Engine),Petr,9,2020-02-23 18:35:00,3128,3119,-9
+1305,"Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",Petr,33,2020-03-03 16:50:00,3119,3082,-37
+1322,"Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",Petr,40,2020-03-07 11:35:00,3082,3016,-66
+1329,"Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",Petr,3,2020-04-03 16:35:00,3016,3157,141
+1338,Codeforces Round 633 (Div. 1),Petr,8,2020-04-12 16:05:00,3157,3187,30
+1368,Codeforces Global Round 8,Petr,4,2020-06-18 17:15:00,3187,3272,85
+1375,Codeforces Global Round 9,Petr,70,2020-07-04 17:15:00,3272,3165,-107
+1381,Codeforces Round 658 (Div. 1),Petr,4,2020-07-21 16:35:00,3165,3232,67
+1383,Codeforces Round 659 (Div. 1),Petr,16,2020-07-24 16:35:00,3232,3205,-27
+1392,Codeforces Global Round 10,Petr,5,2020-08-16 17:35:00,3205,3262,57
+1396,Codeforces Round 666 (Div. 1),Petr,7,2020-08-30 16:35:00,3262,3293,31
+1408,Grakn Forces 2020,Petr,15,2020-09-30 17:20:00,3293,3268,-25
+1427,Codeforces Global Round 11,Petr,30,2020-10-10 17:50:00,3268,3217,-51
+1441,VK Cup 2019-2020 - Final Round (Engine),Petr,6,2020-11-01 16:05:00,3217,3201,-16
+1466,Good Bye 2020,Petr,18,2020-12-30 17:35:00,3201,3205,4
+1470,Codeforces Round 694 (Div. 1),Petr,2,2021-01-05 16:35:00,3205,3342,137
+1477,Codeforces Round 698 (Div. 1),Petr,15,2021-01-28 16:50:00,3342,3309,-33
+1479,Codeforces Round 700 (Div. 1),Petr,1,2021-02-07 16:50:00,3309,3470,161
+1491,Codeforces Global Round 13,Petr,3,2021-02-28 16:35:00,3470,3519,49
+1503,Codeforces Round 712 (Div. 1),Petr,5,2021-04-03 16:50:00,3519,3522,3
+1508,Codeforces Round 715 (Div. 1),Petr,12,2021-04-16 16:50:00,3522,3452,-70
+1528,Codeforces Round 722 (Div. 1),Petr,39,2021-05-24 16:50:00,3452,3329,-123
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",Petr,8,2021-05-30 16:50:00,3329,3370,41
+1545,Codeforces Round 732 (Div. 1),Petr,112,2021-07-11 16:35:00,3370,3190,-180
+1544,VK Cup 2021 - Elimination (Engine),Petr,2,2021-07-17 17:35:00,3190,3276,86
+1552,Codeforces Global Round 15,Petr,4,2021-07-25 17:20:00,3276,3380,104
+1548,Codeforces Round 736 (Div. 1),Petr,6,2021-08-01 17:00:00,3380,3414,34
+1563,VK Cup 2021 - Final (Engine),Petr,27,2021-08-22 14:35:00,3414,3229,-185
+1601,Codeforces Round 751 (Div. 1),Petr,24,2021-10-25 08:35:00,3229,3163,-66
+1603,Codeforces Round 752 (Div. 1),Petr,3,2021-10-30 16:35:00,3163,3315,152
+1610,Codeforces Global Round 17,Petr,3,2021-11-23 17:35:00,3315,3408,93
+1615,Codeforces Global Round 18,Petr,54,2021-12-24 17:05:00,3408,3288,-120
+1616,Good Bye 2021: 2022 is NEAR,Petr,7,2021-12-29 17:35:00,3288,3346,58
+1621,Hello 2022,Petr,28,2022-01-03 16:50:00,3346,3296,-50
+1628,Codeforces Round 767 (Div. 1),Petr,10,2022-01-22 16:35:00,3296,3318,22
+1637,Codeforces Global Round 19,Petr,12,2022-02-12 17:05:00,3318,3325,7
+1667,Codeforces Round 783 (Div. 1),Petr,11,2022-04-19 16:35:00,3325,3333,8
+1672,Codeforces Global Round 20,Petr,14,2022-04-23 17:05:00,3333,3335,2
+1685,Codeforces Round 794 (Div. 1),Petr,9,2022-05-25 19:50:00,3335,3338,3
+1687,Codeforces Round 796 (Div. 1),Petr,278,2022-06-03 16:35:00,3338,3083,-255
+1693,Codeforces Round 800 (Div. 1),Petr,2,2022-06-16 16:35:00,3083,3281,198
+1696,Codeforces Global Round 21,Petr,4,2022-06-25 16:50:00,3281,3381,100
+1707,Codeforces Round 808 (Div. 1),Petr,18,2022-07-16 16:35:00,3381,3331,-50
+1718,Codeforces Round 814 (Div. 1),Petr,3,2022-08-16 16:35:00,3331,3426,95
+1738,Codeforces Global Round 22,Petr,73,2022-09-30 17:05:00,3426,3271,-155
+1781,VK Cup 2022 - Отборочный раунд (Engine),Petr,2,2023-01-15 15:05:00,3271,3315,44
+1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),Petr,17,2023-02-27 17:35:00,3315,3287,-28
+1804,Nebius Welcome Round (Div. 1 + Div. 2),Petr,8,2023-03-12 16:35:00,3287,3331,44
+1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",Petr,7,2023-03-31 16:35:00,3331,3381,50
+1824,Codeforces Round 872 (Div. 1),Petr,33,2023-05-08 14:05:00,3381,3279,-102
+1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",Petr,81,2023-06-24 17:05:00,3279,3158,-121
+1854,Codeforces Round 889 (Div. 1),Petr,42,2023-07-29 17:05:00,3158,3113,-45
+1863,Pinely Round 2 (Div. 1 + Div. 2),Petr,7,2023-08-30 17:35:00,3113,3203,90
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",Petr,56,2023-09-18 16:50:00,3203,3134,-69
+1889,Codeforces Round 906 (Div. 1),Petr,2,2023-10-28 17:05:00,3134,3333,199
+1893,Codeforces Round 908 (Div. 1),Petr,25,2023-11-07 16:35:00,3333,3281,-52
+1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",Petr,11,2023-11-25 17:20:00,3281,3296,15
+1909,Pinely Round 3 (Div. 1 + Div. 2),Petr,36,2023-12-23 17:35:00,3296,3227,-69
+1919,Hello 2024,Petr,36,2024-01-06 17:05:00,3227,3192,-35
+1924,Codeforces Round 921 (Div. 1),Petr,8,2024-01-27 16:45:00,3192,3261,69
+1930,think-cell Round 1,Petr,9,2024-02-17 17:35:00,3261,3293,32
+1951,Codeforces Global Round 25,Petr,12,2024-04-06 17:35:00,3293,3312,19
+1965,Codeforces Round 941 (Div. 1),Petr,12,2024-04-27 16:35:00,3312,3298,-14
+1984,Codeforces Global Round 26,Petr,12,2024-06-09 17:35:00,3298,3322,24
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),Petr,20,2024-06-30 17:35:00,3322,3284,-38
+1991,Pinely Round 4 (Div. 1 + Div. 2),Petr,20,2024-07-28 17:35:00,3284,3266,-18
+2018,Codeforces Round 975 (Div. 1),Petr,109,2024-09-27 16:05:00,3266,3127,-139
+2029,Refact.ai Match 1 (Codeforces Round 985),Petr,35,2024-11-09 17:35:00,3127,3096,-31
+2048,Codeforces Global Round 28,Petr,72,2024-12-19 17:35:00,3096,3036,-60
+2053,Good Bye 2024: 2025 is NEAR,Petr,6,2024-12-28 17:35:00,3036,3167,131
+2057,Hello 2025,Petr,30,2025-01-04 17:05:00,3167,3160,-7
+2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",Petr,13,2025-01-20 17:35:00,3160,3207,47
+2077,Codeforces Round 1008 (Div. 1),Petr,35,2025-03-10 17:15:00,3207,3161,-46
+2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",Petr,64,2025-04-05 17:35:00,3161,3093,-68

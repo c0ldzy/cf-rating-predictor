@@ -1,0 +1,1325 @@
+[
+  {
+    "contestId": 1225,
+    "contestName": "Technocup 2020 - Elimination Round 2",
+    "handle": "Ormlis",
+    "rank": 185,
+    "ratingUpdateTimeSeconds": 1572095100,
+    "oldRating": 0,
+    "newRating": 1599
+  },
+  {
+    "contestId": 1262,
+    "contestName": "Codeforces Round 602 (Div. 2, based on Technocup 2020 Elimination Round 3)",
+    "handle": "Ormlis",
+    "rank": 443,
+    "ratingUpdateTimeSeconds": 1574589900,
+    "oldRating": 1599,
+    "newRating": 1647
+  },
+  {
+    "contestId": 1260,
+    "contestName": "Educational Codeforces Round 77 (Rated for Div. 2)",
+    "handle": "Ormlis",
+    "rank": 1406,
+    "ratingUpdateTimeSeconds": 1574869800,
+    "oldRating": 1647,
+    "newRating": 1646
+  },
+  {
+    "contestId": 1263,
+    "contestName": "Codeforces Round 603 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 286,
+    "ratingUpdateTimeSeconds": 1575045300,
+    "oldRating": 1646,
+    "newRating": 1763
+  },
+  {
+    "contestId": 1265,
+    "contestName": "Codeforces Round 604 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 969,
+    "ratingUpdateTimeSeconds": 1575563700,
+    "oldRating": 1763,
+    "newRating": 1745
+  },
+  {
+    "contestId": 1266,
+    "contestName": "Codeforces Global Round 6",
+    "handle": "Ormlis",
+    "rank": 525,
+    "ratingUpdateTimeSeconds": 1576604100,
+    "oldRating": 1745,
+    "newRating": 1846
+  },
+  {
+    "contestId": 1278,
+    "contestName": "Educational Codeforces Round 78 (Rated for Div. 2)",
+    "handle": "Ormlis",
+    "rank": 1081,
+    "ratingUpdateTimeSeconds": 1576773300,
+    "oldRating": 1846,
+    "newRating": 1817
+  },
+  {
+    "contestId": 1269,
+    "contestName": "Codeforces Round 609 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 730,
+    "ratingUpdateTimeSeconds": 1576933500,
+    "oldRating": 1817,
+    "newRating": 1800
+  },
+  {
+    "contestId": 1282,
+    "contestName": "Codeforces Round 610 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 111,
+    "ratingUpdateTimeSeconds": 1577205300,
+    "oldRating": 1800,
+    "newRating": 1923
+  },
+  {
+    "contestId": 1279,
+    "contestName": "Educational Codeforces Round 79 (Rated for Div. 2)",
+    "handle": "Ormlis",
+    "rank": 142,
+    "ratingUpdateTimeSeconds": 1577464800,
+    "oldRating": 1923,
+    "newRating": 1997
+  },
+  {
+    "contestId": 1270,
+    "contestName": "Good Bye 2019",
+    "handle": "Ormlis",
+    "rank": 630,
+    "ratingUpdateTimeSeconds": 1577639100,
+    "oldRating": 1997,
+    "newRating": 2035
+  },
+  {
+    "contestId": 1284,
+    "contestName": "Hello 2020",
+    "handle": "Ormlis",
+    "rank": 869,
+    "ratingUpdateTimeSeconds": 1578148500,
+    "oldRating": 2035,
+    "newRating": 2041
+  },
+  {
+    "contestId": 1286,
+    "contestName": "Codeforces Round 612 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 756,
+    "ratingUpdateTimeSeconds": 1578240300,
+    "oldRating": 2041,
+    "newRating": 1948
+  },
+  {
+    "contestId": 1285,
+    "contestName": "Codeforces Round 613 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 2555,
+    "ratingUpdateTimeSeconds": 1578673200,
+    "oldRating": 1948,
+    "newRating": 1844
+  },
+  {
+    "contestId": 1288,
+    "contestName": "Educational Codeforces Round 80 (Rated for Div. 2)",
+    "handle": "Ormlis",
+    "rank": 123,
+    "ratingUpdateTimeSeconds": 1579019700,
+    "oldRating": 1844,
+    "newRating": 1946
+  },
+  {
+    "contestId": 1295,
+    "contestName": "Educational Codeforces Round 81 (Rated for Div. 2)",
+    "handle": "Ormlis",
+    "rank": 1600,
+    "ratingUpdateTimeSeconds": 1580315700,
+    "oldRating": 1946,
+    "newRating": 1886
+  },
+  {
+    "contestId": 1300,
+    "contestName": "Codeforces Round 618 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1581264300,
+    "oldRating": 1886,
+    "newRating": 2041
+  },
+  {
+    "contestId": 1303,
+    "contestName": "Educational Codeforces Round 82 (Rated for Div. 2)",
+    "handle": "Ormlis",
+    "rank": 246,
+    "ratingUpdateTimeSeconds": 1581525300,
+    "oldRating": 2041,
+    "newRating": 2071
+  },
+  {
+    "contestId": 1301,
+    "contestName": "Codeforces Round 619 (Div. 2)",
+    "handle": "Ormlis",
+    "rank": 105,
+    "ratingUpdateTimeSeconds": 1581611700,
+    "oldRating": 2071,
+    "newRating": 2132
+  },
+  {
+    "contestId": 1314,
+    "contestName": "Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",
+    "handle": "Ormlis",
+    "rank": 438,
+    "ratingUpdateTimeSeconds": 1582482900,
+    "oldRating": 2132,
+    "newRating": 2060
+  },
+  {
+    "contestId": 1319,
+    "contestName": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2020 - \u0424\u0438\u043d\u0430\u043b",
+    "handle": "Ormlis",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1583068200,
+    "oldRating": 2060,
+    "newRating": 2173
+  },
+  {
+    "contestId": 1322,
+    "contestName": "Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "Ormlis",
+    "rank": 553,
+    "ratingUpdateTimeSeconds": 1583580900,
+    "oldRating": 2173,
+    "newRating": 2107
+  },
+  {
+    "contestId": 1326,
+    "contestName": "Codeforces Global Round 7",
+    "handle": "Ormlis",
+    "rank": 478,
+    "ratingUpdateTimeSeconds": 1584637500,
+    "oldRating": 2107,
+    "newRating": 2153
+  },
+  {
+    "contestId": 1329,
+    "contestName": "Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",
+    "handle": "Ormlis",
+    "rank": 629,
+    "ratingUpdateTimeSeconds": 1585931700,
+    "oldRating": 2153,
+    "newRating": 2142
+  },
+  {
+    "contestId": 1338,
+    "contestName": "Codeforces Round 633 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 248,
+    "ratingUpdateTimeSeconds": 1586707500,
+    "oldRating": 2142,
+    "newRating": 2215
+  },
+  {
+    "contestId": 1336,
+    "contestName": "Codeforces Round 635 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 857,
+    "ratingUpdateTimeSeconds": 1586970300,
+    "oldRating": 2215,
+    "newRating": 2158
+  },
+  {
+    "contestId": 1381,
+    "contestName": "Codeforces Round 658 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 115,
+    "ratingUpdateTimeSeconds": 1595349300,
+    "oldRating": 2158,
+    "newRating": 2284
+  },
+  {
+    "contestId": 1383,
+    "contestName": "Codeforces Round 659 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 440,
+    "ratingUpdateTimeSeconds": 1595608500,
+    "oldRating": 2284,
+    "newRating": 2268
+  },
+  {
+    "contestId": 1404,
+    "contestName": "Codeforces Round 668 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 242,
+    "ratingUpdateTimeSeconds": 1599410100,
+    "oldRating": 2268,
+    "newRating": 2302
+  },
+  {
+    "contestId": 1416,
+    "contestName": "Codeforces Round 673 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 165,
+    "ratingUpdateTimeSeconds": 1601226300,
+    "oldRating": 2302,
+    "newRating": 2350
+  },
+  {
+    "contestId": 1408,
+    "contestName": "Grakn Forces 2020",
+    "handle": "Ormlis",
+    "rank": 249,
+    "ratingUpdateTimeSeconds": 1601486400,
+    "oldRating": 2350,
+    "newRating": 2377
+  },
+  {
+    "contestId": 1427,
+    "contestName": "Codeforces Global Round 11",
+    "handle": "Ormlis",
+    "rank": 143,
+    "ratingUpdateTimeSeconds": 1602352200,
+    "oldRating": 2377,
+    "newRating": 2445
+  },
+  {
+    "contestId": 1428,
+    "contestName": "Codeforces Raif Round 1 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 469,
+    "ratingUpdateTimeSeconds": 1602948900,
+    "oldRating": 2445,
+    "newRating": 2405
+  },
+  {
+    "contestId": 1413,
+    "contestName": "Technocup 2021 - Elimination Round 1",
+    "handle": "Ormlis",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1603631100,
+    "oldRating": 2405,
+    "newRating": 2494
+  },
+  {
+    "contestId": 1442,
+    "contestName": "Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",
+    "handle": "Ormlis",
+    "rank": 77,
+    "ratingUpdateTimeSeconds": 1604334900,
+    "oldRating": 2494,
+    "newRating": 2542
+  },
+  {
+    "contestId": 1446,
+    "contestName": "Codeforces Round 683 (Div. 1, by Meet IT)",
+    "handle": "Ormlis",
+    "rank": 116,
+    "ratingUpdateTimeSeconds": 1605459900,
+    "oldRating": 2542,
+    "newRating": 2557
+  },
+  {
+    "contestId": 1439,
+    "contestName": "Codeforces Round 684 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 189,
+    "ratingUpdateTimeSeconds": 1605631800,
+    "oldRating": 2557,
+    "newRating": 2532
+  },
+  {
+    "contestId": 1456,
+    "contestName": "Codeforces Round 687 (Div. 1, based on Technocup 2021 Elimination Round 2)",
+    "handle": "Ormlis",
+    "rank": 303,
+    "ratingUpdateTimeSeconds": 1606640700,
+    "oldRating": 2532,
+    "newRating": 2468
+  },
+  {
+    "contestId": 1450,
+    "contestName": "Codeforces Global Round 12",
+    "handle": "Ormlis",
+    "rank": 183,
+    "ratingUpdateTimeSeconds": 1607276100,
+    "oldRating": 2468,
+    "newRating": 2489
+  },
+  {
+    "contestId": 1458,
+    "contestName": "Codeforces Round 691 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 81,
+    "ratingUpdateTimeSeconds": 1608377700,
+    "oldRating": 2489,
+    "newRating": 2535
+  },
+  {
+    "contestId": 1464,
+    "contestName": "Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",
+    "handle": "Ormlis",
+    "rank": 534,
+    "ratingUpdateTimeSeconds": 1608483900,
+    "oldRating": 2535,
+    "newRating": 2415
+  },
+  {
+    "contestId": 1466,
+    "contestName": "Good Bye 2020",
+    "handle": "Ormlis",
+    "rank": 146,
+    "ratingUpdateTimeSeconds": 1609349700,
+    "oldRating": 2415,
+    "newRating": 2481
+  },
+  {
+    "contestId": 1477,
+    "contestName": "Codeforces Round 698 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 202,
+    "ratingUpdateTimeSeconds": 1611852600,
+    "oldRating": 2481,
+    "newRating": 2463
+  },
+  {
+    "contestId": 1479,
+    "contestName": "Codeforces Round 700 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1612716600,
+    "oldRating": 2463,
+    "newRating": 2648
+  },
+  {
+    "contestId": 1491,
+    "contestName": "Codeforces Global Round 13",
+    "handle": "Ormlis",
+    "rank": 363,
+    "ratingUpdateTimeSeconds": 1614530100,
+    "oldRating": 2648,
+    "newRating": 2589
+  },
+  {
+    "contestId": 1482,
+    "contestName": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2021 - \u0424\u0438\u043d\u0430\u043b",
+    "handle": "Ormlis",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1616332800,
+    "oldRating": 2589,
+    "newRating": 2745
+  },
+  {
+    "contestId": 1503,
+    "contestName": "Codeforces Round 712 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 74,
+    "ratingUpdateTimeSeconds": 1617468600,
+    "oldRating": 2745,
+    "newRating": 2750
+  },
+  {
+    "contestId": 1508,
+    "contestName": "Codeforces Round 715 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 134,
+    "ratingUpdateTimeSeconds": 1618591800,
+    "oldRating": 2750,
+    "newRating": 2699
+  },
+  {
+    "contestId": 1517,
+    "contestName": "Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 197,
+    "ratingUpdateTimeSeconds": 1619198400,
+    "oldRating": 2699,
+    "newRating": 2662
+  },
+  {
+    "contestId": 1515,
+    "contestName": "Codeforces Global Round 14",
+    "handle": "Ormlis",
+    "rank": 26,
+    "ratingUpdateTimeSeconds": 1619976900,
+    "oldRating": 2662,
+    "newRating": 2773
+  },
+  {
+    "contestId": 1528,
+    "contestName": "Codeforces Round 722 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 63,
+    "ratingUpdateTimeSeconds": 1621875000,
+    "oldRating": 2773,
+    "newRating": 2787
+  },
+  {
+    "contestId": 1523,
+    "contestName": "Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 30,
+    "ratingUpdateTimeSeconds": 1622393400,
+    "oldRating": 2787,
+    "newRating": 2870
+  },
+  {
+    "contestId": 1534,
+    "contestName": "Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 295,
+    "ratingUpdateTimeSeconds": 1623609300,
+    "oldRating": 2870,
+    "newRating": 2749
+  },
+  {
+    "contestId": 1540,
+    "contestName": "Codeforces Round 728 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 188,
+    "ratingUpdateTimeSeconds": 1624643400,
+    "oldRating": 2749,
+    "newRating": 2664
+  },
+  {
+    "contestId": 1545,
+    "contestName": "Codeforces Round 732 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 37,
+    "ratingUpdateTimeSeconds": 1626021300,
+    "oldRating": 2664,
+    "newRating": 2743
+  },
+  {
+    "contestId": 1544,
+    "contestName": "VK Cup 2021 - Elimination (Engine)",
+    "handle": "Ormlis",
+    "rank": 41,
+    "ratingUpdateTimeSeconds": 1626543300,
+    "oldRating": 2743,
+    "newRating": 2709
+  },
+  {
+    "contestId": 1553,
+    "contestName": "Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1626973500,
+    "oldRating": 2709,
+    "newRating": 2801
+  },
+  {
+    "contestId": 1552,
+    "contestName": "Codeforces Global Round 15",
+    "handle": "Ormlis",
+    "rank": 71,
+    "ratingUpdateTimeSeconds": 1627233600,
+    "oldRating": 2801,
+    "newRating": 2815
+  },
+  {
+    "contestId": 1548,
+    "contestName": "Codeforces Round 736 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 37,
+    "ratingUpdateTimeSeconds": 1627837200,
+    "oldRating": 2815,
+    "newRating": 2868
+  },
+  {
+    "contestId": 1558,
+    "contestName": "Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",
+    "handle": "Ormlis",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1629824700,
+    "oldRating": 2868,
+    "newRating": 3005
+  },
+  {
+    "contestId": 1556,
+    "contestName": "Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 166,
+    "ratingUpdateTimeSeconds": 1630256700,
+    "oldRating": 3005,
+    "newRating": 2905
+  },
+  {
+    "contestId": 1566,
+    "contestName": "Codeforces Global Round 16",
+    "handle": "Ormlis",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1631466300,
+    "oldRating": 2905,
+    "newRating": 2993
+  },
+  {
+    "contestId": 1580,
+    "contestName": "Codeforces Round 745 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 30,
+    "ratingUpdateTimeSeconds": 1633004100,
+    "oldRating": 2993,
+    "newRating": 2980
+  },
+  {
+    "contestId": 1583,
+    "contestName": "Technocup 2022 - Elimination Round 1",
+    "handle": "Ormlis",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1634476800,
+    "oldRating": 2980,
+    "newRating": 3051
+  },
+  {
+    "contestId": 1601,
+    "contestName": "Codeforces Round 751 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1635150900,
+    "oldRating": 3051,
+    "newRating": 3115
+  },
+  {
+    "contestId": 1588,
+    "contestName": "Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1636878000,
+    "oldRating": 3115,
+    "newRating": 3109
+  },
+  {
+    "contestId": 1610,
+    "contestName": "Codeforces Global Round 17",
+    "handle": "Ormlis",
+    "rank": 31,
+    "ratingUpdateTimeSeconds": 1637688900,
+    "oldRating": 3109,
+    "newRating": 3096
+  },
+  {
+    "contestId": 1609,
+    "contestName": "Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 248,
+    "ratingUpdateTimeSeconds": 1638119100,
+    "oldRating": 3096,
+    "newRating": 2937
+  },
+  {
+    "contestId": 1615,
+    "contestName": "Codeforces Global Round 18",
+    "handle": "Ormlis",
+    "rank": 52,
+    "ratingUpdateTimeSeconds": 1640365500,
+    "oldRating": 2937,
+    "newRating": 2936
+  },
+  {
+    "contestId": 1616,
+    "contestName": "Good Bye 2021: 2022 is NEAR",
+    "handle": "Ormlis",
+    "rank": 92,
+    "ratingUpdateTimeSeconds": 1640799300,
+    "oldRating": 2936,
+    "newRating": 2906
+  },
+  {
+    "contestId": 1621,
+    "contestName": "Hello 2022",
+    "handle": "Ormlis",
+    "rank": 39,
+    "ratingUpdateTimeSeconds": 1641228600,
+    "oldRating": 2906,
+    "newRating": 2943
+  },
+  {
+    "contestId": 1628,
+    "contestName": "Codeforces Round 767 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1642869300,
+    "oldRating": 2943,
+    "newRating": 2962
+  },
+  {
+    "contestId": 1630,
+    "contestName": "Codeforces Round 768 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 78,
+    "ratingUpdateTimeSeconds": 1643301300,
+    "oldRating": 2962,
+    "newRating": 2911
+  },
+  {
+    "contestId": 1641,
+    "contestName": "Codeforces Round 773 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 317,
+    "ratingUpdateTimeSeconds": 1645618200,
+    "oldRating": 2911,
+    "newRating": 2765
+  },
+  {
+    "contestId": 1652,
+    "contestName": "\u0422\u0435\u0445\u043d\u043e\u043a\u0443\u0431\u043e\u043a 2022 - \u0424\u0438\u043d\u0430\u043b",
+    "handle": "Ormlis",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1647774900,
+    "oldRating": 2765,
+    "newRating": 2794
+  },
+  {
+    "contestId": 1656,
+    "contestName": "CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 208,
+    "ratingUpdateTimeSeconds": 1648139700,
+    "oldRating": 2794,
+    "newRating": 2731
+  },
+  {
+    "contestId": 1672,
+    "contestName": "Codeforces Global Round 20",
+    "handle": "Ormlis",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1650733500,
+    "oldRating": 2731,
+    "newRating": 2848
+  },
+  {
+    "contestId": 1677,
+    "contestName": "Codeforces Round 789 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1652027700,
+    "oldRating": 2848,
+    "newRating": 2973
+  },
+  {
+    "contestId": 1684,
+    "contestName": "Codeforces Round 792 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1652978100,
+    "oldRating": 2973,
+    "newRating": 3088
+  },
+  {
+    "contestId": 1685,
+    "contestName": "Codeforces Round 794 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1653508200,
+    "oldRating": 3088,
+    "newRating": 3098
+  },
+  {
+    "contestId": 1687,
+    "contestName": "Codeforces Round 796 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1654274100,
+    "oldRating": 3098,
+    "newRating": 3183
+  },
+  {
+    "contestId": 1693,
+    "contestName": "Codeforces Round 800 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1655397300,
+    "oldRating": 3183,
+    "newRating": 3205
+  },
+  {
+    "contestId": 1696,
+    "contestName": "Codeforces Global Round 21",
+    "handle": "Ormlis",
+    "rank": 32,
+    "ratingUpdateTimeSeconds": 1656175800,
+    "oldRating": 3205,
+    "newRating": 3179
+  },
+  {
+    "contestId": 1707,
+    "contestName": "Codeforces Round 808 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1657989300,
+    "oldRating": 3179,
+    "newRating": 3243
+  },
+  {
+    "contestId": 1704,
+    "contestName": "CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 84,
+    "ratingUpdateTimeSeconds": 1659285300,
+    "oldRating": 3243,
+    "newRating": 3127
+  },
+  {
+    "contestId": 1718,
+    "contestName": "Codeforces Round 814 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1660667700,
+    "oldRating": 3127,
+    "newRating": 3147
+  },
+  {
+    "contestId": 1738,
+    "contestName": "Codeforces Global Round 22",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1664557500,
+    "oldRating": 3147,
+    "newRating": 3175
+  },
+  {
+    "contestId": 1737,
+    "contestName": "Dytechlab Cup 2022",
+    "handle": "Ormlis",
+    "rank": 32,
+    "ratingUpdateTimeSeconds": 1665162300,
+    "oldRating": 3175,
+    "newRating": 3141
+  },
+  {
+    "contestId": 1746,
+    "contestName": "Codeforces Global Round 23",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1665852600,
+    "oldRating": 3141,
+    "newRating": 3181
+  },
+  {
+    "contestId": 1750,
+    "contestName": "CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1667754300,
+    "oldRating": 3181,
+    "newRating": 3178
+  },
+  {
+    "contestId": 1764,
+    "contestName": "Codeforces Global Round 24",
+    "handle": "Ormlis",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1669480500,
+    "oldRating": 3178,
+    "newRating": 3217
+  },
+  {
+    "contestId": 1774,
+    "contestName": "Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 33,
+    "ratingUpdateTimeSeconds": 1671296700,
+    "oldRating": 3217,
+    "newRating": 3160
+  },
+  {
+    "contestId": 1770,
+    "contestName": "Good Bye 2022: 2023 is NEAR",
+    "handle": "Ormlis",
+    "rank": 54,
+    "ratingUpdateTimeSeconds": 1672419900,
+    "oldRating": 3160,
+    "newRating": 3116
+  },
+  {
+    "contestId": 1779,
+    "contestName": "Hello 2023",
+    "handle": "Ormlis",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1672765500,
+    "oldRating": 3116,
+    "newRating": 3152
+  },
+  {
+    "contestId": 1781,
+    "contestName": "VK Cup 2022 - \u041e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+    "handle": "Ormlis",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1673795100,
+    "oldRating": 3152,
+    "newRating": 3097
+  },
+  {
+    "contestId": 1787,
+    "contestName": "TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1675013700,
+    "oldRating": 3097,
+    "newRating": 3134
+  },
+  {
+    "contestId": 1784,
+    "contestName": "VK Cup 2022 - \u0424\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434 (Engine)",
+    "handle": "Ormlis",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1675609500,
+    "oldRating": 3134,
+    "newRating": 3191
+  },
+  {
+    "contestId": 1799,
+    "contestName": "Codeforces Round 854 by cybercats (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1677519300,
+    "oldRating": 3191,
+    "newRating": 3346
+  },
+  {
+    "contestId": 1804,
+    "contestName": "Nebius Welcome Round (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1678638900,
+    "oldRating": 3346,
+    "newRating": 3410
+  },
+  {
+    "contestId": 1810,
+    "contestName": "CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1680280500,
+    "oldRating": 3410,
+    "newRating": 3392
+  },
+  {
+    "contestId": 1815,
+    "contestName": "Codeforces Round 865 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 50,
+    "ratingUpdateTimeSeconds": 1681059600,
+    "oldRating": 3392,
+    "newRating": 3252
+  },
+  {
+    "contestId": 1817,
+    "contestName": "Codeforces Round 869 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 100,
+    "ratingUpdateTimeSeconds": 1682787000,
+    "oldRating": 3252,
+    "newRating": 3103
+  },
+  {
+    "contestId": 1824,
+    "contestName": "Codeforces Round 872 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1683554700,
+    "oldRating": 3103,
+    "newRating": 3101
+  },
+  {
+    "contestId": 1827,
+    "contestName": "Codeforces Round 873 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1684082100,
+    "oldRating": 3101,
+    "newRating": 3182
+  },
+  {
+    "contestId": 1830,
+    "contestName": "Codeforces Round 875 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1685293500,
+    "oldRating": 3182,
+    "newRating": 3396
+  },
+  {
+    "contestId": 1835,
+    "contestName": "Codeforces Round 880 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 34,
+    "ratingUpdateTimeSeconds": 1687106100,
+    "oldRating": 3396,
+    "newRating": 3299
+  },
+  {
+    "contestId": 1844,
+    "contestName": "Codeforces Round 884 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1689096900,
+    "oldRating": 3299,
+    "newRating": 3273
+  },
+  {
+    "contestId": 1852,
+    "contestName": "Codeforces Round 887 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 71,
+    "ratingUpdateTimeSeconds": 1690131900,
+    "oldRating": 3273,
+    "newRating": 3147
+  },
+  {
+    "contestId": 1854,
+    "contestName": "Codeforces Round 889 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1690650300,
+    "oldRating": 3147,
+    "newRating": 3174
+  },
+  {
+    "contestId": 1864,
+    "contestName": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1693071300,
+    "oldRating": 3174,
+    "newRating": 3200
+  },
+  {
+    "contestId": 1863,
+    "contestName": "Pinely Round 2 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1693416900,
+    "oldRating": 3200,
+    "newRating": 3294
+  },
+  {
+    "contestId": 1868,
+    "contestName": "Codeforces Round 896 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 30,
+    "ratingUpdateTimeSeconds": 1694363700,
+    "oldRating": 3294,
+    "newRating": 3223
+  },
+  {
+    "contestId": 1870,
+    "contestName": "CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1695055800,
+    "oldRating": 3223,
+    "newRating": 3261
+  },
+  {
+    "contestId": 1874,
+    "contestName": "Codeforces Round 901 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 106,
+    "ratingUpdateTimeSeconds": 1696095300,
+    "oldRating": 3261,
+    "newRating": 3115
+  },
+  {
+    "contestId": 1889,
+    "contestName": "Codeforces Round 906 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1698512700,
+    "oldRating": 3115,
+    "newRating": 3148
+  },
+  {
+    "contestId": 1893,
+    "contestName": "Codeforces Round 908 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1699374900,
+    "oldRating": 3148,
+    "newRating": 3336
+  },
+  {
+    "contestId": 1896,
+    "contestName": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1700932800,
+    "oldRating": 3336,
+    "newRating": 3286
+  },
+  {
+    "contestId": 1909,
+    "contestName": "Pinely Round 3 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1703352900,
+    "oldRating": 3286,
+    "newRating": 3236
+  },
+  {
+    "contestId": 1916,
+    "contestName": "Good Bye 2023",
+    "handle": "Ormlis",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1703955000,
+    "oldRating": 3236,
+    "newRating": 3208
+  },
+  {
+    "contestId": 1919,
+    "contestName": "Hello 2024",
+    "handle": "Ormlis",
+    "rank": 42,
+    "ratingUpdateTimeSeconds": 1704560700,
+    "oldRating": 3208,
+    "newRating": 3167
+  },
+  {
+    "contestId": 1924,
+    "contestName": "Codeforces Round 921 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1706373900,
+    "oldRating": 3167,
+    "newRating": 3180
+  },
+  {
+    "contestId": 1930,
+    "contestName": "think-cell Round 1",
+    "handle": "Ormlis",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1708191300,
+    "oldRating": 3180,
+    "newRating": 3275
+  },
+  {
+    "contestId": 1943,
+    "contestName": "Codeforces Round 934 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1710608400,
+    "oldRating": 3275,
+    "newRating": 3288
+  },
+  {
+    "contestId": 1942,
+    "contestName": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 118,
+    "ratingUpdateTimeSeconds": 1711820100,
+    "oldRating": 3288,
+    "newRating": 3146
+  },
+  {
+    "contestId": 1951,
+    "contestName": "Codeforces Global Round 25",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1712424900,
+    "oldRating": 3146,
+    "newRating": 3187
+  },
+  {
+    "contestId": 1967,
+    "contestName": "Codeforces Round 942 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 39,
+    "ratingUpdateTimeSeconds": 1714496700,
+    "oldRating": 3187,
+    "newRating": 3144
+  },
+  {
+    "contestId": 1975,
+    "contestName": "Codeforces Round 947 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1716658500,
+    "oldRating": 3144,
+    "newRating": 3095
+  },
+  {
+    "contestId": 1984,
+    "contestName": "Codeforces Global Round 26",
+    "handle": "Ormlis",
+    "rank": 14,
+    "ratingUpdateTimeSeconds": 1717954500,
+    "oldRating": 3095,
+    "newRating": 3159
+  },
+  {
+    "contestId": 1987,
+    "contestName": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1719768900,
+    "oldRating": 3159,
+    "newRating": 3184
+  },
+  {
+    "contestId": 1994,
+    "contestName": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1721320500,
+    "oldRating": 3184,
+    "newRating": 3227
+  },
+  {
+    "contestId": 1991,
+    "contestName": "Pinely Round 4 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 116,
+    "ratingUpdateTimeSeconds": 1722188100,
+    "oldRating": 3227,
+    "newRating": 3102
+  },
+  {
+    "contestId": 2002,
+    "contestName": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1723397700,
+    "oldRating": 3102,
+    "newRating": 3192
+  },
+  {
+    "contestId": 2006,
+    "contestName": "Codeforces Round 969 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1725037500,
+    "oldRating": 3192,
+    "newRating": 3159
+  },
+  {
+    "contestId": 2035,
+    "contestName": "Codeforces Global Round 27",
+    "handle": "Ormlis",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1730050500,
+    "oldRating": 3159,
+    "newRating": 3168
+  },
+  {
+    "contestId": 2029,
+    "contestName": "Refact.ai Match 1 (Codeforces Round 985)",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1731173700,
+    "oldRating": 3168,
+    "newRating": 3184
+  },
+  {
+    "contestId": 2039,
+    "contestName": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Ormlis",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1732383300,
+    "oldRating": 3184,
+    "newRating": 3222
+  },
+  {
+    "contestId": 2034,
+    "contestName": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 135,
+    "ratingUpdateTimeSeconds": 1732988100,
+    "oldRating": 3222,
+    "newRating": 3088
+  },
+  {
+    "contestId": 2048,
+    "contestName": "Codeforces Global Round 28",
+    "handle": "Ormlis",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1734629700,
+    "oldRating": 3088,
+    "newRating": 3175
+  },
+  {
+    "contestId": 2053,
+    "contestName": "Good Bye 2024: 2025 is NEAR",
+    "handle": "Ormlis",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1735407300,
+    "oldRating": 3175,
+    "newRating": 3260
+  },
+  {
+    "contestId": 2057,
+    "contestName": "Hello 2025",
+    "handle": "Ormlis",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1736010300,
+    "oldRating": 3260,
+    "newRating": 3354
+  },
+  {
+    "contestId": 2061,
+    "contestName": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1737394500,
+    "oldRating": 3354,
+    "newRating": 3313
+  },
+  {
+    "contestId": 2062,
+    "contestName": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1737911100,
+    "oldRating": 3313,
+    "newRating": 3381
+  },
+  {
+    "contestId": 2066,
+    "contestName": "Codeforces Round 1004 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1739291700,
+    "oldRating": 3381,
+    "newRating": 3416
+  },
+  {
+    "contestId": 2077,
+    "contestName": "Codeforces Round 1008 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1741626900,
+    "oldRating": 3416,
+    "newRating": 3532
+  },
+  {
+    "contestId": 2084,
+    "contestName": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1743874500,
+    "oldRating": 3532,
+    "newRating": 3641
+  },
+  {
+    "contestId": 2096,
+    "contestName": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+    "handle": "Ormlis",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1745080500,
+    "oldRating": 3641,
+    "newRating": 3530
+  },
+  {
+    "contestId": 2101,
+    "contestName": "Codeforces Round 1024 (Div. 1)",
+    "handle": "Ormlis",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1746983100,
+    "oldRating": 3530,
+    "newRating": 3556
+  }
+]

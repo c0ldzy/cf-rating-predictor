@@ -1,0 +1,74 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+1316,CodeCraft-20 (Div. 2),orzdevinwang,6247,2020-03-04 16:35:00,0,1387,1387
+1325,Codeforces Round 628 (Div. 2),orzdevinwang,4982,2020-03-14 16:35:00,1387,1367,-20
+1330,"Codeforces Round 631 (Div. 2) - Thanks, Denis aramis Shitov!",orzdevinwang,6326,2020-04-03 16:35:00,1367,1344,-23
+1334,Educational Codeforces Round 85 (Rated for Div. 2),orzdevinwang,5409,2020-04-10 16:35:00,1344,1377,33
+1352,Codeforces Round 640 (Div. 4),orzdevinwang,3428,2020-05-09 16:35:00,1377,1379,2
+1385,Codeforces Round 656 (Div. 3),orzdevinwang,407,2020-07-17 16:50:00,1379,1516,137
+1379,Codeforces Round 657 (Div. 2),orzdevinwang,680,2020-07-19 11:00:00,1516,1663,147
+1389,Educational Codeforces Round 92 (Rated for Div. 2),orzdevinwang,1089,2020-07-29 16:35:00,1663,1730,67
+1393,Codeforces Round 662 (Div. 2),orzdevinwang,262,2020-08-07 16:35:00,1730,1860,130
+1395,Codeforces Round 664 (Div. 2),orzdevinwang,8,2020-08-12 16:35:00,1860,2090,230
+1406,Codeforces Round 670 (Div. 2),orzdevinwang,411,2020-09-12 15:45:00,2090,2087,-3
+1419,Codeforces Round 671 (Div. 2),orzdevinwang,1980,2020-09-19 16:35:00,2087,1987,-100
+1408,Grakn Forces 2020,orzdevinwang,1079,2020-09-30 17:20:00,1987,1988,1
+1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),orzdevinwang,337,2020-10-17 15:35:00,1988,2094,106
+1421,Codeforces Round 676 (Div. 2),orzdevinwang,205,2020-10-18 11:05:00,2094,2110,16
+1434,"Codeforces Round 679 (Div. 1, based on Technocup 2021 Elimination Round 1)",orzdevinwang,546,2020-10-25 13:05:00,2110,2075,-35
+1444,"Codeforces Round 680 (Div. 1, based on Moscow Team Olympiad)",orzdevinwang,559,2020-11-01 13:05:00,2075,2063,-12
+1451,Codeforces Round 685 (Div. 2),orzdevinwang,80,2020-11-21 16:50:00,2063,2148,85
+1456,"Codeforces Round 687 (Div. 1, based on Technocup 2021 Elimination Round 2)",orzdevinwang,227,2020-11-29 09:05:00,2148,2208,60
+1458,Codeforces Round 691 (Div. 1),orzdevinwang,249,2020-12-19 11:35:00,2208,2233,25
+1466,Good Bye 2020,orzdevinwang,585,2020-12-30 17:35:00,2233,2245,12
+1470,Codeforces Round 694 (Div. 1),orzdevinwang,959,2021-01-05 16:35:00,2245,2133,-112
+1477,Codeforces Round 698 (Div. 1),orzdevinwang,286,2021-01-28 16:50:00,2133,2174,41
+1479,Codeforces Round 700 (Div. 1),orzdevinwang,207,2021-02-07 16:50:00,2174,2261,87
+1491,Codeforces Global Round 13,orzdevinwang,112,2021-02-28 16:35:00,2261,2386,125
+1500,"Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",orzdevinwang,180,2021-03-13 11:35:00,2386,2394,8
+1483,"Codeforces Round 709 (Div. 1, based on Technocup 2021 Final Round)",orzdevinwang,52,2021-03-21 15:35:00,2394,2510,116
+1503,Codeforces Round 712 (Div. 1),orzdevinwang,191,2021-04-03 16:50:00,2510,2502,-8
+1508,Codeforces Round 715 (Div. 1),orzdevinwang,576,2021-04-16 16:50:00,2502,2391,-111
+1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),orzdevinwang,172,2021-04-23 17:20:00,2391,2442,51
+1515,Codeforces Global Round 14,orzdevinwang,57,2021-05-02 17:35:00,2442,2558,116
+1528,Codeforces Round 722 (Div. 1),orzdevinwang,43,2021-05-24 16:50:00,2558,2657,99
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",orzdevinwang,59,2021-05-30 16:50:00,2657,2722,65
+1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),orzdevinwang,465,2021-06-13 18:35:00,2722,2600,-122
+1545,Codeforces Round 732 (Div. 1),orzdevinwang,145,2021-07-11 16:35:00,2600,2592,-8
+1530,"Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",orzdevinwang,65,2021-07-17 17:35:00,2592,2642,50
+1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",orzdevinwang,15,2021-07-22 17:05:00,2642,2780,138
+1548,Codeforces Round 736 (Div. 1),orzdevinwang,18,2021-08-01 17:00:00,2780,2895,115
+1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",orzdevinwang,47,2021-08-29 17:05:00,2895,2913,18
+1566,Codeforces Global Round 16,orzdevinwang,134,2021-09-12 17:05:00,2913,2849,-64
+1580,Codeforces Round 745 (Div. 1),orzdevinwang,37,2021-09-30 12:15:00,2849,2857,8
+1586,"Codeforces Round 749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)",orzdevinwang,7,2021-10-17 13:20:00,2857,2983,126
+1601,Codeforces Round 751 (Div. 1),orzdevinwang,76,2021-10-25 08:35:00,2983,2897,-86
+1603,Codeforces Round 752 (Div. 1),orzdevinwang,13,2021-10-30 16:35:00,2897,3007,110
+1648,"Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",orzdevinwang,22,2022-03-06 12:10:00,3007,3030,23
+1654,"Codeforces Round 778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",orzdevinwang,2,2022-03-20 13:50:00,3030,3203,173
+1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",orzdevinwang,23,2022-07-31 16:35:00,3203,3189,-14
+1738,Codeforces Global Round 22,orzdevinwang,4,2022-09-30 17:05:00,3189,3302,113
+1737,Dytechlab Cup 2022,orzdevinwang,3,2022-10-07 17:05:00,3302,3399,97
+1770,Good Bye 2022: 2023 is NEAR,orzdevinwang,24,2022-12-30 17:05:00,3399,3353,-46
+1779,Hello 2023,orzdevinwang,52,2023-01-03 17:05:00,3353,3255,-98
+1782,"Codeforces Round 844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",orzdevinwang,1,2023-01-15 15:05:00,3255,3441,186
+1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",orzdevinwang,8,2023-01-29 17:35:00,3441,3460,19
+1785,"Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",orzdevinwang,7,2023-02-05 15:05:00,3460,3461,1
+1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),orzdevinwang,13,2023-02-27 17:35:00,3461,3415,-46
+1801,Codeforces Round 857 (Div. 1),orzdevinwang,12,2023-03-09 12:35:00,3415,3393,-22
+1819,Codeforces Round 866 (Div. 1),orzdevinwang,6,2023-04-15 11:05:00,3393,3397,4
+1817,Codeforces Round 869 (Div. 1),orzdevinwang,14,2023-04-29 16:50:00,3397,3370,-27
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",orzdevinwang,1,2023-09-18 16:50:00,3370,3559,189
+1874,Codeforces Round 901 (Div. 1),orzdevinwang,1,2023-09-30 17:35:00,3559,3697,138
+1919,Hello 2024,orzdevinwang,83,2024-01-06 17:05:00,3697,3493,-204
+1936,Codeforces Round 930 (Div. 1),orzdevinwang,2,2024-02-29 16:35:00,3493,3561,68
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",orzdevinwang,5,2024-03-30 17:35:00,3561,3570,9
+1984,Codeforces Global Round 26,orzdevinwang,6,2024-06-09 17:35:00,3570,3573,3
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),orzdevinwang,3,2024-07-18 16:35:00,3573,3612,39
+2023,Codeforces Round 980 (Div. 1),orzdevinwang,9,2024-10-20 11:05:00,3612,3529,-83
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",orzdevinwang,1,2024-11-23 17:35:00,3529,3707,178
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",orzdevinwang,1,2024-11-30 17:35:00,3707,3844,137
+2046,Codeforces Round 990 (Div. 1),orzdevinwang,54,2024-12-03 08:25:00,3844,3526,-318
+2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",orzdevinwang,1,2025-01-26 17:05:00,3526,3706,180
+2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",orzdevinwang,1,2025-04-05 17:35:00,3706,3828,122
+2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",orzdevinwang,9,2025-04-19 16:35:00,3828,3741,-87
+2097,Codeforces Round 1021 (Div. 1),orzdevinwang,4,2025-04-26 11:35:00,3741,3696,-45

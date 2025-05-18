@@ -1,0 +1,1739 @@
+[
+  {
+    "contestId": 750,
+    "contestName": "Good Bye 2016",
+    "handle": "maroonrk",
+    "rank": 540,
+    "ratingUpdateTimeSeconds": 1483116300,
+    "oldRating": 0,
+    "newRating": 1677
+  },
+  {
+    "contestId": 948,
+    "contestName": "Codeforces Round 470 (rated, Div. 2, based on VK Cup 2018 Round 1)",
+    "handle": "maroonrk",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1520703300,
+    "oldRating": 1677,
+    "newRating": 1909
+  },
+  {
+    "contestId": 966,
+    "contestName": "Codeforces Round 477 (rated, Div. 1, based on VK Cup 2018 Round 3)",
+    "handle": "maroonrk",
+    "rank": 30,
+    "ratingUpdateTimeSeconds": 1525016700,
+    "oldRating": 1909,
+    "newRating": 2144
+  },
+  {
+    "contestId": 983,
+    "contestName": "Codeforces Round 483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!]",
+    "handle": "maroonrk",
+    "rank": 44,
+    "ratingUpdateTimeSeconds": 1526402700,
+    "oldRating": 2144,
+    "newRating": 2279
+  },
+  {
+    "contestId": 981,
+    "contestName": "Avito Code Challenge 2018",
+    "handle": "maroonrk",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1527443400,
+    "oldRating": 2279,
+    "newRating": 2414
+  },
+  {
+    "contestId": 1007,
+    "contestName": "Codeforces Round 497 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1531500300,
+    "oldRating": 2414,
+    "newRating": 2558
+  },
+  {
+    "contestId": 1054,
+    "contestName": "Mail.Ru Cup 2018 Round 1",
+    "handle": "maroonrk",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1539889500,
+    "oldRating": 2558,
+    "newRating": 2625
+  },
+  {
+    "contestId": 1086,
+    "contestName": "Codeforces Round 528 (Div. 1, based on Technocup 2019 Elimination Round 4)",
+    "handle": "maroonrk",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1545579300,
+    "oldRating": 2625,
+    "newRating": 2681
+  },
+  {
+    "contestId": 1091,
+    "contestName": "Good Bye 2018",
+    "handle": "maroonrk",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1546190100,
+    "oldRating": 2681,
+    "newRating": 2781
+  },
+  {
+    "contestId": 1097,
+    "contestName": "Hello 2019",
+    "handle": "maroonrk",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1546623900,
+    "oldRating": 2781,
+    "newRating": 2830
+  },
+  {
+    "contestId": 1110,
+    "contestName": "Codeforces Global Round 1",
+    "handle": "maroonrk",
+    "rank": 31,
+    "ratingUpdateTimeSeconds": 1549553700,
+    "oldRating": 2830,
+    "newRating": 2861
+  },
+  {
+    "contestId": 1137,
+    "contestName": "Codeforces Round 545 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1552044900,
+    "oldRating": 2861,
+    "newRating": 2924
+  },
+  {
+    "contestId": 1146,
+    "contestName": "Forethought Future Cup - Elimination Round",
+    "handle": "maroonrk",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1555792500,
+    "oldRating": 2924,
+    "newRating": 2956
+  },
+  {
+    "contestId": 1149,
+    "contestName": "Codeforces Round 556 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1556555700,
+    "oldRating": 2956,
+    "newRating": 3082
+  },
+  {
+    "contestId": 1161,
+    "contestName": "Codeforces Round 557 (Div. 1) [based on Forethought Future Cup - Final Round]",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1556996700,
+    "oldRating": 3082,
+    "newRating": 3079
+  },
+  {
+    "contestId": 1158,
+    "contestName": "Codeforces Round 559 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1557678900,
+    "oldRating": 3079,
+    "newRating": 3032
+  },
+  {
+    "contestId": 1168,
+    "contestName": "Codeforces Round 562 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1558892100,
+    "oldRating": 3032,
+    "newRating": 3109
+  },
+  {
+    "contestId": 1148,
+    "contestName": "Codeforces Global Round 3",
+    "handle": "maroonrk",
+    "rank": 40,
+    "ratingUpdateTimeSeconds": 1559407800,
+    "oldRating": 3109,
+    "newRating": 3039
+  },
+  {
+    "contestId": 1172,
+    "contestName": "Codeforces Round 564 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1559916300,
+    "oldRating": 3039,
+    "newRating": 3118
+  },
+  {
+    "contestId": 1188,
+    "contestName": "Codeforces Round 572 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 49,
+    "ratingUpdateTimeSeconds": 1562346300,
+    "oldRating": 3118,
+    "newRating": 3008
+  },
+  {
+    "contestId": 1190,
+    "contestName": "Codeforces Round 573 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1562949300,
+    "oldRating": 3008,
+    "newRating": 2949
+  },
+  {
+    "contestId": 1178,
+    "contestName": "Codeforces Global Round 4",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1563645900,
+    "oldRating": 2949,
+    "newRating": 3020
+  },
+  {
+    "contestId": 1198,
+    "contestName": "Codeforces Round 576 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1564504500,
+    "oldRating": 3020,
+    "newRating": 2987
+  },
+  {
+    "contestId": 1205,
+    "contestName": "Codeforces Round 580 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 72,
+    "ratingUpdateTimeSeconds": 1566143700,
+    "oldRating": 2987,
+    "newRating": 2889
+  },
+  {
+    "contestId": 1214,
+    "contestName": "Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",
+    "handle": "maroonrk",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1567596900,
+    "oldRating": 2889,
+    "newRating": 2876
+  },
+  {
+    "contestId": 1209,
+    "contestName": "Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1568475300,
+    "oldRating": 2876,
+    "newRating": 2965
+  },
+  {
+    "contestId": 1229,
+    "contestName": "Codeforces Round 588 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 56,
+    "ratingUpdateTimeSeconds": 1569256500,
+    "oldRating": 2965,
+    "newRating": 2896
+  },
+  {
+    "contestId": 1237,
+    "contestName": "Codeforces Global Round 5",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1571245500,
+    "oldRating": 2896,
+    "newRating": 2980
+  },
+  {
+    "contestId": 1239,
+    "contestName": "Codeforces Round 594 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1571569500,
+    "oldRating": 2980,
+    "newRating": 3027
+  },
+  {
+    "contestId": 1242,
+    "contestName": "Codeforces Round 599 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1573059900,
+    "oldRating": 3027,
+    "newRating": 3075
+  },
+  {
+    "contestId": 1254,
+    "contestName": "Codeforces Round 601 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1574181300,
+    "oldRating": 3075,
+    "newRating": 3199
+  },
+  {
+    "contestId": 1261,
+    "contestName": "Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",
+    "handle": "maroonrk",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1574589900,
+    "oldRating": 3199,
+    "newRating": 3183
+  },
+  {
+    "contestId": 1264,
+    "contestName": "Codeforces Round 604 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1575563700,
+    "oldRating": 3183,
+    "newRating": 3159
+  },
+  {
+    "contestId": 1276,
+    "contestName": "Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",
+    "handle": "maroonrk",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1576328700,
+    "oldRating": 3159,
+    "newRating": 3183
+  },
+  {
+    "contestId": 1266,
+    "contestName": "Codeforces Global Round 6",
+    "handle": "maroonrk",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1576604100,
+    "oldRating": 3183,
+    "newRating": 3164
+  },
+  {
+    "contestId": 1268,
+    "contestName": "Codeforces Round 609 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 83,
+    "ratingUpdateTimeSeconds": 1576933500,
+    "oldRating": 3164,
+    "newRating": 3013
+  },
+  {
+    "contestId": 1270,
+    "contestName": "Good Bye 2019",
+    "handle": "maroonrk",
+    "rank": 94,
+    "ratingUpdateTimeSeconds": 1577639100,
+    "oldRating": 3013,
+    "newRating": 2930
+  },
+  {
+    "contestId": 1284,
+    "contestName": "Hello 2020",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1578148500,
+    "oldRating": 2930,
+    "newRating": 3008
+  },
+  {
+    "contestId": 1286,
+    "contestName": "Codeforces Round 612 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1578240300,
+    "oldRating": 3008,
+    "newRating": 3110
+  },
+  {
+    "contestId": 1292,
+    "contestName": "Codeforces Round 614 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1579448100,
+    "oldRating": 3110,
+    "newRating": 3078
+  },
+  {
+    "contestId": 1290,
+    "contestName": "Codeforces Round 616 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 42,
+    "ratingUpdateTimeSeconds": 1580661300,
+    "oldRating": 3078,
+    "newRating": 3011
+  },
+  {
+    "contestId": 1299,
+    "contestName": "Codeforces Round 618 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1581264300,
+    "oldRating": 3011,
+    "newRating": 3084
+  },
+  {
+    "contestId": 1307,
+    "contestName": "Codeforces Round 621 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1581961800,
+    "oldRating": 3084,
+    "newRating": 3116
+  },
+  {
+    "contestId": 1314,
+    "contestName": "Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1582482900,
+    "oldRating": 3116,
+    "newRating": 3162
+  },
+  {
+    "contestId": 1320,
+    "contestName": "Codeforces Round 625 (Div. 1, based on Technocup 2020 Final Round)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1583075700,
+    "oldRating": 3162,
+    "newRating": 3268
+  },
+  {
+    "contestId": 1305,
+    "contestName": "Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1583254200,
+    "oldRating": 3268,
+    "newRating": 3364
+  },
+  {
+    "contestId": 1322,
+    "contestName": "Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1583580900,
+    "oldRating": 3364,
+    "newRating": 3303
+  },
+  {
+    "contestId": 1326,
+    "contestName": "Codeforces Global Round 7",
+    "handle": "maroonrk",
+    "rank": 31,
+    "ratingUpdateTimeSeconds": 1584637500,
+    "oldRating": 3303,
+    "newRating": 3232
+  },
+  {
+    "contestId": 1329,
+    "contestName": "Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",
+    "handle": "maroonrk",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1585931700,
+    "oldRating": 3232,
+    "newRating": 3250
+  },
+  {
+    "contestId": 1338,
+    "contestName": "Codeforces Round 633 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1586707500,
+    "oldRating": 3250,
+    "newRating": 3243
+  },
+  {
+    "contestId": 1336,
+    "contestName": "Codeforces Round 635 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1586970300,
+    "oldRating": 3243,
+    "newRating": 3353
+  },
+  {
+    "contestId": 1349,
+    "contestName": "Codeforces Round 641 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1589295900,
+    "oldRating": 3353,
+    "newRating": 3431
+  },
+  {
+    "contestId": 1361,
+    "contestName": "Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",
+    "handle": "maroonrk",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1591290300,
+    "oldRating": 3431,
+    "newRating": 3421
+  },
+  {
+    "contestId": 1368,
+    "contestName": "Codeforces Global Round 8",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1592500500,
+    "oldRating": 3421,
+    "newRating": 3409
+  },
+  {
+    "contestId": 1375,
+    "contestName": "Codeforces Global Round 9",
+    "handle": "maroonrk",
+    "rank": 69,
+    "ratingUpdateTimeSeconds": 1593882900,
+    "oldRating": 3409,
+    "newRating": 3268
+  },
+  {
+    "contestId": 1381,
+    "contestName": "Codeforces Round 658 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1595349300,
+    "oldRating": 3268,
+    "newRating": 3253
+  },
+  {
+    "contestId": 1383,
+    "contestName": "Codeforces Round 659 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 14,
+    "ratingUpdateTimeSeconds": 1595608500,
+    "oldRating": 3253,
+    "newRating": 3229
+  },
+  {
+    "contestId": 1394,
+    "contestName": "Codeforces Round 664 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 31,
+    "ratingUpdateTimeSeconds": 1597250100,
+    "oldRating": 3229,
+    "newRating": 3163
+  },
+  {
+    "contestId": 1392,
+    "contestName": "Codeforces Global Round 10",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1597599300,
+    "oldRating": 3163,
+    "newRating": 3289
+  },
+  {
+    "contestId": 1396,
+    "contestName": "Codeforces Round 666 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 51,
+    "ratingUpdateTimeSeconds": 1598805300,
+    "oldRating": 3289,
+    "newRating": 3179
+  },
+  {
+    "contestId": 1404,
+    "contestName": "Codeforces Round 668 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1599410100,
+    "oldRating": 3179,
+    "newRating": 3359
+  },
+  {
+    "contestId": 1416,
+    "contestName": "Codeforces Round 673 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1601226300,
+    "oldRating": 3359,
+    "newRating": 3394
+  },
+  {
+    "contestId": 1408,
+    "contestName": "Grakn Forces 2020",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1601486400,
+    "oldRating": 3394,
+    "newRating": 3447
+  },
+  {
+    "contestId": 1427,
+    "contestName": "Codeforces Global Round 11",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1602352200,
+    "oldRating": 3447,
+    "newRating": 3447
+  },
+  {
+    "contestId": 1428,
+    "contestName": "Codeforces Raif Round 1 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1602948900,
+    "oldRating": 3447,
+    "newRating": 3404
+  },
+  {
+    "contestId": 1434,
+    "contestName": "Codeforces Round 679 (Div. 1, based on Technocup 2021 Elimination Round 1)",
+    "handle": "maroonrk",
+    "rank": 63,
+    "ratingUpdateTimeSeconds": 1603631100,
+    "oldRating": 3404,
+    "newRating": 3243
+  },
+  {
+    "contestId": 1444,
+    "contestName": "Codeforces Round 680 (Div. 1, based on Moscow Team Olympiad)",
+    "handle": "maroonrk",
+    "rank": 21,
+    "ratingUpdateTimeSeconds": 1604235900,
+    "oldRating": 3243,
+    "newRating": 3188
+  },
+  {
+    "contestId": 1442,
+    "contestName": "Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1604334900,
+    "oldRating": 3188,
+    "newRating": 3218
+  },
+  {
+    "contestId": 1446,
+    "contestName": "Codeforces Round 683 (Div. 1, by Meet IT)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1605459900,
+    "oldRating": 3218,
+    "newRating": 3267
+  },
+  {
+    "contestId": 1439,
+    "contestName": "Codeforces Round 684 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1605631800,
+    "oldRating": 3267,
+    "newRating": 3323
+  },
+  {
+    "contestId": 1450,
+    "contestName": "Codeforces Global Round 12",
+    "handle": "maroonrk",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1607276100,
+    "oldRating": 3323,
+    "newRating": 3334
+  },
+  {
+    "contestId": 1458,
+    "contestName": "Codeforces Round 691 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1608377700,
+    "oldRating": 3334,
+    "newRating": 3376
+  },
+  {
+    "contestId": 1464,
+    "contestName": "Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1608483900,
+    "oldRating": 3376,
+    "newRating": 3396
+  },
+  {
+    "contestId": 1466,
+    "contestName": "Good Bye 2020",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1609349700,
+    "oldRating": 3396,
+    "newRating": 3498
+  },
+  {
+    "contestId": 1470,
+    "contestName": "Codeforces Round 694 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 129,
+    "ratingUpdateTimeSeconds": 1609864500,
+    "oldRating": 3498,
+    "newRating": 3265
+  },
+  {
+    "contestId": 1477,
+    "contestName": "Codeforces Round 698 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1611852600,
+    "oldRating": 3265,
+    "newRating": 3461
+  },
+  {
+    "contestId": 1479,
+    "contestName": "Codeforces Round 700 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 36,
+    "ratingUpdateTimeSeconds": 1612716600,
+    "oldRating": 3461,
+    "newRating": 3345
+  },
+  {
+    "contestId": 1491,
+    "contestName": "Codeforces Global Round 13",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1614530100,
+    "oldRating": 3345,
+    "newRating": 3503
+  },
+  {
+    "contestId": 1495,
+    "contestName": "Codeforces Round 706 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1615385100,
+    "oldRating": 3503,
+    "newRating": 3555
+  },
+  {
+    "contestId": 1500,
+    "contestName": "Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1615635300,
+    "oldRating": 3555,
+    "newRating": 3564
+  },
+  {
+    "contestId": 1483,
+    "contestName": "Codeforces Round 709 (Div. 1, based on Technocup 2021 Final Round)",
+    "handle": "maroonrk",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1616340900,
+    "oldRating": 3564,
+    "newRating": 3456
+  },
+  {
+    "contestId": 1503,
+    "contestName": "Codeforces Round 712 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1617468600,
+    "oldRating": 3456,
+    "newRating": 3369
+  },
+  {
+    "contestId": 1508,
+    "contestName": "Codeforces Round 715 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1618591800,
+    "oldRating": 3369,
+    "newRating": 3406
+  },
+  {
+    "contestId": 1517,
+    "contestName": "Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1619198400,
+    "oldRating": 3406,
+    "newRating": 3385
+  },
+  {
+    "contestId": 1515,
+    "contestName": "Codeforces Global Round 14",
+    "handle": "maroonrk",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1619976900,
+    "oldRating": 3385,
+    "newRating": 3338
+  },
+  {
+    "contestId": 1528,
+    "contestName": "Codeforces Round 722 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1621875000,
+    "oldRating": 3338,
+    "newRating": 3382
+  },
+  {
+    "contestId": 1523,
+    "contestName": "Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1622393400,
+    "oldRating": 3382,
+    "newRating": 3457
+  },
+  {
+    "contestId": 1534,
+    "contestName": "Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1623609300,
+    "oldRating": 3457,
+    "newRating": 3446
+  },
+  {
+    "contestId": 1540,
+    "contestName": "Codeforces Round 728 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1624643400,
+    "oldRating": 3446,
+    "newRating": 3606
+  },
+  {
+    "contestId": 1545,
+    "contestName": "Codeforces Round 732 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 70,
+    "ratingUpdateTimeSeconds": 1626021300,
+    "oldRating": 3606,
+    "newRating": 3398
+  },
+  {
+    "contestId": 1530,
+    "contestName": "Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1626543300,
+    "oldRating": 3398,
+    "newRating": 3441
+  },
+  {
+    "contestId": 1553,
+    "contestName": "Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1626973500,
+    "oldRating": 3441,
+    "newRating": 3539
+  },
+  {
+    "contestId": 1552,
+    "contestName": "Codeforces Global Round 15",
+    "handle": "maroonrk",
+    "rank": 33,
+    "ratingUpdateTimeSeconds": 1627233600,
+    "oldRating": 3539,
+    "newRating": 3424
+  },
+  {
+    "contestId": 1548,
+    "contestName": "Codeforces Round 736 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1627837200,
+    "oldRating": 3424,
+    "newRating": 3400
+  },
+  {
+    "contestId": 1558,
+    "contestName": "Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1629824700,
+    "oldRating": 3400,
+    "newRating": 3452
+  },
+  {
+    "contestId": 1556,
+    "contestName": "Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1630256700,
+    "oldRating": 3452,
+    "newRating": 3434
+  },
+  {
+    "contestId": 1566,
+    "contestName": "Codeforces Global Round 16",
+    "handle": "maroonrk",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1631466300,
+    "oldRating": 3434,
+    "newRating": 3385
+  },
+  {
+    "contestId": 1580,
+    "contestName": "Codeforces Round 745 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1633004100,
+    "oldRating": 3385,
+    "newRating": 3463
+  },
+  {
+    "contestId": 1586,
+    "contestName": "Codeforces Round 749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)",
+    "handle": "maroonrk",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1634476800,
+    "oldRating": 3463,
+    "newRating": 3361
+  },
+  {
+    "contestId": 1601,
+    "contestName": "Codeforces Round 751 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1635150900,
+    "oldRating": 3361,
+    "newRating": 3407
+  },
+  {
+    "contestId": 1603,
+    "contestName": "Codeforces Round 752 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 62,
+    "ratingUpdateTimeSeconds": 1635611700,
+    "oldRating": 3407,
+    "newRating": 3273
+  },
+  {
+    "contestId": 1588,
+    "contestName": "Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1636878000,
+    "oldRating": 3273,
+    "newRating": 3362
+  },
+  {
+    "contestId": 1610,
+    "contestName": "Codeforces Global Round 17",
+    "handle": "maroonrk",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1637688900,
+    "oldRating": 3362,
+    "newRating": 3344
+  },
+  {
+    "contestId": 1609,
+    "contestName": "Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1638119100,
+    "oldRating": 3344,
+    "newRating": 3387
+  },
+  {
+    "contestId": 1608,
+    "contestName": "Codeforces Round 758 (Div.1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1639224300,
+    "oldRating": 3387,
+    "newRating": 3489
+  },
+  {
+    "contestId": 1615,
+    "contestName": "Codeforces Global Round 18",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1640365500,
+    "oldRating": 3489,
+    "newRating": 3500
+  },
+  {
+    "contestId": 1616,
+    "contestName": "Good Bye 2021: 2022 is NEAR",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1640799300,
+    "oldRating": 3500,
+    "newRating": 3512
+  },
+  {
+    "contestId": 1621,
+    "contestName": "Hello 2022",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1641228600,
+    "oldRating": 3512,
+    "newRating": 3606
+  },
+  {
+    "contestId": 1628,
+    "contestName": "Codeforces Round 767 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1642869300,
+    "oldRating": 3606,
+    "newRating": 3534
+  },
+  {
+    "contestId": 1630,
+    "contestName": "Codeforces Round 768 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1643301300,
+    "oldRating": 3534,
+    "newRating": 3526
+  },
+  {
+    "contestId": 1637,
+    "contestName": "Codeforces Global Round 19",
+    "handle": "maroonrk",
+    "rank": 49,
+    "ratingUpdateTimeSeconds": 1644685500,
+    "oldRating": 3526,
+    "newRating": 3381
+  },
+  {
+    "contestId": 1641,
+    "contestName": "Codeforces Round 773 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1645618200,
+    "oldRating": 3381,
+    "newRating": 3467
+  },
+  {
+    "contestId": 1648,
+    "contestName": "Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1646568600,
+    "oldRating": 3467,
+    "newRating": 3511
+  },
+  {
+    "contestId": 1654,
+    "contestName": "Codeforces Round 778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",
+    "handle": "maroonrk",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1647784200,
+    "oldRating": 3511,
+    "newRating": 3419
+  },
+  {
+    "contestId": 1656,
+    "contestName": "CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 44,
+    "ratingUpdateTimeSeconds": 1648139700,
+    "oldRating": 3419,
+    "newRating": 3309
+  },
+  {
+    "contestId": 1667,
+    "contestName": "Codeforces Round 783 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1650386100,
+    "oldRating": 3309,
+    "newRating": 3415
+  },
+  {
+    "contestId": 1672,
+    "contestName": "Codeforces Global Round 20",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1650733500,
+    "oldRating": 3415,
+    "newRating": 3501
+  },
+  {
+    "contestId": 1677,
+    "contestName": "Codeforces Round 789 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1652027700,
+    "oldRating": 3501,
+    "newRating": 3637
+  },
+  {
+    "contestId": 1684,
+    "contestName": "Codeforces Round 792 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1652978100,
+    "oldRating": 3637,
+    "newRating": 3539
+  },
+  {
+    "contestId": 1685,
+    "contestName": "Codeforces Round 794 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1653508200,
+    "oldRating": 3539,
+    "newRating": 3535
+  },
+  {
+    "contestId": 1687,
+    "contestName": "Codeforces Round 796 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 63,
+    "ratingUpdateTimeSeconds": 1654274100,
+    "oldRating": 3535,
+    "newRating": 3354
+  },
+  {
+    "contestId": 1693,
+    "contestName": "Codeforces Round 800 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1655397300,
+    "oldRating": 3354,
+    "newRating": 3358
+  },
+  {
+    "contestId": 1696,
+    "contestName": "Codeforces Global Round 21",
+    "handle": "maroonrk",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1656175800,
+    "oldRating": 3358,
+    "newRating": 3422
+  },
+  {
+    "contestId": 1707,
+    "contestName": "Codeforces Round 808 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 46,
+    "ratingUpdateTimeSeconds": 1657989300,
+    "oldRating": 3422,
+    "newRating": 3289
+  },
+  {
+    "contestId": 1704,
+    "contestName": "CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1659285300,
+    "oldRating": 3289,
+    "newRating": 3349
+  },
+  {
+    "contestId": 1718,
+    "contestName": "Codeforces Round 814 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1660667700,
+    "oldRating": 3349,
+    "newRating": 3471
+  },
+  {
+    "contestId": 1738,
+    "contestName": "Codeforces Global Round 22",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1664557500,
+    "oldRating": 3471,
+    "newRating": 3533
+  },
+  {
+    "contestId": 1746,
+    "contestName": "Codeforces Global Round 23",
+    "handle": "maroonrk",
+    "rank": 50,
+    "ratingUpdateTimeSeconds": 1665852600,
+    "oldRating": 3533,
+    "newRating": 3389
+  },
+  {
+    "contestId": 1753,
+    "contestName": "Codeforces Round 829 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1666518600,
+    "oldRating": 3389,
+    "newRating": 3382
+  },
+  {
+    "contestId": 1740,
+    "contestName": "Codeforces Round 831 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1667044500,
+    "oldRating": 3382,
+    "newRating": 3438
+  },
+  {
+    "contestId": 1761,
+    "contestName": "Pinely Round 1 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1668963900,
+    "oldRating": 3438,
+    "newRating": 3436
+  },
+  {
+    "contestId": 1764,
+    "contestName": "Codeforces Global Round 24",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1669480500,
+    "oldRating": 3436,
+    "newRating": 3486
+  },
+  {
+    "contestId": 1774,
+    "contestName": "Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1671296700,
+    "oldRating": 3486,
+    "newRating": 3559
+  },
+  {
+    "contestId": 1770,
+    "contestName": "Good Bye 2022: 2023 is NEAR",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1672419900,
+    "oldRating": 3559,
+    "newRating": 3645
+  },
+  {
+    "contestId": 1779,
+    "contestName": "Hello 2023",
+    "handle": "maroonrk",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1672765500,
+    "oldRating": 3645,
+    "newRating": 3608
+  },
+  {
+    "contestId": 1782,
+    "contestName": "Codeforces Round 844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1673795100,
+    "oldRating": 3608,
+    "newRating": 3570
+  },
+  {
+    "contestId": 1787,
+    "contestName": "TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1675013700,
+    "oldRating": 3570,
+    "newRating": 3504
+  },
+  {
+    "contestId": 1785,
+    "contestName": "Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1675609500,
+    "oldRating": 3504,
+    "newRating": 3575
+  },
+  {
+    "contestId": 1799,
+    "contestName": "Codeforces Round 854 by cybercats (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 14,
+    "ratingUpdateTimeSeconds": 1677519300,
+    "oldRating": 3575,
+    "newRating": 3496
+  },
+  {
+    "contestId": 1801,
+    "contestName": "Codeforces Round 857 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1678365300,
+    "oldRating": 3496,
+    "newRating": 3650
+  },
+  {
+    "contestId": 1804,
+    "contestName": "Nebius Welcome Round (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1678638900,
+    "oldRating": 3650,
+    "newRating": 3609
+  },
+  {
+    "contestId": 1810,
+    "contestName": "CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1680280500,
+    "oldRating": 3609,
+    "newRating": 3626
+  },
+  {
+    "contestId": 1815,
+    "contestName": "Codeforces Round 865 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1681059600,
+    "oldRating": 3626,
+    "newRating": 3639
+  },
+  {
+    "contestId": 1819,
+    "contestName": "Codeforces Round 866 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1681556700,
+    "oldRating": 3639,
+    "newRating": 3556
+  },
+  {
+    "contestId": 1817,
+    "contestName": "Codeforces Round 869 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 50,
+    "ratingUpdateTimeSeconds": 1682787000,
+    "oldRating": 3556,
+    "newRating": 3388
+  },
+  {
+    "contestId": 1824,
+    "contestName": "Codeforces Round 872 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1683554700,
+    "oldRating": 3388,
+    "newRating": 3488
+  },
+  {
+    "contestId": 1827,
+    "contestName": "Codeforces Round 873 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1684082100,
+    "oldRating": 3488,
+    "newRating": 3526
+  },
+  {
+    "contestId": 1830,
+    "contestName": "Codeforces Round 875 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1685293500,
+    "oldRating": 3526,
+    "newRating": 3464
+  },
+  {
+    "contestId": 1835,
+    "contestName": "Codeforces Round 880 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1687106100,
+    "oldRating": 3464,
+    "newRating": 3393
+  },
+  {
+    "contestId": 1842,
+    "contestName": "CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1687626300,
+    "oldRating": 3393,
+    "newRating": 3497
+  },
+  {
+    "contestId": 1844,
+    "contestName": "Codeforces Round 884 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1689096900,
+    "oldRating": 3497,
+    "newRating": 3401
+  },
+  {
+    "contestId": 1852,
+    "contestName": "Codeforces Round 887 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1690131900,
+    "oldRating": 3401,
+    "newRating": 3355
+  },
+  {
+    "contestId": 1854,
+    "contestName": "Codeforces Round 889 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1690650300,
+    "oldRating": 3355,
+    "newRating": 3355
+  },
+  {
+    "contestId": 1864,
+    "contestName": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1693071300,
+    "oldRating": 3355,
+    "newRating": 3468
+  },
+  {
+    "contestId": 1863,
+    "contestName": "Pinely Round 2 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1693416900,
+    "oldRating": 3468,
+    "newRating": 3395
+  },
+  {
+    "contestId": 1868,
+    "contestName": "Codeforces Round 896 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1694363700,
+    "oldRating": 3395,
+    "newRating": 3529
+  },
+  {
+    "contestId": 1870,
+    "contestName": "CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 76,
+    "ratingUpdateTimeSeconds": 1695055800,
+    "oldRating": 3529,
+    "newRating": 3354
+  },
+  {
+    "contestId": 1874,
+    "contestName": "Codeforces Round 901 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1696095300,
+    "oldRating": 3354,
+    "newRating": 3291
+  },
+  {
+    "contestId": 1876,
+    "contestName": "Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1696764900,
+    "oldRating": 3291,
+    "newRating": 3427
+  },
+  {
+    "contestId": 1887,
+    "contestName": "Codeforces Round 905 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1697979900,
+    "oldRating": 3427,
+    "newRating": 3513
+  },
+  {
+    "contestId": 1889,
+    "contestName": "Codeforces Round 906 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 772,
+    "ratingUpdateTimeSeconds": 1698512700,
+    "oldRating": 3513,
+    "newRating": 3149
+  },
+  {
+    "contestId": 1893,
+    "contestName": "Codeforces Round 908 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1699374900,
+    "oldRating": 3149,
+    "newRating": 3390
+  },
+  {
+    "contestId": 1896,
+    "contestName": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1700932800,
+    "oldRating": 3390,
+    "newRating": 3454
+  },
+  {
+    "contestId": 1909,
+    "contestName": "Pinely Round 3 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1703352900,
+    "oldRating": 3454,
+    "newRating": 3561
+  },
+  {
+    "contestId": 1916,
+    "contestName": "Good Bye 2023",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1703955000,
+    "oldRating": 3561,
+    "newRating": 3518
+  },
+  {
+    "contestId": 1919,
+    "contestName": "Hello 2024",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1704560700,
+    "oldRating": 3518,
+    "newRating": 3524
+  },
+  {
+    "contestId": 1924,
+    "contestName": "Codeforces Round 921 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1706373900,
+    "oldRating": 3524,
+    "newRating": 3605
+  },
+  {
+    "contestId": 1930,
+    "contestName": "think-cell Round 1",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1708191300,
+    "oldRating": 3605,
+    "newRating": 3540
+  },
+  {
+    "contestId": 1936,
+    "contestName": "Codeforces Round 930 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1709224500,
+    "oldRating": 3540,
+    "newRating": 3451
+  },
+  {
+    "contestId": 1943,
+    "contestName": "Codeforces Round 934 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 59,
+    "ratingUpdateTimeSeconds": 1710608400,
+    "oldRating": 3451,
+    "newRating": 3296
+  },
+  {
+    "contestId": 1942,
+    "contestName": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1711820100,
+    "oldRating": 3296,
+    "newRating": 3487
+  },
+  {
+    "contestId": 1951,
+    "contestName": "Codeforces Global Round 25",
+    "handle": "maroonrk",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1712424900,
+    "oldRating": 3487,
+    "newRating": 3531
+  },
+  {
+    "contestId": 1967,
+    "contestName": "Codeforces Round 942 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1714496700,
+    "oldRating": 3531,
+    "newRating": 3438
+  },
+  {
+    "contestId": 1975,
+    "contestName": "Codeforces Round 947 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 21,
+    "ratingUpdateTimeSeconds": 1716658500,
+    "oldRating": 3438,
+    "newRating": 3347
+  },
+  {
+    "contestId": 1984,
+    "contestName": "Codeforces Global Round 26",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1717954500,
+    "oldRating": 3347,
+    "newRating": 3372
+  },
+  {
+    "contestId": 1987,
+    "contestName": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1719768900,
+    "oldRating": 3372,
+    "newRating": 3397
+  },
+  {
+    "contestId": 1994,
+    "contestName": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 80,
+    "ratingUpdateTimeSeconds": 1721320500,
+    "oldRating": 3397,
+    "newRating": 3236
+  },
+  {
+    "contestId": 2002,
+    "contestName": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1723397700,
+    "oldRating": 3236,
+    "newRating": 3220
+  },
+  {
+    "contestId": 2006,
+    "contestName": "Codeforces Round 969 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 37,
+    "ratingUpdateTimeSeconds": 1725037500,
+    "oldRating": 3220,
+    "newRating": 3163
+  },
+  {
+    "contestId": 2018,
+    "contestName": "Codeforces Round 975 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1727453100,
+    "oldRating": 3163,
+    "newRating": 3223
+  },
+  {
+    "contestId": 2023,
+    "contestName": "Codeforces Round 980 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1729422300,
+    "oldRating": 3223,
+    "newRating": 3350
+  },
+  {
+    "contestId": 2035,
+    "contestName": "Codeforces Global Round 27",
+    "handle": "maroonrk",
+    "rank": 103,
+    "ratingUpdateTimeSeconds": 1730050500,
+    "oldRating": 3350,
+    "newRating": 3204
+  },
+  {
+    "contestId": 2029,
+    "contestName": "Refact.ai Match 1 (Codeforces Round 985)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1731173700,
+    "oldRating": 3204,
+    "newRating": 3226
+  },
+  {
+    "contestId": 2039,
+    "contestName": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "maroonrk",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1732383300,
+    "oldRating": 3226,
+    "newRating": 3284
+  },
+  {
+    "contestId": 2034,
+    "contestName": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1732988100,
+    "oldRating": 3284,
+    "newRating": 3266
+  },
+  {
+    "contestId": 2048,
+    "contestName": "Codeforces Global Round 28",
+    "handle": "maroonrk",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1734629700,
+    "oldRating": 3266,
+    "newRating": 3299
+  },
+  {
+    "contestId": 2057,
+    "contestName": "Hello 2025",
+    "handle": "maroonrk",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1736010300,
+    "oldRating": 3299,
+    "newRating": 3262
+  },
+  {
+    "contestId": 2061,
+    "contestName": "IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1737394500,
+    "oldRating": 3262,
+    "newRating": 3295
+  },
+  {
+    "contestId": 2062,
+    "contestName": "Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1737911100,
+    "oldRating": 3295,
+    "newRating": 3379
+  },
+  {
+    "contestId": 2066,
+    "contestName": "Codeforces Round 1004 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 55,
+    "ratingUpdateTimeSeconds": 1739291700,
+    "oldRating": 3379,
+    "newRating": 3258
+  },
+  {
+    "contestId": 2077,
+    "contestName": "Codeforces Round 1008 (Div. 1)",
+    "handle": "maroonrk",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1741626900,
+    "oldRating": 3258,
+    "newRating": 3277
+  },
+  {
+    "contestId": 2084,
+    "contestName": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1743874500,
+    "oldRating": 3277,
+    "newRating": 3380
+  },
+  {
+    "contestId": 2096,
+    "contestName": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+    "handle": "maroonrk",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1745080500,
+    "oldRating": 3380,
+    "newRating": 3582
+  }
+]

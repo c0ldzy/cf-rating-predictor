@@ -1,0 +1,2288 @@
+[
+  {
+    "contestId": 462,
+    "contestName": "Codeforces Round 263 (Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 236,
+    "ratingUpdateTimeSeconds": 1409068800,
+    "oldRating": 0,
+    "newRating": 1733
+  },
+  {
+    "contestId": 464,
+    "contestName": "Codeforces Round 265 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 458,
+    "ratingUpdateTimeSeconds": 1410111000,
+    "oldRating": 1733,
+    "newRating": 1753
+  },
+  {
+    "contestId": 472,
+    "contestName": "Codeforces Round 270",
+    "handle": "Radewoosh",
+    "rank": 192,
+    "ratingUpdateTimeSeconds": 1411927500,
+    "oldRating": 1753,
+    "newRating": 2036
+  },
+  {
+    "contestId": 475,
+    "contestName": "Bayan 2015 Contest Warm Up",
+    "handle": "Radewoosh",
+    "rank": 1358,
+    "ratingUpdateTimeSeconds": 1412524800,
+    "oldRating": 2036,
+    "newRating": 1915
+  },
+  {
+    "contestId": 482,
+    "contestName": "Codeforces Round 275 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 235,
+    "ratingUpdateTimeSeconds": 1414177800,
+    "oldRating": 1915,
+    "newRating": 1979
+  },
+  {
+    "contestId": 487,
+    "contestName": "Codeforces Round 278 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 144,
+    "ratingUpdateTimeSeconds": 1416597600,
+    "oldRating": 1979,
+    "newRating": 2074
+  },
+  {
+    "contestId": 497,
+    "contestName": "Codeforces Round 283 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 430,
+    "ratingUpdateTimeSeconds": 1418841000,
+    "oldRating": 2074,
+    "newRating": 1996
+  },
+  {
+    "contestId": 500,
+    "contestName": "Good Bye 2014",
+    "handle": "Radewoosh",
+    "rank": 752,
+    "ratingUpdateTimeSeconds": 1419960600,
+    "oldRating": 1996,
+    "newRating": 1912
+  },
+  {
+    "contestId": 504,
+    "contestName": "Codeforces Round 285 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 109,
+    "ratingUpdateTimeSeconds": 1421060400,
+    "oldRating": 1912,
+    "newRating": 2034
+  },
+  {
+    "contestId": 512,
+    "contestName": "Codeforces Round 290 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 236,
+    "ratingUpdateTimeSeconds": 1422902100,
+    "oldRating": 2034,
+    "newRating": 2099
+  },
+  {
+    "contestId": 513,
+    "contestName": "Rockethon 2015",
+    "handle": "Radewoosh",
+    "rank": 1109,
+    "ratingUpdateTimeSeconds": 1423340100,
+    "oldRating": 2099,
+    "newRating": 2012
+  },
+  {
+    "contestId": 516,
+    "contestName": "Codeforces Round 292 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 162,
+    "ratingUpdateTimeSeconds": 1424198100,
+    "oldRating": 2012,
+    "newRating": 2140
+  },
+  {
+    "contestId": 521,
+    "contestName": "Codeforces Round 295 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 129,
+    "ratingUpdateTimeSeconds": 1425287100,
+    "oldRating": 2140,
+    "newRating": 2168
+  },
+  {
+    "contestId": 528,
+    "contestName": "Codeforces Round 296 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 266,
+    "ratingUpdateTimeSeconds": 1426617900,
+    "oldRating": 2168,
+    "newRating": 2122
+  },
+  {
+    "contestId": 526,
+    "contestName": "ZeptoLab Code Rush 2015",
+    "handle": "Radewoosh",
+    "rank": 67,
+    "ratingUpdateTimeSeconds": 1428174300,
+    "oldRating": 2122,
+    "newRating": 2275
+  },
+  {
+    "contestId": 547,
+    "contestName": "Codeforces Round 305 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 190,
+    "ratingUpdateTimeSeconds": 1432665300,
+    "oldRating": 2275,
+    "newRating": 2234
+  },
+  {
+    "contestId": 549,
+    "contestName": "Looksery Cup 2015",
+    "handle": "Radewoosh",
+    "rank": 232,
+    "ratingUpdateTimeSeconds": 1433604600,
+    "oldRating": 2234,
+    "newRating": 2279
+  },
+  {
+    "contestId": 553,
+    "contestName": "Codeforces Round 309 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 522,
+    "ratingUpdateTimeSeconds": 1435171200,
+    "oldRating": 2279,
+    "newRating": 2174
+  },
+  {
+    "contestId": 555,
+    "contestName": "Codeforces Round 310 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 191,
+    "ratingUpdateTimeSeconds": 1435421400,
+    "oldRating": 2174,
+    "newRating": 2214
+  },
+  {
+    "contestId": 559,
+    "contestName": "Codeforces Round 313 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 416,
+    "ratingUpdateTimeSeconds": 1437580800,
+    "oldRating": 2214,
+    "newRating": 2122
+  },
+  {
+    "contestId": 566,
+    "contestName": "VK Cup 2015 - Finals, online mirror",
+    "handle": "Radewoosh",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1438284000,
+    "oldRating": 2122,
+    "newRating": 2235
+  },
+  {
+    "contestId": 568,
+    "contestName": "Codeforces Round 315 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 79,
+    "ratingUpdateTimeSeconds": 1439231400,
+    "oldRating": 2235,
+    "newRating": 2310
+  },
+  {
+    "contestId": 571,
+    "contestName": "Codeforces Round 317 [AimFund Thanks-Round] (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 43,
+    "ratingUpdateTimeSeconds": 1440268200,
+    "oldRating": 2310,
+    "newRating": 2404
+  },
+  {
+    "contestId": 573,
+    "contestName": "Codeforces Round 318 [RussianCodeCup Thanks-Round] (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 55,
+    "ratingUpdateTimeSeconds": 1440873600,
+    "oldRating": 2404,
+    "newRating": 2465
+  },
+  {
+    "contestId": 576,
+    "contestName": "Codeforces Round 319 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 36,
+    "ratingUpdateTimeSeconds": 1441910400,
+    "oldRating": 2465,
+    "newRating": 2511
+  },
+  {
+    "contestId": 578,
+    "contestName": "Codeforces Round 320 (Div. 1) [Bayan Thanks-Round]",
+    "handle": "Radewoosh",
+    "rank": 259,
+    "ratingUpdateTimeSeconds": 1442425500,
+    "oldRating": 2511,
+    "newRating": 2393
+  },
+  {
+    "contestId": 585,
+    "contestName": "Codeforces Round 325 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 46,
+    "ratingUpdateTimeSeconds": 1444648200,
+    "oldRating": 2393,
+    "newRating": 2413
+  },
+  {
+    "contestId": 601,
+    "contestName": "Codeforces Round 333 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 58,
+    "ratingUpdateTimeSeconds": 1448390100,
+    "oldRating": 2413,
+    "newRating": 2431
+  },
+  {
+    "contestId": 603,
+    "contestName": "Codeforces Round 334 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 249,
+    "ratingUpdateTimeSeconds": 1448991300,
+    "oldRating": 2431,
+    "newRating": 2333
+  },
+  {
+    "contestId": 605,
+    "contestName": "Codeforces Round 335 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 74,
+    "ratingUpdateTimeSeconds": 1449684300,
+    "oldRating": 2333,
+    "newRating": 2348
+  },
+  {
+    "contestId": 607,
+    "contestName": "Codeforces Round 336 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 127,
+    "ratingUpdateTimeSeconds": 1450895700,
+    "oldRating": 2348,
+    "newRating": 2332
+  },
+  {
+    "contestId": 611,
+    "contestName": "Good Bye 2015",
+    "handle": "Radewoosh",
+    "rank": 14,
+    "ratingUpdateTimeSeconds": 1451498700,
+    "oldRating": 2332,
+    "newRating": 2492
+  },
+  {
+    "contestId": 613,
+    "contestName": "Codeforces Round 339 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 157,
+    "ratingUpdateTimeSeconds": 1452796500,
+    "oldRating": 2492,
+    "newRating": 2423
+  },
+  {
+    "contestId": 618,
+    "contestName": "Wunder Fund Round 2016 (Div. 1 + Div. 2 combined)",
+    "handle": "Radewoosh",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1454094600,
+    "oldRating": 2423,
+    "newRating": 2548
+  },
+  {
+    "contestId": 623,
+    "contestName": "AIM Tech Round (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 436,
+    "ratingUpdateTimeSeconds": 1454612700,
+    "oldRating": 2548,
+    "newRating": 2378
+  },
+  {
+    "contestId": 626,
+    "contestName": "8VC Venture Cup 2016 - Elimination Round",
+    "handle": "Radewoosh",
+    "rank": 40,
+    "ratingUpdateTimeSeconds": 1455393900,
+    "oldRating": 2378,
+    "newRating": 2472
+  },
+  {
+    "contestId": 633,
+    "contestName": "Manthan, Codefest 16",
+    "handle": "Radewoosh",
+    "rank": 183,
+    "ratingUpdateTimeSeconds": 1456515900,
+    "oldRating": 2472,
+    "newRating": 2408
+  },
+  {
+    "contestId": 627,
+    "contestName": "8VC Venture Cup 2016 - Final Round",
+    "handle": "Radewoosh",
+    "rank": 71,
+    "ratingUpdateTimeSeconds": 1456690200,
+    "oldRating": 2408,
+    "newRating": 2407
+  },
+  {
+    "contestId": 650,
+    "contestName": "Codeforces Round 345 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 77,
+    "ratingUpdateTimeSeconds": 1457349900,
+    "oldRating": 2407,
+    "newRating": 2421
+  },
+  {
+    "contestId": 655,
+    "contestName": "CROC 2016 - Elimination Round  (Rated Unofficial Edition)",
+    "handle": "Radewoosh",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1458326100,
+    "oldRating": 2421,
+    "newRating": 2537
+  },
+  {
+    "contestId": 666,
+    "contestName": "Codeforces Round 349 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1461954900,
+    "oldRating": 2537,
+    "newRating": 2631
+  },
+  {
+    "contestId": 671,
+    "contestName": "Codeforces Round 352 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 27,
+    "ratingUpdateTimeSeconds": 1462991700,
+    "oldRating": 2631,
+    "newRating": 2661
+  },
+  {
+    "contestId": 687,
+    "contestName": "Codeforces Round 360 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 32,
+    "ratingUpdateTimeSeconds": 1467227100,
+    "oldRating": 2661,
+    "newRating": 2672
+  },
+  {
+    "contestId": 696,
+    "contestName": "Codeforces Round 362 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 27,
+    "ratingUpdateTimeSeconds": 1468522200,
+    "oldRating": 2672,
+    "newRating": 2693
+  },
+  {
+    "contestId": 700,
+    "contestName": "Codeforces Round 364 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 217,
+    "ratingUpdateTimeSeconds": 1469212500,
+    "oldRating": 2693,
+    "newRating": 2542
+  },
+  {
+    "contestId": 713,
+    "contestName": "Codeforces Round 371 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1473791700,
+    "oldRating": 2542,
+    "newRating": 2716
+  },
+  {
+    "contestId": 715,
+    "contestName": "Codeforces Round 372 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1474127100,
+    "oldRating": 2716,
+    "newRating": 2735
+  },
+  {
+    "contestId": 725,
+    "contestName": "Canada Cup 2016",
+    "handle": "Radewoosh",
+    "rank": 104,
+    "ratingUpdateTimeSeconds": 1477157700,
+    "oldRating": 2735,
+    "newRating": 2668
+  },
+  {
+    "contestId": 739,
+    "contestName": "Codeforces Round 381 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1479926100,
+    "oldRating": 2668,
+    "newRating": 2797
+  },
+  {
+    "contestId": 736,
+    "contestName": "Codeforces Round 382 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 124,
+    "ratingUpdateTimeSeconds": 1480271700,
+    "oldRating": 2797,
+    "newRating": 2683
+  },
+  {
+    "contestId": 741,
+    "contestName": "Codeforces Round 383 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1481042100,
+    "oldRating": 2683,
+    "newRating": 2681
+  },
+  {
+    "contestId": 750,
+    "contestName": "Good Bye 2016",
+    "handle": "Radewoosh",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1483116300,
+    "oldRating": 2681,
+    "newRating": 2789
+  },
+  {
+    "contestId": 757,
+    "contestName": "Codecraft-17 and Codeforces Round 391 (Div. 1 + Div. 2, combined)",
+    "handle": "Radewoosh",
+    "rank": 124,
+    "ratingUpdateTimeSeconds": 1484246100,
+    "oldRating": 2789,
+    "newRating": 2699
+  },
+  {
+    "contestId": 755,
+    "contestName": "8VC Venture Cup 2017 - Elimination Round",
+    "handle": "Radewoosh",
+    "rank": 28,
+    "ratingUpdateTimeSeconds": 1484507100,
+    "oldRating": 2699,
+    "newRating": 2753
+  },
+  {
+    "contestId": 756,
+    "contestName": "8VC Venture Cup 2017 - Final Round",
+    "handle": "Radewoosh",
+    "rank": 43,
+    "ratingUpdateTimeSeconds": 1485116100,
+    "oldRating": 2753,
+    "newRating": 2716
+  },
+  {
+    "contestId": 763,
+    "contestName": "Codeforces Round 395 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1486049700,
+    "oldRating": 2716,
+    "newRating": 2751
+  },
+  {
+    "contestId": 765,
+    "contestName": "Codeforces Round 397 by Kaspersky Lab and Barcelona Bootcamp (Div. 1 + Div. 2 combined)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1487070300,
+    "oldRating": 2751,
+    "newRating": 2926
+  },
+  {
+    "contestId": 768,
+    "contestName": "Divide by Zero 2017 and Codeforces Round 399 (Div. 1 + Div. 2, combined)",
+    "handle": "Radewoosh",
+    "rank": 30,
+    "ratingUpdateTimeSeconds": 1487616300,
+    "oldRating": 2926,
+    "newRating": 2896
+  },
+  {
+    "contestId": 776,
+    "contestName": "ICM Technex 2017 and Codeforces Round 400 (Div. 1 + Div. 2, combined)",
+    "handle": "Radewoosh",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1487868900,
+    "oldRating": 2896,
+    "newRating": 2943
+  },
+  {
+    "contestId": 778,
+    "contestName": "Codeforces Round 402 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1488103500,
+    "oldRating": 2943,
+    "newRating": 2895
+  },
+  {
+    "contestId": 781,
+    "contestName": "Codeforces Round 403 (Div. 1, based on Technocup 2017 Finals)",
+    "handle": "Radewoosh",
+    "rank": 33,
+    "ratingUpdateTimeSeconds": 1488726300,
+    "oldRating": 2895,
+    "newRating": 2853
+  },
+  {
+    "contestId": 790,
+    "contestName": "Codeforces Round 405 (rated, Div. 1, based on VK Cup 2017 Round 1)",
+    "handle": "Radewoosh",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1489858500,
+    "oldRating": 2853,
+    "newRating": 2835
+  },
+  {
+    "contestId": 788,
+    "contestName": "Codeforces Round 407 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1490810700,
+    "oldRating": 2835,
+    "newRating": 2922
+  },
+  {
+    "contestId": 800,
+    "contestName": "Codeforces Round 409 (rated, Div. 1, based on VK Cup 2017 Round 2)",
+    "handle": "Radewoosh",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1492364100,
+    "oldRating": 2922,
+    "newRating": 2939
+  },
+  {
+    "contestId": 793,
+    "contestName": "Tinkoff Challenge - Elimination Round",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1492973100,
+    "oldRating": 2939,
+    "newRating": 3017
+  },
+  {
+    "contestId": 806,
+    "contestName": "Codeforces Round 412 (rated, Div. 1, based on VK Cup 2017 Round 3)",
+    "handle": "Radewoosh",
+    "rank": 69,
+    "ratingUpdateTimeSeconds": 1494182700,
+    "oldRating": 3017,
+    "newRating": 2894
+  },
+  {
+    "contestId": 799,
+    "contestName": "Playrix Codescapes Cup (Codeforces Round 413, rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 88,
+    "ratingUpdateTimeSeconds": 1494524100,
+    "oldRating": 2894,
+    "newRating": 2806
+  },
+  {
+    "contestId": 809,
+    "contestName": "Codeforces Round 415 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1495310700,
+    "oldRating": 2806,
+    "newRating": 3015
+  },
+  {
+    "contestId": 815,
+    "contestName": "Codeforces Round 419 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1497717300,
+    "oldRating": 3015,
+    "newRating": 3163
+  },
+  {
+    "contestId": 827,
+    "contestName": "Codeforces Round 423 (Div. 1, rated, based on VK Cup Finals)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1499798700,
+    "oldRating": 3163,
+    "newRating": 3187
+  },
+  {
+    "contestId": 830,
+    "contestName": "Codeforces Round 424 (Div. 1, rated, based on VK Cup Finals)",
+    "handle": "Radewoosh",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1499965500,
+    "oldRating": 3187,
+    "newRating": 3094
+  },
+  {
+    "contestId": 833,
+    "contestName": "Codeforces Round 426 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1501432500,
+    "oldRating": 3094,
+    "newRating": 3246
+  },
+  {
+    "contestId": 840,
+    "contestName": "Codeforces Round 429 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1503075900,
+    "oldRating": 3246,
+    "newRating": 3266
+  },
+  {
+    "contestId": 843,
+    "contestName": "AIM Tech Round 4 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1503601500,
+    "oldRating": 3266,
+    "newRating": 3148
+  },
+  {
+    "contestId": 850,
+    "contestName": "Codeforces Round 432 (Div. 1, based on IndiaHacks Final Round 2017)",
+    "handle": "Radewoosh",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1504544700,
+    "oldRating": 3148,
+    "newRating": 3053
+  },
+  {
+    "contestId": 853,
+    "contestName": "Codeforces Round 433 (Div. 1, based on Olympiad of Metropolises)",
+    "handle": "Radewoosh",
+    "rank": 58,
+    "ratingUpdateTimeSeconds": 1504709700,
+    "oldRating": 3053,
+    "newRating": 2928
+  },
+  {
+    "contestId": 875,
+    "contestName": "Codeforces Round 441 (Div. 1, by Moscow Team Olympiad)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1508159100,
+    "oldRating": 2928,
+    "newRating": 2956
+  },
+  {
+    "contestId": 878,
+    "contestName": "Codeforces Round 443 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1509036300,
+    "oldRating": 2956,
+    "newRating": 2915
+  },
+  {
+    "contestId": 891,
+    "contestName": "Codeforces Round 446 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1510936500,
+    "oldRating": 2915,
+    "newRating": 3041
+  },
+  {
+    "contestId": 896,
+    "contestName": "Codeforces Round 449 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1512231600,
+    "oldRating": 3041,
+    "newRating": 3039
+  },
+  {
+    "contestId": 901,
+    "contestName": "Codeforces Round 453 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1513704900,
+    "oldRating": 3039,
+    "newRating": 3085
+  },
+  {
+    "contestId": 906,
+    "contestName": "Codeforces Round 454 (Div. 1, based on Technocup 2018 Elimination Round 4)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1514045100,
+    "oldRating": 3085,
+    "newRating": 3175
+  },
+  {
+    "contestId": 908,
+    "contestName": "Good Bye 2017",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1514571000,
+    "oldRating": 3175,
+    "newRating": 3209
+  },
+  {
+    "contestId": 913,
+    "contestName": "Hello 2018",
+    "handle": "Radewoosh",
+    "rank": 17,
+    "ratingUpdateTimeSeconds": 1515431700,
+    "oldRating": 3209,
+    "newRating": 3150
+  },
+  {
+    "contestId": 914,
+    "contestName": "Codecraft-18 and Codeforces Round 458 (Div. 1 + Div. 2, combined)",
+    "handle": "Radewoosh",
+    "rank": 14,
+    "ratingUpdateTimeSeconds": 1516473300,
+    "oldRating": 3150,
+    "newRating": 3104
+  },
+  {
+    "contestId": 917,
+    "contestName": "Codeforces Round 459 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1517243700,
+    "oldRating": 3104,
+    "newRating": 3084
+  },
+  {
+    "contestId": 932,
+    "contestName": "ICM Technex 2018 and Codeforces Round 463 (Div. 1 + Div. 2, combined)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1518712500,
+    "oldRating": 3084,
+    "newRating": 3216
+  },
+  {
+    "contestId": 936,
+    "contestName": "Codeforces Round 467 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1519581900,
+    "oldRating": 3216,
+    "newRating": 3218
+  },
+  {
+    "contestId": 947,
+    "contestName": "Codeforces Round 470 (rated, Div. 1, based on VK Cup 2018 Round 1)",
+    "handle": "Radewoosh",
+    "rank": 45,
+    "ratingUpdateTimeSeconds": 1520703300,
+    "oldRating": 3218,
+    "newRating": 3076
+  },
+  {
+    "contestId": 956,
+    "contestName": "Codeforces Round 472 (rated, Div. 1, based on VK Cup 2018 Round 2)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1521913800,
+    "oldRating": 3076,
+    "newRating": 3158
+  },
+  {
+    "contestId": 963,
+    "contestName": "Tinkoff Internship Warmup Round 2018 and Codeforces Round 475 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1523981100,
+    "oldRating": 3158,
+    "newRating": 3197
+  },
+  {
+    "contestId": 983,
+    "contestName": "Codeforces Round 483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!]",
+    "handle": "Radewoosh",
+    "rank": 28,
+    "ratingUpdateTimeSeconds": 1526402700,
+    "oldRating": 3197,
+    "newRating": 3088
+  },
+  {
+    "contestId": 981,
+    "contestName": "Avito Code Challenge 2018",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1527443400,
+    "oldRating": 3088,
+    "newRating": 3159
+  },
+  {
+    "contestId": 986,
+    "contestName": "Codeforces Round 485 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1527615900,
+    "oldRating": 3159,
+    "newRating": 3217
+  },
+  {
+    "contestId": 993,
+    "contestName": "Codeforces Round 488 by NEAR (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1529175900,
+    "oldRating": 3217,
+    "newRating": 3098
+  },
+  {
+    "contestId": 995,
+    "contestName": "Codeforces Round 492 (Div. 1) [Thanks, uDebug!]",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1529865300,
+    "oldRating": 3098,
+    "newRating": 3101
+  },
+  {
+    "contestId": 997,
+    "contestName": "Codeforces Round 493 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1530461100,
+    "oldRating": 3101,
+    "newRating": 3065
+  },
+  {
+    "contestId": 1007,
+    "contestName": "Codeforces Round 497 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1531500300,
+    "oldRating": 3065,
+    "newRating": 2974
+  },
+  {
+    "contestId": 1010,
+    "contestName": "Codeforces Round 499 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1532624700,
+    "oldRating": 2974,
+    "newRating": 2984
+  },
+  {
+    "contestId": 1019,
+    "contestName": "Codeforces Round 503 (by SIS, Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1534001700,
+    "oldRating": 2984,
+    "newRating": 3098
+  },
+  {
+    "contestId": 1023,
+    "contestName": "Codeforces Round 504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",
+    "handle": "Radewoosh",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1534524600,
+    "oldRating": 3098,
+    "newRating": 3061
+  },
+  {
+    "contestId": 1025,
+    "contestName": "Codeforces Round 505 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",
+    "handle": "Radewoosh",
+    "rank": 59,
+    "ratingUpdateTimeSeconds": 1534693800,
+    "oldRating": 3061,
+    "newRating": 2953
+  },
+  {
+    "contestId": 1028,
+    "contestName": "AIM Tech Round 5 (rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 40,
+    "ratingUpdateTimeSeconds": 1535395800,
+    "oldRating": 2953,
+    "newRating": 2899
+  },
+  {
+    "contestId": 1060,
+    "contestName": "Codeforces Round 513 by Barcelona Bootcamp (rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1538645700,
+    "oldRating": 2899,
+    "newRating": 2931
+  },
+  {
+    "contestId": 1063,
+    "contestName": "Codeforces Round 516 (Div. 1, by Moscow Team Olympiad)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1539518700,
+    "oldRating": 2931,
+    "newRating": 2953
+  },
+  {
+    "contestId": 1071,
+    "contestName": "Codeforces Round 517 (Div. 1, based on Technocup 2019 Elimination Round 2)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1540116600,
+    "oldRating": 2953,
+    "newRating": 3128
+  },
+  {
+    "contestId": 1067,
+    "contestName": "Codeforces Round 518 (Div. 1) [Thanks, Mail.Ru!]",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1540406100,
+    "oldRating": 3128,
+    "newRating": 3239
+  },
+  {
+    "contestId": 1043,
+    "contestName": "Codeforces Round 519 by Botan Investments",
+    "handle": "Radewoosh",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1540748100,
+    "oldRating": 3239,
+    "newRating": 3189
+  },
+  {
+    "contestId": 1074,
+    "contestName": "Lyft Level 5 Challenge 2018 - Final Round (Open Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1541364000,
+    "oldRating": 3189,
+    "newRating": 3296
+  },
+  {
+    "contestId": 1055,
+    "contestName": "Mail.Ru Cup 2018 Round 2",
+    "handle": "Radewoosh",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1541869500,
+    "oldRating": 3296,
+    "newRating": 3230
+  },
+  {
+    "contestId": 1056,
+    "contestName": "Mail.Ru Cup 2018 Round 3",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1543172700,
+    "oldRating": 3230,
+    "newRating": 3353
+  },
+  {
+    "contestId": 1083,
+    "contestName": "Codeforces Round 526 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1544466900,
+    "oldRating": 3353,
+    "newRating": 3443
+  },
+  {
+    "contestId": 1081,
+    "contestName": "Avito Cool Challenge 2018",
+    "handle": "Radewoosh",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1544979900,
+    "oldRating": 3443,
+    "newRating": 3357
+  },
+  {
+    "contestId": 1086,
+    "contestName": "Codeforces Round 528 (Div. 1, based on Technocup 2019 Elimination Round 4)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1545579300,
+    "oldRating": 3357,
+    "newRating": 3334
+  },
+  {
+    "contestId": 1091,
+    "contestName": "Good Bye 2018",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1546190100,
+    "oldRating": 3334,
+    "newRating": 3351
+  },
+  {
+    "contestId": 1098,
+    "contestName": "Codeforces Round 530 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1546715100,
+    "oldRating": 3351,
+    "newRating": 3464
+  },
+  {
+    "contestId": 1103,
+    "contestName": "Codeforces Round 534 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 52,
+    "ratingUpdateTimeSeconds": 1548174900,
+    "oldRating": 3464,
+    "newRating": 3257
+  },
+  {
+    "contestId": 1110,
+    "contestName": "Codeforces Global Round 1",
+    "handle": "Radewoosh",
+    "rank": 58,
+    "ratingUpdateTimeSeconds": 1549553700,
+    "oldRating": 3257,
+    "newRating": 3138
+  },
+  {
+    "contestId": 1109,
+    "contestName": "Codeforces Round 539 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 60,
+    "ratingUpdateTimeSeconds": 1550343900,
+    "oldRating": 3138,
+    "newRating": 2986
+  },
+  {
+    "contestId": 1137,
+    "contestName": "Codeforces Round 545 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1552044900,
+    "oldRating": 2986,
+    "newRating": 3073
+  },
+  {
+    "contestId": 1142,
+    "contestName": "Codeforces Round 549 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1553973000,
+    "oldRating": 3073,
+    "newRating": 3040
+  },
+  {
+    "contestId": 1146,
+    "contestName": "Forethought Future Cup - Elimination Round",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1555792500,
+    "oldRating": 3040,
+    "newRating": 3152
+  },
+  {
+    "contestId": 1158,
+    "contestName": "Codeforces Round 559 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 54,
+    "ratingUpdateTimeSeconds": 1557678900,
+    "oldRating": 3152,
+    "newRating": 3010
+  },
+  {
+    "contestId": 1148,
+    "contestName": "Codeforces Global Round 3",
+    "handle": "Radewoosh",
+    "rank": 76,
+    "ratingUpdateTimeSeconds": 1559407800,
+    "oldRating": 3010,
+    "newRating": 2918
+  },
+  {
+    "contestId": 1172,
+    "contestName": "Codeforces Round 564 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1559916300,
+    "oldRating": 2918,
+    "newRating": 2906
+  },
+  {
+    "contestId": 1179,
+    "contestName": "Codeforces Round 569 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1561143900,
+    "oldRating": 2906,
+    "newRating": 3117
+  },
+  {
+    "contestId": 1188,
+    "contestName": "Codeforces Round 572 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1562346300,
+    "oldRating": 3117,
+    "newRating": 3191
+  },
+  {
+    "contestId": 1190,
+    "contestName": "Codeforces Round 573 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1562949300,
+    "oldRating": 3191,
+    "newRating": 3179
+  },
+  {
+    "contestId": 1178,
+    "contestName": "Codeforces Global Round 4",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1563645900,
+    "oldRating": 3179,
+    "newRating": 3268
+  },
+  {
+    "contestId": 1198,
+    "contestName": "Codeforces Round 576 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1564504500,
+    "oldRating": 3268,
+    "newRating": 3403
+  },
+  {
+    "contestId": 1208,
+    "contestName": "Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1566751200,
+    "oldRating": 3403,
+    "newRating": 3362
+  },
+  {
+    "contestId": 1214,
+    "contestName": "Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1567596900,
+    "oldRating": 3362,
+    "newRating": 3344
+  },
+  {
+    "contestId": 1237,
+    "contestName": "Codeforces Global Round 5",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1571245500,
+    "oldRating": 3344,
+    "newRating": 3468
+  },
+  {
+    "contestId": 1242,
+    "contestName": "Codeforces Round 599 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 37,
+    "ratingUpdateTimeSeconds": 1573059900,
+    "oldRating": 3468,
+    "newRating": 3316
+  },
+  {
+    "contestId": 1254,
+    "contestName": "Codeforces Round 601 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1574181300,
+    "oldRating": 3316,
+    "newRating": 3434
+  },
+  {
+    "contestId": 1261,
+    "contestName": "Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",
+    "handle": "Radewoosh",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1574589900,
+    "oldRating": 3434,
+    "newRating": 3386
+  },
+  {
+    "contestId": 1264,
+    "contestName": "Codeforces Round 604 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1575563700,
+    "oldRating": 3386,
+    "newRating": 3409
+  },
+  {
+    "contestId": 1276,
+    "contestName": "Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1576328700,
+    "oldRating": 3409,
+    "newRating": 3428
+  },
+  {
+    "contestId": 1280,
+    "contestName": "Codeforces Round 607 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1576393500,
+    "oldRating": 3428,
+    "newRating": 3359
+  },
+  {
+    "contestId": 1268,
+    "contestName": "Codeforces Round 609 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1576933500,
+    "oldRating": 3359,
+    "newRating": 3414
+  },
+  {
+    "contestId": 1270,
+    "contestName": "Good Bye 2019",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1577639100,
+    "oldRating": 3414,
+    "newRating": 3527
+  },
+  {
+    "contestId": 1284,
+    "contestName": "Hello 2020",
+    "handle": "Radewoosh",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1578148500,
+    "oldRating": 3527,
+    "newRating": 3418
+  },
+  {
+    "contestId": 1286,
+    "contestName": "Codeforces Round 612 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 63,
+    "ratingUpdateTimeSeconds": 1578240300,
+    "oldRating": 3418,
+    "newRating": 3251
+  },
+  {
+    "contestId": 1290,
+    "contestName": "Codeforces Round 616 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1580661300,
+    "oldRating": 3251,
+    "newRating": 3206
+  },
+  {
+    "contestId": 1299,
+    "contestName": "Codeforces Round 618 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1581264300,
+    "oldRating": 3206,
+    "newRating": 3281
+  },
+  {
+    "contestId": 1307,
+    "contestName": "Codeforces Round 621 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 29,
+    "ratingUpdateTimeSeconds": 1581961800,
+    "oldRating": 3281,
+    "newRating": 3199
+  },
+  {
+    "contestId": 1314,
+    "contestName": "Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1582482900,
+    "oldRating": 3199,
+    "newRating": 3242
+  },
+  {
+    "contestId": 1320,
+    "contestName": "Codeforces Round 625 (Div. 1, based on Technocup 2020 Final Round)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1583075700,
+    "oldRating": 3242,
+    "newRating": 3285
+  },
+  {
+    "contestId": 1305,
+    "contestName": "Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",
+    "handle": "Radewoosh",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1583254200,
+    "oldRating": 3285,
+    "newRating": 3244
+  },
+  {
+    "contestId": 1322,
+    "contestName": "Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "Radewoosh",
+    "rank": 121,
+    "ratingUpdateTimeSeconds": 1583580900,
+    "oldRating": 3244,
+    "newRating": 3070
+  },
+  {
+    "contestId": 1326,
+    "contestName": "Codeforces Global Round 7",
+    "handle": "Radewoosh",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1584637500,
+    "oldRating": 3070,
+    "newRating": 3104
+  },
+  {
+    "contestId": 1329,
+    "contestName": "Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",
+    "handle": "Radewoosh",
+    "rank": 288,
+    "ratingUpdateTimeSeconds": 1585931700,
+    "oldRating": 3104,
+    "newRating": 2936
+  },
+  {
+    "contestId": 1338,
+    "contestName": "Codeforces Round 633 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1586707500,
+    "oldRating": 2936,
+    "newRating": 3107
+  },
+  {
+    "contestId": 1336,
+    "contestName": "Codeforces Round 635 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1586970300,
+    "oldRating": 3107,
+    "newRating": 3105
+  },
+  {
+    "contestId": 1349,
+    "contestName": "Codeforces Round 641 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 120,
+    "ratingUpdateTimeSeconds": 1589295900,
+    "oldRating": 3105,
+    "newRating": 2990
+  },
+  {
+    "contestId": 1361,
+    "contestName": "Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",
+    "handle": "Radewoosh",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1591290300,
+    "oldRating": 2990,
+    "newRating": 3055
+  },
+  {
+    "contestId": 1368,
+    "contestName": "Codeforces Global Round 8",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1592500500,
+    "oldRating": 3055,
+    "newRating": 3157
+  },
+  {
+    "contestId": 1375,
+    "contestName": "Codeforces Global Round 9",
+    "handle": "Radewoosh",
+    "rank": 90,
+    "ratingUpdateTimeSeconds": 1593882900,
+    "oldRating": 3157,
+    "newRating": 3064
+  },
+  {
+    "contestId": 1381,
+    "contestName": "Codeforces Round 658 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1595349300,
+    "oldRating": 3064,
+    "newRating": 3107
+  },
+  {
+    "contestId": 1383,
+    "contestName": "Codeforces Round 659 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1595608500,
+    "oldRating": 3107,
+    "newRating": 3216
+  },
+  {
+    "contestId": 1394,
+    "contestName": "Codeforces Round 664 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1597250100,
+    "oldRating": 3216,
+    "newRating": 3188
+  },
+  {
+    "contestId": 1396,
+    "contestName": "Codeforces Round 666 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1598805300,
+    "oldRating": 3188,
+    "newRating": 3324
+  },
+  {
+    "contestId": 1404,
+    "contestName": "Codeforces Round 668 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1599410100,
+    "oldRating": 3324,
+    "newRating": 3289
+  },
+  {
+    "contestId": 1416,
+    "contestName": "Codeforces Round 673 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1601226300,
+    "oldRating": 3289,
+    "newRating": 3288
+  },
+  {
+    "contestId": 1408,
+    "contestName": "Grakn Forces 2020",
+    "handle": "Radewoosh",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1601486400,
+    "oldRating": 3288,
+    "newRating": 3245
+  },
+  {
+    "contestId": 1427,
+    "contestName": "Codeforces Global Round 11",
+    "handle": "Radewoosh",
+    "rank": 28,
+    "ratingUpdateTimeSeconds": 1602352200,
+    "oldRating": 3245,
+    "newRating": 3205
+  },
+  {
+    "contestId": 1428,
+    "contestName": "Codeforces Raif Round 1 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1602948900,
+    "oldRating": 3205,
+    "newRating": 3383
+  },
+  {
+    "contestId": 1442,
+    "contestName": "Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1604334900,
+    "oldRating": 3383,
+    "newRating": 3374
+  },
+  {
+    "contestId": 1446,
+    "contestName": "Codeforces Round 683 (Div. 1, by Meet IT)",
+    "handle": "Radewoosh",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1605459900,
+    "oldRating": 3374,
+    "newRating": 3322
+  },
+  {
+    "contestId": 1439,
+    "contestName": "Codeforces Round 684 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1605631800,
+    "oldRating": 3322,
+    "newRating": 3382
+  },
+  {
+    "contestId": 1458,
+    "contestName": "Codeforces Round 691 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1608377700,
+    "oldRating": 3382,
+    "newRating": 3313
+  },
+  {
+    "contestId": 1464,
+    "contestName": "Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",
+    "handle": "Radewoosh",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1608483900,
+    "oldRating": 3313,
+    "newRating": 3241
+  },
+  {
+    "contestId": 1466,
+    "contestName": "Good Bye 2020",
+    "handle": "Radewoosh",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1609349700,
+    "oldRating": 3241,
+    "newRating": 3268
+  },
+  {
+    "contestId": 1470,
+    "contestName": "Codeforces Round 694 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1609864500,
+    "oldRating": 3268,
+    "newRating": 3337
+  },
+  {
+    "contestId": 1477,
+    "contestName": "Codeforces Round 698 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1611852600,
+    "oldRating": 3337,
+    "newRating": 3352
+  },
+  {
+    "contestId": 1479,
+    "contestName": "Codeforces Round 700 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1612716600,
+    "oldRating": 3352,
+    "newRating": 3355
+  },
+  {
+    "contestId": 1491,
+    "contestName": "Codeforces Global Round 13",
+    "handle": "Radewoosh",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1614530100,
+    "oldRating": 3355,
+    "newRating": 3349
+  },
+  {
+    "contestId": 1495,
+    "contestName": "Codeforces Round 706 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1615385100,
+    "oldRating": 3349,
+    "newRating": 3490
+  },
+  {
+    "contestId": 1500,
+    "contestName": "Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "Radewoosh",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1615635300,
+    "oldRating": 3490,
+    "newRating": 3374
+  },
+  {
+    "contestId": 1483,
+    "contestName": "Codeforces Round 709 (Div. 1, based on Technocup 2021 Final Round)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1616340900,
+    "oldRating": 3374,
+    "newRating": 3461
+  },
+  {
+    "contestId": 1503,
+    "contestName": "Codeforces Round 712 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1617468600,
+    "oldRating": 3461,
+    "newRating": 3466
+  },
+  {
+    "contestId": 1508,
+    "contestName": "Codeforces Round 715 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1618591800,
+    "oldRating": 3466,
+    "newRating": 3494
+  },
+  {
+    "contestId": 1517,
+    "contestName": "Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1619198400,
+    "oldRating": 3494,
+    "newRating": 3528
+  },
+  {
+    "contestId": 1515,
+    "contestName": "Codeforces Global Round 14",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1619976900,
+    "oldRating": 3528,
+    "newRating": 3648
+  },
+  {
+    "contestId": 1528,
+    "contestName": "Codeforces Round 722 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1621875000,
+    "oldRating": 3648,
+    "newRating": 3659
+  },
+  {
+    "contestId": 1523,
+    "contestName": "Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1622393400,
+    "oldRating": 3659,
+    "newRating": 3707
+  },
+  {
+    "contestId": 1534,
+    "contestName": "Codeforces LATOKEN Round 1 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1623609300,
+    "oldRating": 3707,
+    "newRating": 3720
+  },
+  {
+    "contestId": 1540,
+    "contestName": "Codeforces Round 728 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1624643400,
+    "oldRating": 3720,
+    "newRating": 3712
+  },
+  {
+    "contestId": 1545,
+    "contestName": "Codeforces Round 732 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1626021300,
+    "oldRating": 3712,
+    "newRating": 3550
+  },
+  {
+    "contestId": 1530,
+    "contestName": "Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1626543300,
+    "oldRating": 3550,
+    "newRating": 3574
+  },
+  {
+    "contestId": 1553,
+    "contestName": "Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1626973500,
+    "oldRating": 3574,
+    "newRating": 3538
+  },
+  {
+    "contestId": 1548,
+    "contestName": "Codeforces Round 736 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1627837200,
+    "oldRating": 3538,
+    "newRating": 3511
+  },
+  {
+    "contestId": 1556,
+    "contestName": "Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1630256700,
+    "oldRating": 3511,
+    "newRating": 3511
+  },
+  {
+    "contestId": 1566,
+    "contestName": "Codeforces Global Round 16",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1631466300,
+    "oldRating": 3511,
+    "newRating": 3655
+  },
+  {
+    "contestId": 1580,
+    "contestName": "Codeforces Round 745 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1633004100,
+    "oldRating": 3655,
+    "newRating": 3627
+  },
+  {
+    "contestId": 1601,
+    "contestName": "Codeforces Round 751 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1635150900,
+    "oldRating": 3627,
+    "newRating": 3562
+  },
+  {
+    "contestId": 1603,
+    "contestName": "Codeforces Round 752 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 85,
+    "ratingUpdateTimeSeconds": 1635611700,
+    "oldRating": 3562,
+    "newRating": 3366
+  },
+  {
+    "contestId": 1610,
+    "contestName": "Codeforces Global Round 17",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1637688900,
+    "oldRating": 3366,
+    "newRating": 3525
+  },
+  {
+    "contestId": 1609,
+    "contestName": "Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 27,
+    "ratingUpdateTimeSeconds": 1638119100,
+    "oldRating": 3525,
+    "newRating": 3418
+  },
+  {
+    "contestId": 1615,
+    "contestName": "Codeforces Global Round 18",
+    "handle": "Radewoosh",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1640365500,
+    "oldRating": 3418,
+    "newRating": 3405
+  },
+  {
+    "contestId": 1616,
+    "contestName": "Good Bye 2021: 2022 is NEAR",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1640799300,
+    "oldRating": 3405,
+    "newRating": 3469
+  },
+  {
+    "contestId": 1621,
+    "contestName": "Hello 2022",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1641228600,
+    "oldRating": 3469,
+    "newRating": 3545
+  },
+  {
+    "contestId": 1630,
+    "contestName": "Codeforces Round 768 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1643301300,
+    "oldRating": 3545,
+    "newRating": 3548
+  },
+  {
+    "contestId": 1637,
+    "contestName": "Codeforces Global Round 19",
+    "handle": "Radewoosh",
+    "rank": 45,
+    "ratingUpdateTimeSeconds": 1644685500,
+    "oldRating": 3548,
+    "newRating": 3404
+  },
+  {
+    "contestId": 1656,
+    "contestName": "CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1648139700,
+    "oldRating": 3404,
+    "newRating": 3444
+  },
+  {
+    "contestId": 1667,
+    "contestName": "Codeforces Round 783 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1650386100,
+    "oldRating": 3444,
+    "newRating": 3399
+  },
+  {
+    "contestId": 1684,
+    "contestName": "Codeforces Round 792 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 44,
+    "ratingUpdateTimeSeconds": 1652978100,
+    "oldRating": 3399,
+    "newRating": 3287
+  },
+  {
+    "contestId": 1687,
+    "contestName": "Codeforces Round 796 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 77,
+    "ratingUpdateTimeSeconds": 1654274100,
+    "oldRating": 3287,
+    "newRating": 3149
+  },
+  {
+    "contestId": 1693,
+    "contestName": "Codeforces Round 800 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1655397300,
+    "oldRating": 3149,
+    "newRating": 3379
+  },
+  {
+    "contestId": 1696,
+    "contestName": "Codeforces Global Round 21",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1656175800,
+    "oldRating": 3379,
+    "newRating": 3406
+  },
+  {
+    "contestId": 1718,
+    "contestName": "Codeforces Round 814 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1660667700,
+    "oldRating": 3406,
+    "newRating": 3442
+  },
+  {
+    "contestId": 1737,
+    "contestName": "Dytechlab Cup 2022",
+    "handle": "Radewoosh",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1665162300,
+    "oldRating": 3442,
+    "newRating": 3406
+  },
+  {
+    "contestId": 1753,
+    "contestName": "Codeforces Round 829 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1666518600,
+    "oldRating": 3406,
+    "newRating": 3438
+  },
+  {
+    "contestId": 1770,
+    "contestName": "Good Bye 2022: 2023 is NEAR",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1672419900,
+    "oldRating": 3438,
+    "newRating": 3528
+  },
+  {
+    "contestId": 1779,
+    "contestName": "Hello 2023",
+    "handle": "Radewoosh",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1672765500,
+    "oldRating": 3528,
+    "newRating": 3492
+  },
+  {
+    "contestId": 1782,
+    "contestName": "Codeforces Round 844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1673795100,
+    "oldRating": 3492,
+    "newRating": 3535
+  },
+  {
+    "contestId": 1787,
+    "contestName": "TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1675013700,
+    "oldRating": 3535,
+    "newRating": 3602
+  },
+  {
+    "contestId": 1801,
+    "contestName": "Codeforces Round 857 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 15,
+    "ratingUpdateTimeSeconds": 1678365300,
+    "oldRating": 3602,
+    "newRating": 3515
+  },
+  {
+    "contestId": 1804,
+    "contestName": "Nebius Welcome Round (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 100,
+    "ratingUpdateTimeSeconds": 1678638900,
+    "oldRating": 3515,
+    "newRating": 3319
+  },
+  {
+    "contestId": 1810,
+    "contestName": "CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1680280500,
+    "oldRating": 3319,
+    "newRating": 3436
+  },
+  {
+    "contestId": 1819,
+    "contestName": "Codeforces Round 866 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1681556700,
+    "oldRating": 3436,
+    "newRating": 3515
+  },
+  {
+    "contestId": 1817,
+    "contestName": "Codeforces Round 869 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 54,
+    "ratingUpdateTimeSeconds": 1682787000,
+    "oldRating": 3515,
+    "newRating": 3350
+  },
+  {
+    "contestId": 1824,
+    "contestName": "Codeforces Round 872 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1683554700,
+    "oldRating": 3350,
+    "newRating": 3279
+  },
+  {
+    "contestId": 1830,
+    "contestName": "Codeforces Round 875 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1685293500,
+    "oldRating": 3279,
+    "newRating": 3342
+  },
+  {
+    "contestId": 1852,
+    "contestName": "Codeforces Round 887 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1690131900,
+    "oldRating": 3342,
+    "newRating": 3438
+  },
+  {
+    "contestId": 1854,
+    "contestName": "Codeforces Round 889 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1690650300,
+    "oldRating": 3438,
+    "newRating": 3598
+  },
+  {
+    "contestId": 1864,
+    "contestName": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1693071300,
+    "oldRating": 3598,
+    "newRating": 3709
+  },
+  {
+    "contestId": 1863,
+    "contestName": "Pinely Round 2 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1693416900,
+    "oldRating": 3709,
+    "newRating": 3740
+  },
+  {
+    "contestId": 1870,
+    "contestName": "CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1695055800,
+    "oldRating": 3740,
+    "newRating": 3651
+  },
+  {
+    "contestId": 1876,
+    "contestName": "Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1696764900,
+    "oldRating": 3651,
+    "newRating": 3752
+  },
+  {
+    "contestId": 1889,
+    "contestName": "Codeforces Round 906 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1698512700,
+    "oldRating": 3752,
+    "newRating": 3714
+  },
+  {
+    "contestId": 1893,
+    "contestName": "Codeforces Round 908 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1699374900,
+    "oldRating": 3714,
+    "newRating": 3648
+  },
+  {
+    "contestId": 1896,
+    "contestName": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1700932800,
+    "oldRating": 3648,
+    "newRating": 3759
+  },
+  {
+    "contestId": 1909,
+    "contestName": "Pinely Round 3 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1703352900,
+    "oldRating": 3759,
+    "newRating": 3606
+  },
+  {
+    "contestId": 1924,
+    "contestName": "Codeforces Round 921 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 111,
+    "ratingUpdateTimeSeconds": 1706373900,
+    "oldRating": 3606,
+    "newRating": 3376
+  },
+  {
+    "contestId": 1936,
+    "contestName": "Codeforces Round 930 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1709224500,
+    "oldRating": 3376,
+    "newRating": 3532
+  },
+  {
+    "contestId": 1942,
+    "contestName": "CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1711820100,
+    "oldRating": 3532,
+    "newRating": 3611
+  },
+  {
+    "contestId": 1951,
+    "contestName": "Codeforces Global Round 25",
+    "handle": "Radewoosh",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1712424900,
+    "oldRating": 3611,
+    "newRating": 3521
+  },
+  {
+    "contestId": 1967,
+    "contestName": "Codeforces Round 942 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1714496700,
+    "oldRating": 3521,
+    "newRating": 3509
+  },
+  {
+    "contestId": 1984,
+    "contestName": "Codeforces Global Round 26",
+    "handle": "Radewoosh",
+    "rank": 50,
+    "ratingUpdateTimeSeconds": 1717954500,
+    "oldRating": 3509,
+    "newRating": 3373
+  },
+  {
+    "contestId": 1987,
+    "contestName": "EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1719768900,
+    "oldRating": 3373,
+    "newRating": 3542
+  },
+  {
+    "contestId": 1994,
+    "contestName": "Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1721320500,
+    "oldRating": 3542,
+    "newRating": 3522
+  },
+  {
+    "contestId": 1991,
+    "contestName": "Pinely Round 4 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1722188100,
+    "oldRating": 3522,
+    "newRating": 3582
+  },
+  {
+    "contestId": 2002,
+    "contestName": "EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1723397700,
+    "oldRating": 3582,
+    "newRating": 3646
+  },
+  {
+    "contestId": 2006,
+    "contestName": "Codeforces Round 969 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1725037500,
+    "oldRating": 3646,
+    "newRating": 3646
+  },
+  {
+    "contestId": 2029,
+    "contestName": "Refact.ai Match 1 (Codeforces Round 985)",
+    "handle": "Radewoosh",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1731173700,
+    "oldRating": 3646,
+    "newRating": 3633
+  },
+  {
+    "contestId": 2039,
+    "contestName": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "Radewoosh",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1732383300,
+    "oldRating": 3633,
+    "newRating": 3627
+  },
+  {
+    "contestId": 2034,
+    "contestName": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 39,
+    "ratingUpdateTimeSeconds": 1732988100,
+    "oldRating": 3627,
+    "newRating": 3483
+  },
+  {
+    "contestId": 2048,
+    "contestName": "Codeforces Global Round 28",
+    "handle": "Radewoosh",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1734629700,
+    "oldRating": 3483,
+    "newRating": 3410
+  },
+  {
+    "contestId": 2053,
+    "contestName": "Good Bye 2024: 2025 is NEAR",
+    "handle": "Radewoosh",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1735407300,
+    "oldRating": 3410,
+    "newRating": 3456
+  },
+  {
+    "contestId": 2057,
+    "contestName": "Hello 2025",
+    "handle": "Radewoosh",
+    "rank": 41,
+    "ratingUpdateTimeSeconds": 1736010300,
+    "oldRating": 3456,
+    "newRating": 3355
+  },
+  {
+    "contestId": 2066,
+    "contestName": "Codeforces Round 1004 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1739291700,
+    "oldRating": 3355,
+    "newRating": 3463
+  },
+  {
+    "contestId": 2096,
+    "contestName": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
+    "handle": "Radewoosh",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1745080500,
+    "oldRating": 3463,
+    "newRating": 3481
+  },
+  {
+    "contestId": 2101,
+    "contestName": "Codeforces Round 1024 (Div. 1)",
+    "handle": "Radewoosh",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1746983100,
+    "oldRating": 3481,
+    "newRating": 3631
+  }
+]

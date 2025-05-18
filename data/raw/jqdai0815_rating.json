@@ -1,0 +1,1181 @@
+[
+  {
+    "contestId": 96,
+    "contestName": "Codeforces Beta Round 77 (Div. 2 Only)",
+    "handle": "jqdai0815",
+    "rank": 287,
+    "ratingUpdateTimeSeconds": 1310144400,
+    "oldRating": 0,
+    "newRating": 1526
+  },
+  {
+    "contestId": 104,
+    "contestName": "Codeforces Beta Round 80 (Div. 2 Only)",
+    "handle": "jqdai0815",
+    "rank": 34,
+    "ratingUpdateTimeSeconds": 1312722000,
+    "oldRating": 1526,
+    "newRating": 1648
+  },
+  {
+    "contestId": 108,
+    "contestName": "Codeforces Beta Round 83 (Div. 2 Only)",
+    "handle": "jqdai0815",
+    "rank": 53,
+    "ratingUpdateTimeSeconds": 1314118800,
+    "oldRating": 1648,
+    "newRating": 1677
+  },
+  {
+    "contestId": 192,
+    "contestName": "Codeforces Round 121 (Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1338139800,
+    "oldRating": 1677,
+    "newRating": 1748
+  },
+  {
+    "contestId": 217,
+    "contestName": "Codeforces Round 134 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 43,
+    "ratingUpdateTimeSeconds": 1345280700,
+    "oldRating": 1748,
+    "newRating": 1873
+  },
+  {
+    "contestId": 235,
+    "contestName": "Codeforces Round 146 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 133,
+    "ratingUpdateTimeSeconds": 1350810600,
+    "oldRating": 1873,
+    "newRating": 1906
+  },
+  {
+    "contestId": 258,
+    "contestName": "Codeforces Round 157 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 266,
+    "ratingUpdateTimeSeconds": 1356197400,
+    "oldRating": 1906,
+    "newRating": 1863
+  },
+  {
+    "contestId": 372,
+    "contestName": "Codeforces Round 219 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1386950400,
+    "oldRating": 1863,
+    "newRating": 2117
+  },
+  {
+    "contestId": 379,
+    "contestName": "Good Bye 2013",
+    "handle": "jqdai0815",
+    "rank": 42,
+    "ratingUpdateTimeSeconds": 1388424600,
+    "oldRating": 2117,
+    "newRating": 2242
+  },
+  {
+    "contestId": 480,
+    "contestName": "Codeforces Round 274 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 49,
+    "ratingUpdateTimeSeconds": 1413716400,
+    "oldRating": 2242,
+    "newRating": 2302
+  },
+  {
+    "contestId": 500,
+    "contestName": "Good Bye 2014",
+    "handle": "jqdai0815",
+    "rank": 20,
+    "ratingUpdateTimeSeconds": 1419960600,
+    "oldRating": 2302,
+    "newRating": 2429
+  },
+  {
+    "contestId": 504,
+    "contestName": "Codeforces Round 285 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1421060400,
+    "oldRating": 2429,
+    "newRating": 2510
+  },
+  {
+    "contestId": 506,
+    "contestName": "Codeforces Round 286 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1421593200,
+    "oldRating": 2510,
+    "newRating": 2564
+  },
+  {
+    "contestId": 512,
+    "contestName": "Codeforces Round 290 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1422902100,
+    "oldRating": 2564,
+    "newRating": 2643
+  },
+  {
+    "contestId": 521,
+    "contestName": "Codeforces Round 295 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1425287100,
+    "oldRating": 2643,
+    "newRating": 2667
+  },
+  {
+    "contestId": 528,
+    "contestName": "Codeforces Round 296 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 25,
+    "ratingUpdateTimeSeconds": 1426617900,
+    "oldRating": 2667,
+    "newRating": 2665
+  },
+  {
+    "contestId": 526,
+    "contestName": "ZeptoLab Code Rush 2015",
+    "handle": "jqdai0815",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1428174300,
+    "oldRating": 2665,
+    "newRating": 2705
+  },
+  {
+    "contestId": 533,
+    "contestName": "VK Cup 2015 - Round 2 (unofficial online mirror, Div. 1 only)",
+    "handle": "jqdai0815",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1429295400,
+    "oldRating": 2705,
+    "newRating": 2688
+  },
+  {
+    "contestId": 538,
+    "contestName": "Codeforces Round 300",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1430073000,
+    "oldRating": 2688,
+    "newRating": 2723
+  },
+  {
+    "contestId": 547,
+    "contestName": "Codeforces Round 305 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1432665300,
+    "oldRating": 2723,
+    "newRating": 2783
+  },
+  {
+    "contestId": 549,
+    "contestName": "Looksery Cup 2015",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1433604600,
+    "oldRating": 2783,
+    "newRating": 2817
+  },
+  {
+    "contestId": 553,
+    "contestName": "Codeforces Round 309 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1435171200,
+    "oldRating": 2817,
+    "newRating": 2820
+  },
+  {
+    "contestId": 555,
+    "contestName": "Codeforces Round 310 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1435421400,
+    "oldRating": 2820,
+    "newRating": 2825
+  },
+  {
+    "contestId": 559,
+    "contestName": "Codeforces Round 313 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1437580800,
+    "oldRating": 2825,
+    "newRating": 2923
+  },
+  {
+    "contestId": 566,
+    "contestName": "VK Cup 2015 - Finals, online mirror",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1438284000,
+    "oldRating": 2923,
+    "newRating": 2903
+  },
+  {
+    "contestId": 568,
+    "contestName": "Codeforces Round 315 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1439231400,
+    "oldRating": 2903,
+    "newRating": 2826
+  },
+  {
+    "contestId": 601,
+    "contestName": "Codeforces Round 333 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1448390100,
+    "oldRating": 2826,
+    "newRating": 2974
+  },
+  {
+    "contestId": 603,
+    "contestName": "Codeforces Round 334 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1448991300,
+    "oldRating": 2974,
+    "newRating": 2994
+  },
+  {
+    "contestId": 605,
+    "contestName": "Codeforces Round 335 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1449684300,
+    "oldRating": 2994,
+    "newRating": 3098
+  },
+  {
+    "contestId": 607,
+    "contestName": "Codeforces Round 336 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1450895700,
+    "oldRating": 3098,
+    "newRating": 3122
+  },
+  {
+    "contestId": 611,
+    "contestName": "Good Bye 2015",
+    "handle": "jqdai0815",
+    "rank": 52,
+    "ratingUpdateTimeSeconds": 1451498700,
+    "oldRating": 3122,
+    "newRating": 3000
+  },
+  {
+    "contestId": 623,
+    "contestName": "AIM Tech Round (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1454612700,
+    "oldRating": 3000,
+    "newRating": 3040
+  },
+  {
+    "contestId": 626,
+    "contestName": "8VC Venture Cup 2016 - Elimination Round",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1455393900,
+    "oldRating": 3040,
+    "newRating": 3148
+  },
+  {
+    "contestId": 633,
+    "contestName": "Manthan, Codefest 16",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1456515900,
+    "oldRating": 3148,
+    "newRating": 3183
+  },
+  {
+    "contestId": 650,
+    "contestName": "Codeforces Round 345 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1457349900,
+    "oldRating": 3183,
+    "newRating": 3250
+  },
+  {
+    "contestId": 655,
+    "contestName": "CROC 2016 - Elimination Round  (Rated Unofficial Edition)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1458326100,
+    "oldRating": 3250,
+    "newRating": 3312
+  },
+  {
+    "contestId": 653,
+    "contestName": "IndiaHacks 2016 - Online Edition (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1458383700,
+    "oldRating": 3312,
+    "newRating": 3378
+  },
+  {
+    "contestId": 668,
+    "contestName": "Codeforces Round 348 (VK Cup 2016 Round 2, Div. 1 Edition)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1461522900,
+    "oldRating": 3378,
+    "newRating": 3386
+  },
+  {
+    "contestId": 671,
+    "contestName": "Codeforces Round 352 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1462991700,
+    "oldRating": 3386,
+    "newRating": 3240
+  },
+  {
+    "contestId": 687,
+    "contestName": "Codeforces Round 360 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1467227100,
+    "oldRating": 3240,
+    "newRating": 3365
+  },
+  {
+    "contestId": 696,
+    "contestName": "Codeforces Round 362 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1468522200,
+    "oldRating": 3365,
+    "newRating": 3441
+  },
+  {
+    "contestId": 698,
+    "contestName": "Codeforces Round 363 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1468941600,
+    "oldRating": 3441,
+    "newRating": 3416
+  },
+  {
+    "contestId": 708,
+    "contestName": "AIM Tech Round 3 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1472063700,
+    "oldRating": 3416,
+    "newRating": 3317
+  },
+  {
+    "contestId": 713,
+    "contestName": "Codeforces Round 371 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 27,
+    "ratingUpdateTimeSeconds": 1473791700,
+    "oldRating": 3317,
+    "newRating": 3183
+  },
+  {
+    "contestId": 715,
+    "contestName": "Codeforces Round 372 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1474127100,
+    "oldRating": 3183,
+    "newRating": 3285
+  },
+  {
+    "contestId": 724,
+    "contestName": "Intel Code Challenge Final Round (Div. 1 + Div. 2, Combined)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1475939700,
+    "oldRating": 3285,
+    "newRating": 3367
+  },
+  {
+    "contestId": 725,
+    "contestName": "Canada Cup 2016",
+    "handle": "jqdai0815",
+    "rank": 35,
+    "ratingUpdateTimeSeconds": 1477157700,
+    "oldRating": 3367,
+    "newRating": 3211
+  },
+  {
+    "contestId": 739,
+    "contestName": "Codeforces Round 381 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1479926100,
+    "oldRating": 3211,
+    "newRating": 3333
+  },
+  {
+    "contestId": 736,
+    "contestName": "Codeforces Round 382 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1480271700,
+    "oldRating": 3333,
+    "newRating": 3226
+  },
+  {
+    "contestId": 741,
+    "contestName": "Codeforces Round 383 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1481042100,
+    "oldRating": 3226,
+    "newRating": 3320
+  },
+  {
+    "contestId": 744,
+    "contestName": "Codeforces Round 385 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1481999700,
+    "oldRating": 3320,
+    "newRating": 3267
+  },
+  {
+    "contestId": 757,
+    "contestName": "Codecraft-17 and Codeforces Round 391 (Div. 1 + Div. 2, combined)",
+    "handle": "jqdai0815",
+    "rank": 19,
+    "ratingUpdateTimeSeconds": 1484246100,
+    "oldRating": 3267,
+    "newRating": 3171
+  },
+  {
+    "contestId": 755,
+    "contestName": "8VC Venture Cup 2017 - Elimination Round",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1484507100,
+    "oldRating": 3171,
+    "newRating": 3282
+  },
+  {
+    "contestId": 763,
+    "contestName": "Codeforces Round 395 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1486049700,
+    "oldRating": 3282,
+    "newRating": 3379
+  },
+  {
+    "contestId": 768,
+    "contestName": "Divide by Zero 2017 and Codeforces Round 399 (Div. 1 + Div. 2, combined)",
+    "handle": "jqdai0815",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1487616300,
+    "oldRating": 3379,
+    "newRating": 3300
+  },
+  {
+    "contestId": 776,
+    "contestName": "ICM Technex 2017 and Codeforces Round 400 (Div. 1 + Div. 2, combined)",
+    "handle": "jqdai0815",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1487868900,
+    "oldRating": 3300,
+    "newRating": 3257
+  },
+  {
+    "contestId": 778,
+    "contestName": "Codeforces Round 402 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1488103500,
+    "oldRating": 3257,
+    "newRating": 3202
+  },
+  {
+    "contestId": 781,
+    "contestName": "Codeforces Round 403 (Div. 1, based on Technocup 2017 Finals)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1488726300,
+    "oldRating": 3202,
+    "newRating": 3242
+  },
+  {
+    "contestId": 790,
+    "contestName": "Codeforces Round 405 (rated, Div. 1, based on VK Cup 2017 Round 1)",
+    "handle": "jqdai0815",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1489858500,
+    "oldRating": 3242,
+    "newRating": 3157
+  },
+  {
+    "contestId": 786,
+    "contestName": "Codeforces Round 406 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1490288700,
+    "oldRating": 3157,
+    "newRating": 3272
+  },
+  {
+    "contestId": 788,
+    "contestName": "Codeforces Round 407 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1490810700,
+    "oldRating": 3272,
+    "newRating": 3286
+  },
+  {
+    "contestId": 800,
+    "contestName": "Codeforces Round 409 (rated, Div. 1, based on VK Cup 2017 Round 2)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1492364100,
+    "oldRating": 3286,
+    "newRating": 3307
+  },
+  {
+    "contestId": 793,
+    "contestName": "Tinkoff Challenge - Elimination Round",
+    "handle": "jqdai0815",
+    "rank": 24,
+    "ratingUpdateTimeSeconds": 1492973100,
+    "oldRating": 3307,
+    "newRating": 3196
+  },
+  {
+    "contestId": 804,
+    "contestName": "Codeforces Round 411 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1493916600,
+    "oldRating": 3196,
+    "newRating": 3149
+  },
+  {
+    "contestId": 806,
+    "contestName": "Codeforces Round 412 (rated, Div. 1, based on VK Cup 2017 Round 3)",
+    "handle": "jqdai0815",
+    "rank": 18,
+    "ratingUpdateTimeSeconds": 1494182700,
+    "oldRating": 3149,
+    "newRating": 3085
+  },
+  {
+    "contestId": 794,
+    "contestName": "Tinkoff Challenge - Final Round (Codeforces Round 414, rated, Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1494675300,
+    "oldRating": 3085,
+    "newRating": 3051
+  },
+  {
+    "contestId": 827,
+    "contestName": "Codeforces Round 423 (Div. 1, rated, based on VK Cup Finals)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1499798700,
+    "oldRating": 3051,
+    "newRating": 3152
+  },
+  {
+    "contestId": 830,
+    "contestName": "Codeforces Round 424 (Div. 1, rated, based on VK Cup Finals)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1499965500,
+    "oldRating": 3152,
+    "newRating": 3240
+  },
+  {
+    "contestId": 833,
+    "contestName": "Codeforces Round 426 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 28,
+    "ratingUpdateTimeSeconds": 1501432500,
+    "oldRating": 3240,
+    "newRating": 3122
+  },
+  {
+    "contestId": 843,
+    "contestName": "AIM Tech Round 4 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1503601500,
+    "oldRating": 3122,
+    "newRating": 3152
+  },
+  {
+    "contestId": 848,
+    "contestName": "Codeforces Round 431 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1504280100,
+    "oldRating": 3152,
+    "newRating": 3146
+  },
+  {
+    "contestId": 859,
+    "contestName": "MemSQL Start[c]UP 3.0 - Round 1",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1505592300,
+    "oldRating": 3146,
+    "newRating": 3288
+  },
+  {
+    "contestId": 855,
+    "contestName": "Manthan, Codefest 17",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1506272700,
+    "oldRating": 3288,
+    "newRating": 3333
+  },
+  {
+    "contestId": 866,
+    "contestName": "MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round 437 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1506801900,
+    "oldRating": 3333,
+    "newRating": 3291
+  },
+  {
+    "contestId": 868,
+    "contestName": "Codeforces Round 438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1507197900,
+    "oldRating": 3291,
+    "newRating": 3318
+  },
+  {
+    "contestId": 875,
+    "contestName": "Codeforces Round 441 (Div. 1, by Moscow Team Olympiad)",
+    "handle": "jqdai0815",
+    "rank": 28,
+    "ratingUpdateTimeSeconds": 1508159100,
+    "oldRating": 3318,
+    "newRating": 3158
+  },
+  {
+    "contestId": 878,
+    "contestName": "Codeforces Round 443 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1509036300,
+    "oldRating": 3158,
+    "newRating": 3181
+  },
+  {
+    "contestId": 891,
+    "contestName": "Codeforces Round 446 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1510936500,
+    "oldRating": 3181,
+    "newRating": 3288
+  },
+  {
+    "contestId": 906,
+    "contestName": "Codeforces Round 454 (Div. 1, based on Technocup 2018 Elimination Round 4)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1514045100,
+    "oldRating": 3288,
+    "newRating": 3381
+  },
+  {
+    "contestId": 908,
+    "contestName": "Good Bye 2017",
+    "handle": "jqdai0815",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1514571000,
+    "oldRating": 3381,
+    "newRating": 3319
+  },
+  {
+    "contestId": 913,
+    "contestName": "Hello 2018",
+    "handle": "jqdai0815",
+    "rank": 30,
+    "ratingUpdateTimeSeconds": 1515431700,
+    "oldRating": 3319,
+    "newRating": 3199
+  },
+  {
+    "contestId": 917,
+    "contestName": "Codeforces Round 459 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1517243700,
+    "oldRating": 3199,
+    "newRating": 3294
+  },
+  {
+    "contestId": 933,
+    "contestName": "Codeforces Round 462 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1518617100,
+    "oldRating": 3294,
+    "newRating": 3188
+  },
+  {
+    "contestId": 930,
+    "contestName": "Codeforces Round 468 (Div. 1, based on Technocup 2018 Final Round)",
+    "handle": "jqdai0815",
+    "rank": 23,
+    "ratingUpdateTimeSeconds": 1520184900,
+    "oldRating": 3188,
+    "newRating": 3083
+  },
+  {
+    "contestId": 956,
+    "contestName": "Codeforces Round 472 (rated, Div. 1, based on VK Cup 2018 Round 2)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1521913800,
+    "oldRating": 3083,
+    "newRating": 3102
+  },
+  {
+    "contestId": 960,
+    "contestName": "Divide by Zero 2018 and Codeforces Round 474 (Div. 1 + Div. 2, combined)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1523126100,
+    "oldRating": 3102,
+    "newRating": 3242
+  },
+  {
+    "contestId": 963,
+    "contestName": "Tinkoff Internship Warmup Round 2018 and Codeforces Round 475 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1523981100,
+    "oldRating": 3242,
+    "newRating": 3289
+  },
+  {
+    "contestId": 966,
+    "contestName": "Codeforces Round 477 (rated, Div. 1, based on VK Cup 2018 Round 3)",
+    "handle": "jqdai0815",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1525016700,
+    "oldRating": 3289,
+    "newRating": 3201
+  },
+  {
+    "contestId": 983,
+    "contestName": "Codeforces Round 483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!]",
+    "handle": "jqdai0815",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1526402700,
+    "oldRating": 3201,
+    "newRating": 3181
+  },
+  {
+    "contestId": 981,
+    "contestName": "Avito Code Challenge 2018",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1527443400,
+    "oldRating": 3181,
+    "newRating": 3253
+  },
+  {
+    "contestId": 986,
+    "contestName": "Codeforces Round 485 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1527615900,
+    "oldRating": 3253,
+    "newRating": 3314
+  },
+  {
+    "contestId": 995,
+    "contestName": "Codeforces Round 492 (Div. 1) [Thanks, uDebug!]",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1529865300,
+    "oldRating": 3314,
+    "newRating": 3419
+  },
+  {
+    "contestId": 997,
+    "contestName": "Codeforces Round 493 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 22,
+    "ratingUpdateTimeSeconds": 1530461100,
+    "oldRating": 3419,
+    "newRating": 3280
+  },
+  {
+    "contestId": 1028,
+    "contestName": "AIM Tech Round 5 (rated, Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1535395800,
+    "oldRating": 3280,
+    "newRating": 3327
+  },
+  {
+    "contestId": 1054,
+    "contestName": "Mail.Ru Cup 2018 Round 1",
+    "handle": "jqdai0815",
+    "rank": 9,
+    "ratingUpdateTimeSeconds": 1539889500,
+    "oldRating": 3327,
+    "newRating": 3264
+  },
+  {
+    "contestId": 1110,
+    "contestName": "Codeforces Global Round 1",
+    "handle": "jqdai0815",
+    "rank": 6,
+    "ratingUpdateTimeSeconds": 1549553700,
+    "oldRating": 3264,
+    "newRating": 3293
+  },
+  {
+    "contestId": 1109,
+    "contestName": "Codeforces Round 539 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1550343900,
+    "oldRating": 3293,
+    "newRating": 3329
+  },
+  {
+    "contestId": 1208,
+    "contestName": "Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1566751200,
+    "oldRating": 3329,
+    "newRating": 3372
+  },
+  {
+    "contestId": 1214,
+    "contestName": "Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1567596900,
+    "oldRating": 3372,
+    "newRating": 3463
+  },
+  {
+    "contestId": 1209,
+    "contestName": "Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1568475300,
+    "oldRating": 3463,
+    "newRating": 3512
+  },
+  {
+    "contestId": 1220,
+    "contestName": "Codeforces Round 586 (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 62,
+    "ratingUpdateTimeSeconds": 1568829900,
+    "oldRating": 3512,
+    "newRating": 3286
+  },
+  {
+    "contestId": 1229,
+    "contestName": "Codeforces Round 588 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1569256500,
+    "oldRating": 3286,
+    "newRating": 3309
+  },
+  {
+    "contestId": 1237,
+    "contestName": "Codeforces Global Round 5",
+    "handle": "jqdai0815",
+    "rank": 13,
+    "ratingUpdateTimeSeconds": 1571245500,
+    "oldRating": 3309,
+    "newRating": 3276
+  },
+  {
+    "contestId": 1239,
+    "contestName": "Codeforces Round 594 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1571569500,
+    "oldRating": 3276,
+    "newRating": 3258
+  },
+  {
+    "contestId": 1246,
+    "contestName": "Codeforces Round 596 (Div. 1, based on Technocup 2020 Elimination Round 2)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1572095100,
+    "oldRating": 3258,
+    "newRating": 3349
+  },
+  {
+    "contestId": 1242,
+    "contestName": "Codeforces Round 599 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1573059900,
+    "oldRating": 3349,
+    "newRating": 3425
+  },
+  {
+    "contestId": 1261,
+    "contestName": "Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",
+    "handle": "jqdai0815",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1574589900,
+    "oldRating": 3425,
+    "newRating": 3411
+  },
+  {
+    "contestId": 1264,
+    "contestName": "Codeforces Round 604 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1575563700,
+    "oldRating": 3411,
+    "newRating": 3520
+  },
+  {
+    "contestId": 1299,
+    "contestName": "Codeforces Round 618 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1581264300,
+    "oldRating": 3520,
+    "newRating": 3600
+  },
+  {
+    "contestId": 1307,
+    "contestName": "Codeforces Round 621 (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 1,
+    "ratingUpdateTimeSeconds": 1581961800,
+    "oldRating": 3600,
+    "newRating": 3681
+  },
+  {
+    "contestId": 1621,
+    "contestName": "Hello 2022",
+    "handle": "jqdai0815",
+    "rank": 12,
+    "ratingUpdateTimeSeconds": 1641228600,
+    "oldRating": 3681,
+    "newRating": 3604
+  },
+  {
+    "contestId": 1648,
+    "contestName": "Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",
+    "handle": "jqdai0815",
+    "rank": 26,
+    "ratingUpdateTimeSeconds": 1646568600,
+    "oldRating": 3604,
+    "newRating": 3466
+  },
+  {
+    "contestId": 1852,
+    "contestName": "Codeforces Round 887 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1690131900,
+    "oldRating": 3466,
+    "newRating": 3491
+  },
+  {
+    "contestId": 1864,
+    "contestName": "Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1693071300,
+    "oldRating": 3491,
+    "newRating": 3538
+  },
+  {
+    "contestId": 1863,
+    "contestName": "Pinely Round 2 (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1693416900,
+    "oldRating": 3538,
+    "newRating": 3487
+  },
+  {
+    "contestId": 1868,
+    "contestName": "Codeforces Round 896 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 7,
+    "ratingUpdateTimeSeconds": 1694363700,
+    "oldRating": 3487,
+    "newRating": 3463
+  },
+  {
+    "contestId": 1870,
+    "contestName": "CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "jqdai0815",
+    "rank": 77,
+    "ratingUpdateTimeSeconds": 1695055800,
+    "oldRating": 3463,
+    "newRating": 3303
+  },
+  {
+    "contestId": 1874,
+    "contestName": "Codeforces Round 901 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1696095300,
+    "oldRating": 3303,
+    "newRating": 3370
+  },
+  {
+    "contestId": 1876,
+    "contestName": "Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",
+    "handle": "jqdai0815",
+    "rank": 16,
+    "ratingUpdateTimeSeconds": 1696764900,
+    "oldRating": 3370,
+    "newRating": 3335
+  },
+  {
+    "contestId": 1887,
+    "contestName": "Codeforces Round 905 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1697979900,
+    "oldRating": 3335,
+    "newRating": 3396
+  },
+  {
+    "contestId": 1889,
+    "contestName": "Codeforces Round 906 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 10,
+    "ratingUpdateTimeSeconds": 1698512700,
+    "oldRating": 3396,
+    "newRating": 3395
+  },
+  {
+    "contestId": 1893,
+    "contestName": "Codeforces Round 908 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 27,
+    "ratingUpdateTimeSeconds": 1699374900,
+    "oldRating": 3395,
+    "newRating": 3321
+  },
+  {
+    "contestId": 1896,
+    "contestName": "CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1700932800,
+    "oldRating": 3321,
+    "newRating": 3386
+  },
+  {
+    "contestId": 1909,
+    "contestName": "Pinely Round 3 (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 38,
+    "ratingUpdateTimeSeconds": 1703352900,
+    "oldRating": 3386,
+    "newRating": 3290
+  },
+  {
+    "contestId": 1916,
+    "contestName": "Good Bye 2023",
+    "handle": "jqdai0815",
+    "rank": 11,
+    "ratingUpdateTimeSeconds": 1703955000,
+    "oldRating": 3290,
+    "newRating": 3311
+  },
+  {
+    "contestId": 1951,
+    "contestName": "Codeforces Global Round 25",
+    "handle": "jqdai0815",
+    "rank": 5,
+    "ratingUpdateTimeSeconds": 1712424900,
+    "oldRating": 3311,
+    "newRating": 3387
+  },
+  {
+    "contestId": 1965,
+    "contestName": "Codeforces Round 941 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 8,
+    "ratingUpdateTimeSeconds": 1714235700,
+    "oldRating": 3387,
+    "newRating": 3379
+  },
+  {
+    "contestId": 1967,
+    "contestName": "Codeforces Round 942 (Div. 1)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1714496700,
+    "oldRating": 3379,
+    "newRating": 3474
+  },
+  {
+    "contestId": 1984,
+    "contestName": "Codeforces Global Round 26",
+    "handle": "jqdai0815",
+    "rank": 4,
+    "ratingUpdateTimeSeconds": 1717954500,
+    "oldRating": 3474,
+    "newRating": 3532
+  },
+  {
+    "contestId": 1991,
+    "contestName": "Pinely Round 4 (Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 2,
+    "ratingUpdateTimeSeconds": 1722188100,
+    "oldRating": 3532,
+    "newRating": 3620
+  },
+  {
+    "contestId": 2034,
+    "contestName": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
+    "handle": "jqdai0815",
+    "rank": 3,
+    "ratingUpdateTimeSeconds": 1732988100,
+    "oldRating": 3620,
+    "newRating": 3682
+  }
+]

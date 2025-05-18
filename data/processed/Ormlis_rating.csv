@@ -1,0 +1,148 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+1225,Technocup 2020 - Elimination Round 2,Ormlis,185,2019-10-26 13:05:00,0,1599,1599
+1262,"Codeforces Round 602 (Div. 2, based on Technocup 2020 Elimination Round 3)",Ormlis,443,2019-11-24 10:05:00,1599,1647,48
+1260,Educational Codeforces Round 77 (Rated for Div. 2),Ormlis,1406,2019-11-27 15:50:00,1647,1646,-1
+1263,Codeforces Round 603 (Div. 2),Ormlis,286,2019-11-29 16:35:00,1646,1763,117
+1265,Codeforces Round 604 (Div. 2),Ormlis,969,2019-12-05 16:35:00,1763,1745,-18
+1266,Codeforces Global Round 6,Ormlis,525,2019-12-17 17:35:00,1745,1846,101
+1278,Educational Codeforces Round 78 (Rated for Div. 2),Ormlis,1081,2019-12-19 16:35:00,1846,1817,-29
+1269,Codeforces Round 609 (Div. 2),Ormlis,730,2019-12-21 13:05:00,1817,1800,-17
+1282,Codeforces Round 610 (Div. 2),Ormlis,111,2019-12-24 16:35:00,1800,1923,123
+1279,Educational Codeforces Round 79 (Rated for Div. 2),Ormlis,142,2019-12-27 16:40:00,1923,1997,74
+1270,Good Bye 2019,Ormlis,630,2019-12-29 17:05:00,1997,2035,38
+1284,Hello 2020,Ormlis,869,2020-01-04 14:35:00,2035,2041,6
+1286,Codeforces Round 612 (Div. 1),Ormlis,756,2020-01-05 16:05:00,2041,1948,-93
+1285,Codeforces Round 613 (Div. 2),Ormlis,2555,2020-01-10 16:20:00,1948,1844,-104
+1288,Educational Codeforces Round 80 (Rated for Div. 2),Ormlis,123,2020-01-14 16:35:00,1844,1946,102
+1295,Educational Codeforces Round 81 (Rated for Div. 2),Ormlis,1600,2020-01-29 16:35:00,1946,1886,-60
+1300,Codeforces Round 618 (Div. 2),Ormlis,24,2020-02-09 16:05:00,1886,2041,155
+1303,Educational Codeforces Round 82 (Rated for Div. 2),Ormlis,246,2020-02-12 16:35:00,2041,2071,30
+1301,Codeforces Round 619 (Div. 2),Ormlis,105,2020-02-13 16:35:00,2071,2132,61
+1314,"Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",Ormlis,438,2020-02-23 18:35:00,2132,2060,-72
+1319,Технокубок 2020 - Финал,Ormlis,23,2020-03-01 13:10:00,2060,2173,113
+1322,"Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",Ormlis,553,2020-03-07 11:35:00,2173,2107,-66
+1326,Codeforces Global Round 7,Ormlis,478,2020-03-19 17:05:00,2107,2153,46
+1329,"Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",Ormlis,629,2020-04-03 16:35:00,2153,2142,-11
+1338,Codeforces Round 633 (Div. 1),Ormlis,248,2020-04-12 16:05:00,2142,2215,73
+1336,Codeforces Round 635 (Div. 1),Ormlis,857,2020-04-15 17:05:00,2215,2158,-57
+1381,Codeforces Round 658 (Div. 1),Ormlis,115,2020-07-21 16:35:00,2158,2284,126
+1383,Codeforces Round 659 (Div. 1),Ormlis,440,2020-07-24 16:35:00,2284,2268,-16
+1404,Codeforces Round 668 (Div. 1),Ormlis,242,2020-09-06 16:35:00,2268,2302,34
+1416,Codeforces Round 673 (Div. 1),Ormlis,165,2020-09-27 17:05:00,2302,2350,48
+1408,Grakn Forces 2020,Ormlis,249,2020-09-30 17:20:00,2350,2377,27
+1427,Codeforces Global Round 11,Ormlis,143,2020-10-10 17:50:00,2377,2445,68
+1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),Ormlis,469,2020-10-17 15:35:00,2445,2405,-40
+1413,Technocup 2021 - Elimination Round 1,Ormlis,6,2020-10-25 13:05:00,2405,2494,89
+1442,"Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",Ormlis,77,2020-11-02 16:35:00,2494,2542,48
+1446,"Codeforces Round 683 (Div. 1, by Meet IT)",Ormlis,116,2020-11-15 17:05:00,2542,2557,15
+1439,Codeforces Round 684 (Div. 1),Ormlis,189,2020-11-17 16:50:00,2557,2532,-25
+1456,"Codeforces Round 687 (Div. 1, based on Technocup 2021 Elimination Round 2)",Ormlis,303,2020-11-29 09:05:00,2532,2468,-64
+1450,Codeforces Global Round 12,Ormlis,183,2020-12-06 17:35:00,2468,2489,21
+1458,Codeforces Round 691 (Div. 1),Ormlis,81,2020-12-19 11:35:00,2489,2535,46
+1464,"Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",Ormlis,534,2020-12-20 17:05:00,2535,2415,-120
+1466,Good Bye 2020,Ormlis,146,2020-12-30 17:35:00,2415,2481,66
+1477,Codeforces Round 698 (Div. 1),Ormlis,202,2021-01-28 16:50:00,2481,2463,-18
+1479,Codeforces Round 700 (Div. 1),Ormlis,19,2021-02-07 16:50:00,2463,2648,185
+1491,Codeforces Global Round 13,Ormlis,363,2021-02-28 16:35:00,2648,2589,-59
+1482,Технокубок 2021 - Финал,Ormlis,1,2021-03-21 13:20:00,2589,2745,156
+1503,Codeforces Round 712 (Div. 1),Ormlis,74,2021-04-03 16:50:00,2745,2750,5
+1508,Codeforces Round 715 (Div. 1),Ormlis,134,2021-04-16 16:50:00,2750,2699,-51
+1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),Ormlis,197,2021-04-23 17:20:00,2699,2662,-37
+1515,Codeforces Global Round 14,Ormlis,26,2021-05-02 17:35:00,2662,2773,111
+1528,Codeforces Round 722 (Div. 1),Ormlis,63,2021-05-24 16:50:00,2773,2787,14
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",Ormlis,30,2021-05-30 16:50:00,2787,2870,83
+1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),Ormlis,295,2021-06-13 18:35:00,2870,2749,-121
+1540,Codeforces Round 728 (Div. 1),Ormlis,188,2021-06-25 17:50:00,2749,2664,-85
+1545,Codeforces Round 732 (Div. 1),Ormlis,37,2021-07-11 16:35:00,2664,2743,79
+1544,VK Cup 2021 - Elimination (Engine),Ormlis,41,2021-07-17 17:35:00,2743,2709,-34
+1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",Ormlis,23,2021-07-22 17:05:00,2709,2801,92
+1552,Codeforces Global Round 15,Ormlis,71,2021-07-25 17:20:00,2801,2815,14
+1548,Codeforces Round 736 (Div. 1),Ormlis,37,2021-08-01 17:00:00,2815,2868,53
+1558,"Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",Ormlis,7,2021-08-24 17:05:00,2868,3005,137
+1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",Ormlis,166,2021-08-29 17:05:00,3005,2905,-100
+1566,Codeforces Global Round 16,Ormlis,16,2021-09-12 17:05:00,2905,2993,88
+1580,Codeforces Round 745 (Div. 1),Ormlis,30,2021-09-30 12:15:00,2993,2980,-13
+1583,Technocup 2022 - Elimination Round 1,Ormlis,1,2021-10-17 13:20:00,2980,3051,71
+1601,Codeforces Round 751 (Div. 1),Ormlis,7,2021-10-25 08:35:00,3051,3115,64
+1588,"Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",Ormlis,15,2021-11-14 08:20:00,3115,3109,-6
+1610,Codeforces Global Round 17,Ormlis,31,2021-11-23 17:35:00,3109,3096,-13
+1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",Ormlis,248,2021-11-28 17:05:00,3096,2937,-159
+1615,Codeforces Global Round 18,Ormlis,52,2021-12-24 17:05:00,2937,2936,-1
+1616,Good Bye 2021: 2022 is NEAR,Ormlis,92,2021-12-29 17:35:00,2936,2906,-30
+1621,Hello 2022,Ormlis,39,2022-01-03 16:50:00,2906,2943,37
+1628,Codeforces Round 767 (Div. 1),Ormlis,35,2022-01-22 16:35:00,2943,2962,19
+1630,Codeforces Round 768 (Div. 1),Ormlis,78,2022-01-27 16:35:00,2962,2911,-51
+1641,Codeforces Round 773 (Div. 1),Ormlis,317,2022-02-23 12:10:00,2911,2765,-146
+1652,Технокубок 2022 - Финал,Ormlis,4,2022-03-20 11:15:00,2765,2794,29
+1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,208,2022-03-24 16:35:00,2794,2731,-63
+1672,Codeforces Global Round 20,Ormlis,24,2022-04-23 17:05:00,2731,2848,117
+1677,Codeforces Round 789 (Div. 1),Ormlis,10,2022-05-08 16:35:00,2848,2973,125
+1684,Codeforces Round 792 (Div. 1 + Div. 2),Ormlis,9,2022-05-19 16:35:00,2973,3088,115
+1685,Codeforces Round 794 (Div. 1),Ormlis,17,2022-05-25 19:50:00,3088,3098,10
+1687,Codeforces Round 796 (Div. 1),Ormlis,9,2022-06-03 16:35:00,3098,3183,85
+1693,Codeforces Round 800 (Div. 1),Ormlis,16,2022-06-16 16:35:00,3183,3205,22
+1696,Codeforces Global Round 21,Ormlis,32,2022-06-25 16:50:00,3205,3179,-26
+1707,Codeforces Round 808 (Div. 1),Ormlis,8,2022-07-16 16:35:00,3179,3243,64
+1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,84,2022-07-31 16:35:00,3243,3127,-116
+1718,Codeforces Round 814 (Div. 1),Ormlis,16,2022-08-16 16:35:00,3127,3147,20
+1738,Codeforces Global Round 22,Ormlis,15,2022-09-30 17:05:00,3147,3175,28
+1737,Dytechlab Cup 2022,Ormlis,32,2022-10-07 17:05:00,3175,3141,-34
+1746,Codeforces Global Round 23,Ormlis,15,2022-10-15 16:50:00,3141,3181,40
+1750,"CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,16,2022-11-06 17:05:00,3181,3178,-3
+1764,Codeforces Global Round 24,Ormlis,10,2022-11-26 16:35:00,3178,3217,39
+1774,"Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,33,2022-12-17 17:05:00,3217,3160,-57
+1770,Good Bye 2022: 2023 is NEAR,Ormlis,54,2022-12-30 17:05:00,3160,3116,-44
+1779,Hello 2023,Ormlis,19,2023-01-03 17:05:00,3116,3152,36
+1781,VK Cup 2022 - Отборочный раунд (Engine),Ormlis,13,2023-01-15 15:05:00,3152,3097,-55
+1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,20,2023-01-29 17:35:00,3097,3134,37
+1784,VK Cup 2022 - Финальный раунд (Engine),Ormlis,2,2023-02-05 15:05:00,3134,3191,57
+1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),Ormlis,2,2023-02-27 17:35:00,3191,3346,155
+1804,Nebius Welcome Round (Div. 1 + Div. 2),Ormlis,5,2023-03-12 16:35:00,3346,3410,64
+1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,13,2023-03-31 16:35:00,3410,3392,-18
+1815,Codeforces Round 865 (Div. 1),Ormlis,50,2023-04-09 17:00:00,3392,3252,-140
+1817,Codeforces Round 869 (Div. 1),Ormlis,100,2023-04-29 16:50:00,3252,3103,-149
+1824,Codeforces Round 872 (Div. 1),Ormlis,22,2023-05-08 14:05:00,3103,3101,-2
+1827,Codeforces Round 873 (Div. 1),Ormlis,8,2023-05-14 16:35:00,3101,3182,81
+1830,Codeforces Round 875 (Div. 1),Ormlis,1,2023-05-28 17:05:00,3182,3396,214
+1835,Codeforces Round 880 (Div. 1),Ormlis,34,2023-06-18 16:35:00,3396,3299,-97
+1844,Codeforces Round 884 (Div. 1 + Div. 2),Ormlis,17,2023-07-11 17:35:00,3299,3273,-26
+1852,Codeforces Round 887 (Div. 1),Ormlis,71,2023-07-23 17:05:00,3273,3147,-126
+1854,Codeforces Round 889 (Div. 1),Ormlis,17,2023-07-29 17:05:00,3147,3174,27
+1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),Ormlis,12,2023-08-26 17:35:00,3174,3200,26
+1863,Pinely Round 2 (Div. 1 + Div. 2),Ormlis,5,2023-08-30 17:35:00,3200,3294,94
+1868,Codeforces Round 896 (Div. 1),Ormlis,30,2023-09-10 16:35:00,3294,3223,-71
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,12,2023-09-18 16:50:00,3223,3261,38
+1874,Codeforces Round 901 (Div. 1),Ormlis,106,2023-09-30 17:35:00,3261,3115,-146
+1889,Codeforces Round 906 (Div. 1),Ormlis,15,2023-10-28 17:05:00,3115,3148,33
+1893,Codeforces Round 908 (Div. 1),Ormlis,2,2023-11-07 16:35:00,3148,3336,188
+1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,22,2023-11-25 17:20:00,3336,3286,-50
+1909,Pinely Round 3 (Div. 1 + Div. 2),Ormlis,29,2023-12-23 17:35:00,3286,3236,-50
+1916,Good Bye 2023,Ormlis,29,2023-12-30 16:50:00,3236,3208,-28
+1919,Hello 2024,Ormlis,42,2024-01-06 17:05:00,3208,3167,-41
+1924,Codeforces Round 921 (Div. 1),Ormlis,18,2024-01-27 16:45:00,3167,3180,13
+1930,think-cell Round 1,Ormlis,5,2024-02-17 17:35:00,3180,3275,95
+1943,Codeforces Round 934 (Div. 1),Ormlis,10,2024-03-16 17:00:00,3275,3288,13
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,118,2024-03-30 17:35:00,3288,3146,-142
+1951,Codeforces Global Round 25,Ormlis,15,2024-04-06 17:35:00,3146,3187,41
+1967,Codeforces Round 942 (Div. 1),Ormlis,39,2024-04-30 17:05:00,3187,3144,-43
+1975,Codeforces Round 947 (Div. 1 + Div. 2),Ormlis,35,2024-05-25 17:35:00,3144,3095,-49
+1984,Codeforces Global Round 26,Ormlis,14,2024-06-09 17:35:00,3095,3159,64
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),Ormlis,15,2024-06-30 17:35:00,3159,3184,25
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),Ormlis,10,2024-07-18 16:35:00,3184,3227,43
+1991,Pinely Round 4 (Div. 1 + Div. 2),Ormlis,116,2024-07-28 17:35:00,3227,3102,-125
+2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),Ormlis,8,2024-08-11 17:35:00,3102,3192,90
+2006,Codeforces Round 969 (Div. 1),Ormlis,29,2024-08-30 17:05:00,3192,3159,-33
+2035,Codeforces Global Round 27,Ormlis,19,2024-10-27 17:35:00,3159,3168,9
+2029,Refact.ai Match 1 (Codeforces Round 985),Ormlis,15,2024-11-09 17:35:00,3168,3184,16
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",Ormlis,15,2024-11-23 17:35:00,3184,3222,38
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",Ormlis,135,2024-11-30 17:35:00,3222,3088,-134
+2048,Codeforces Global Round 28,Ormlis,8,2024-12-19 17:35:00,3088,3175,87
+2053,Good Bye 2024: 2025 is NEAR,Ormlis,7,2024-12-28 17:35:00,3175,3260,85
+2057,Hello 2025,Ormlis,5,2025-01-04 17:05:00,3260,3354,94
+2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",Ormlis,22,2025-01-20 17:35:00,3354,3313,-41
+2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",Ormlis,7,2025-01-26 17:05:00,3313,3381,68
+2066,Codeforces Round 1004 (Div. 1),Ormlis,7,2025-02-11 16:35:00,3381,3416,35
+2077,Codeforces Round 1008 (Div. 1),Ormlis,2,2025-03-10 17:15:00,3416,3532,116
+2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",Ormlis,2,2025-04-05 17:35:00,3532,3641,109
+2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",Ormlis,24,2025-04-19 16:35:00,3641,3530,-111
+2101,Codeforces Round 1024 (Div. 1),Ormlis,4,2025-05-11 17:05:00,3530,3556,26

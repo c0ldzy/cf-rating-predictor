@@ -1,0 +1,194 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+750,Good Bye 2016,maroonrk,540,2016-12-30 16:45:00,0,1677,1677
+948,"Codeforces Round 470 (rated, Div. 2, based on VK Cup 2018 Round 1)",maroonrk,8,2018-03-10 17:35:00,1677,1909,232
+966,"Codeforces Round 477 (rated, Div. 1, based on VK Cup 2018 Round 3)",maroonrk,30,2018-04-29 15:45:00,1909,2144,235
+983,"Codeforces Round 483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!]",maroonrk,44,2018-05-15 16:45:00,2144,2279,135
+981,Avito Code Challenge 2018,maroonrk,29,2018-05-27 17:50:00,2279,2414,135
+1007,Codeforces Round 497 (Div. 1),maroonrk,13,2018-07-13 16:45:00,2414,2558,144
+1054,Mail.Ru Cup 2018 Round 1,maroonrk,25,2018-10-18 19:05:00,2558,2625,67
+1086,"Codeforces Round 528 (Div. 1, based on Technocup 2019 Elimination Round 4)",maroonrk,23,2018-12-23 15:35:00,2625,2681,56
+1091,Good Bye 2018,maroonrk,20,2018-12-30 17:15:00,2681,2781,100
+1097,Hello 2019,maroonrk,25,2019-01-04 17:45:00,2781,2830,49
+1110,Codeforces Global Round 1,maroonrk,31,2019-02-07 15:35:00,2830,2861,31
+1137,Codeforces Round 545 (Div. 1),maroonrk,7,2019-03-08 11:35:00,2861,2924,63
+1146,Forethought Future Cup - Elimination Round,maroonrk,13,2019-04-20 20:35:00,2924,2956,32
+1149,Codeforces Round 556 (Div. 1),maroonrk,3,2019-04-29 16:35:00,2956,3082,126
+1161,Codeforces Round 557 (Div. 1) [based on Forethought Future Cup - Final Round],maroonrk,10,2019-05-04 19:05:00,3082,3079,-3
+1158,Codeforces Round 559 (Div. 1),maroonrk,19,2019-05-12 16:35:00,3079,3032,-47
+1168,Codeforces Round 562 (Div. 1),maroonrk,4,2019-05-26 17:35:00,3032,3109,77
+1148,Codeforces Global Round 3,maroonrk,40,2019-06-01 16:50:00,3109,3039,-70
+1172,Codeforces Round 564 (Div. 1),maroonrk,2,2019-06-07 14:05:00,3039,3118,79
+1188,Codeforces Round 572 (Div. 1),maroonrk,49,2019-07-05 17:05:00,3118,3008,-110
+1190,Codeforces Round 573 (Div. 1),maroonrk,35,2019-07-12 16:35:00,3008,2949,-59
+1178,Codeforces Global Round 4,maroonrk,7,2019-07-20 18:05:00,2949,3020,71
+1198,Codeforces Round 576 (Div. 1),maroonrk,23,2019-07-30 16:35:00,3020,2987,-33
+1205,Codeforces Round 580 (Div. 1),maroonrk,72,2019-08-18 15:55:00,2987,2889,-98
+1214,"Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",maroonrk,25,2019-09-04 11:35:00,2889,2876,-13
+1209,"Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",maroonrk,8,2019-09-14 15:35:00,2876,2965,89
+1229,Codeforces Round 588 (Div. 1),maroonrk,56,2019-09-23 16:35:00,2965,2896,-69
+1237,Codeforces Global Round 5,maroonrk,11,2019-10-16 17:05:00,2896,2980,84
+1239,Codeforces Round 594 (Div. 1),maroonrk,6,2019-10-20 11:05:00,2980,3027,47
+1242,Codeforces Round 599 (Div. 1),maroonrk,10,2019-11-06 17:05:00,3027,3075,48
+1254,Codeforces Round 601 (Div. 1),maroonrk,2,2019-11-19 16:35:00,3075,3199,124
+1261,"Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",maroonrk,9,2019-11-24 10:05:00,3199,3183,-16
+1264,Codeforces Round 604 (Div. 1),maroonrk,12,2019-12-05 16:35:00,3183,3159,-24
+1276,"Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",maroonrk,5,2019-12-14 13:05:00,3159,3183,24
+1266,Codeforces Global Round 6,maroonrk,15,2019-12-17 17:35:00,3183,3164,-19
+1268,Codeforces Round 609 (Div. 1),maroonrk,83,2019-12-21 13:05:00,3164,3013,-151
+1270,Good Bye 2019,maroonrk,94,2019-12-29 17:05:00,3013,2930,-83
+1284,Hello 2020,maroonrk,11,2020-01-04 14:35:00,2930,3008,78
+1286,Codeforces Round 612 (Div. 1),maroonrk,4,2020-01-05 16:05:00,3008,3110,102
+1292,Codeforces Round 614 (Div. 1),maroonrk,20,2020-01-19 15:35:00,3110,3078,-32
+1290,Codeforces Round 616 (Div. 1),maroonrk,42,2020-02-02 16:35:00,3078,3011,-67
+1299,Codeforces Round 618 (Div. 1),maroonrk,7,2020-02-09 16:05:00,3011,3084,73
+1307,Codeforces Round 621 (Div. 1 + Div. 2),maroonrk,11,2020-02-17 17:50:00,3084,3116,32
+1314,"Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",maroonrk,4,2020-02-23 18:35:00,3116,3162,46
+1320,"Codeforces Round 625 (Div. 1, based on Technocup 2020 Final Round)",maroonrk,2,2020-03-01 15:15:00,3162,3268,106
+1305,"Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",maroonrk,2,2020-03-03 16:50:00,3268,3364,96
+1322,"Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",maroonrk,11,2020-03-07 11:35:00,3364,3303,-61
+1326,Codeforces Global Round 7,maroonrk,31,2020-03-19 17:05:00,3303,3232,-71
+1329,"Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",maroonrk,9,2020-04-03 16:35:00,3232,3250,18
+1338,Codeforces Round 633 (Div. 1),maroonrk,10,2020-04-12 16:05:00,3250,3243,-7
+1336,Codeforces Round 635 (Div. 1),maroonrk,2,2020-04-15 17:05:00,3243,3353,110
+1349,Codeforces Round 641 (Div. 1),maroonrk,2,2020-05-12 15:05:00,3353,3431,78
+1361,"Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",maroonrk,5,2020-06-04 17:05:00,3431,3421,-10
+1368,Codeforces Global Round 8,maroonrk,7,2020-06-18 17:15:00,3421,3409,-12
+1375,Codeforces Global Round 9,maroonrk,69,2020-07-04 17:15:00,3409,3268,-141
+1381,Codeforces Round 658 (Div. 1),maroonrk,10,2020-07-21 16:35:00,3268,3253,-15
+1383,Codeforces Round 659 (Div. 1),maroonrk,14,2020-07-24 16:35:00,3253,3229,-24
+1394,Codeforces Round 664 (Div. 1),maroonrk,31,2020-08-12 16:35:00,3229,3163,-66
+1392,Codeforces Global Round 10,maroonrk,2,2020-08-16 17:35:00,3163,3289,126
+1396,Codeforces Round 666 (Div. 1),maroonrk,51,2020-08-30 16:35:00,3289,3179,-110
+1404,Codeforces Round 668 (Div. 1),maroonrk,1,2020-09-06 16:35:00,3179,3359,180
+1416,Codeforces Round 673 (Div. 1),maroonrk,3,2020-09-27 17:05:00,3359,3394,35
+1408,Grakn Forces 2020,maroonrk,3,2020-09-30 17:20:00,3394,3447,53
+1427,Codeforces Global Round 11,maroonrk,7,2020-10-10 17:50:00,3447,3447,0
+1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),maroonrk,10,2020-10-17 15:35:00,3447,3404,-43
+1434,"Codeforces Round 679 (Div. 1, based on Technocup 2021 Elimination Round 1)",maroonrk,63,2020-10-25 13:05:00,3404,3243,-161
+1444,"Codeforces Round 680 (Div. 1, based on Moscow Team Olympiad)",maroonrk,21,2020-11-01 13:05:00,3243,3188,-55
+1442,"Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",maroonrk,6,2020-11-02 16:35:00,3188,3218,30
+1446,"Codeforces Round 683 (Div. 1, by Meet IT)",maroonrk,6,2020-11-15 17:05:00,3218,3267,49
+1439,Codeforces Round 684 (Div. 1),maroonrk,4,2020-11-17 16:50:00,3267,3323,56
+1450,Codeforces Global Round 12,maroonrk,9,2020-12-06 17:35:00,3323,3334,11
+1458,Codeforces Round 691 (Div. 1),maroonrk,4,2020-12-19 11:35:00,3334,3376,42
+1464,"Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",maroonrk,6,2020-12-20 17:05:00,3376,3396,20
+1466,Good Bye 2020,maroonrk,2,2020-12-30 17:35:00,3396,3498,102
+1470,Codeforces Round 694 (Div. 1),maroonrk,129,2021-01-05 16:35:00,3498,3265,-233
+1477,Codeforces Round 698 (Div. 1),maroonrk,1,2021-01-28 16:50:00,3265,3461,196
+1479,Codeforces Round 700 (Div. 1),maroonrk,36,2021-02-07 16:50:00,3461,3345,-116
+1491,Codeforces Global Round 13,maroonrk,1,2021-02-28 16:35:00,3345,3503,158
+1495,Codeforces Round 706 (Div. 1),maroonrk,2,2021-03-10 14:05:00,3503,3555,52
+1500,"Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",maroonrk,3,2021-03-13 11:35:00,3555,3564,9
+1483,"Codeforces Round 709 (Div. 1, based on Technocup 2021 Final Round)",maroonrk,16,2021-03-21 15:35:00,3564,3456,-108
+1503,Codeforces Round 712 (Div. 1),maroonrk,22,2021-04-03 16:50:00,3456,3369,-87
+1508,Codeforces Round 715 (Div. 1),maroonrk,5,2021-04-16 16:50:00,3369,3406,37
+1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),maroonrk,12,2021-04-23 17:20:00,3406,3385,-21
+1515,Codeforces Global Round 14,maroonrk,17,2021-05-02 17:35:00,3385,3338,-47
+1528,Codeforces Round 722 (Div. 1),maroonrk,6,2021-05-24 16:50:00,3338,3382,44
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",maroonrk,4,2021-05-30 16:50:00,3382,3457,75
+1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),maroonrk,10,2021-06-13 18:35:00,3457,3446,-11
+1540,Codeforces Round 728 (Div. 1),maroonrk,1,2021-06-25 17:50:00,3446,3606,160
+1545,Codeforces Round 732 (Div. 1),maroonrk,70,2021-07-11 16:35:00,3606,3398,-208
+1530,"Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",maroonrk,4,2021-07-17 17:35:00,3398,3441,43
+1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",maroonrk,2,2021-07-22 17:05:00,3441,3539,98
+1552,Codeforces Global Round 15,maroonrk,33,2021-07-25 17:20:00,3539,3424,-115
+1548,Codeforces Round 736 (Div. 1),maroonrk,12,2021-08-01 17:00:00,3424,3400,-24
+1558,"Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",maroonrk,3,2021-08-24 17:05:00,3400,3452,52
+1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",maroonrk,10,2021-08-29 17:05:00,3452,3434,-18
+1566,Codeforces Global Round 16,maroonrk,17,2021-09-12 17:05:00,3434,3385,-49
+1580,Codeforces Round 745 (Div. 1),maroonrk,2,2021-09-30 12:15:00,3385,3463,78
+1586,"Codeforces Round 749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)",maroonrk,23,2021-10-17 13:20:00,3463,3361,-102
+1601,Codeforces Round 751 (Div. 1),maroonrk,3,2021-10-25 08:35:00,3361,3407,46
+1603,Codeforces Round 752 (Div. 1),maroonrk,62,2021-10-30 16:35:00,3407,3273,-134
+1588,"Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",maroonrk,2,2021-11-14 08:20:00,3273,3362,89
+1610,Codeforces Global Round 17,maroonrk,13,2021-11-23 17:35:00,3362,3344,-18
+1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",maroonrk,6,2021-11-28 17:05:00,3344,3387,43
+1608,Codeforces Round 758 (Div.1 + Div. 2),maroonrk,1,2021-12-11 12:05:00,3387,3489,102
+1615,Codeforces Global Round 18,maroonrk,6,2021-12-24 17:05:00,3489,3500,11
+1616,Good Bye 2021: 2022 is NEAR,maroonrk,6,2021-12-29 17:35:00,3500,3512,12
+1621,Hello 2022,maroonrk,2,2022-01-03 16:50:00,3512,3606,94
+1628,Codeforces Round 767 (Div. 1),maroonrk,12,2022-01-22 16:35:00,3606,3534,-72
+1630,Codeforces Round 768 (Div. 1),maroonrk,6,2022-01-27 16:35:00,3534,3526,-8
+1637,Codeforces Global Round 19,maroonrk,49,2022-02-12 17:05:00,3526,3381,-145
+1641,Codeforces Round 773 (Div. 1),maroonrk,3,2022-02-23 12:10:00,3381,3467,86
+1648,"Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",maroonrk,3,2022-03-06 12:10:00,3467,3511,44
+1654,"Codeforces Round 778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",maroonrk,18,2022-03-20 13:50:00,3511,3419,-92
+1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,44,2022-03-24 16:35:00,3419,3309,-110
+1667,Codeforces Round 783 (Div. 1),maroonrk,3,2022-04-19 16:35:00,3309,3415,106
+1672,Codeforces Global Round 20,maroonrk,3,2022-04-23 17:05:00,3415,3501,86
+1677,Codeforces Round 789 (Div. 1),maroonrk,1,2022-05-08 16:35:00,3501,3637,136
+1684,Codeforces Round 792 (Div. 1 + Div. 2),maroonrk,16,2022-05-19 16:35:00,3637,3539,-98
+1685,Codeforces Round 794 (Div. 1),maroonrk,5,2022-05-25 19:50:00,3539,3535,-4
+1687,Codeforces Round 796 (Div. 1),maroonrk,63,2022-06-03 16:35:00,3535,3354,-181
+1693,Codeforces Round 800 (Div. 1),maroonrk,11,2022-06-16 16:35:00,3354,3358,4
+1696,Codeforces Global Round 21,maroonrk,5,2022-06-25 16:50:00,3358,3422,64
+1707,Codeforces Round 808 (Div. 1),maroonrk,46,2022-07-16 16:35:00,3422,3289,-133
+1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,6,2022-07-31 16:35:00,3289,3349,60
+1718,Codeforces Round 814 (Div. 1),maroonrk,2,2022-08-16 16:35:00,3349,3471,122
+1738,Codeforces Global Round 22,maroonrk,3,2022-09-30 17:05:00,3471,3533,62
+1746,Codeforces Global Round 23,maroonrk,50,2022-10-15 16:50:00,3533,3389,-144
+1753,Codeforces Round 829 (Div. 1),maroonrk,8,2022-10-23 09:50:00,3389,3382,-7
+1740,Codeforces Round 831 (Div. 1 + Div. 2),maroonrk,3,2022-10-29 11:55:00,3382,3438,56
+1761,Pinely Round 1 (Div. 1 + Div. 2),maroonrk,7,2022-11-20 17:05:00,3438,3436,-2
+1764,Codeforces Global Round 24,maroonrk,3,2022-11-26 16:35:00,3436,3486,50
+1774,"Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,2,2022-12-17 17:05:00,3486,3559,73
+1770,Good Bye 2022: 2023 is NEAR,maroonrk,2,2022-12-30 17:05:00,3559,3645,86
+1779,Hello 2023,maroonrk,8,2023-01-03 17:05:00,3645,3608,-37
+1782,"Codeforces Round 844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",maroonrk,6,2023-01-15 15:05:00,3608,3570,-38
+1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,16,2023-01-29 17:35:00,3570,3504,-66
+1785,"Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",maroonrk,2,2023-02-05 15:05:00,3504,3575,71
+1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),maroonrk,14,2023-02-27 17:35:00,3575,3496,-79
+1801,Codeforces Round 857 (Div. 1),maroonrk,1,2023-03-09 12:35:00,3496,3650,154
+1804,Nebius Welcome Round (Div. 1 + Div. 2),maroonrk,7,2023-03-12 16:35:00,3650,3609,-41
+1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,4,2023-03-31 16:35:00,3609,3626,17
+1815,Codeforces Round 865 (Div. 1),maroonrk,3,2023-04-09 17:00:00,3626,3639,13
+1819,Codeforces Round 866 (Div. 1),maroonrk,8,2023-04-15 11:05:00,3639,3556,-83
+1817,Codeforces Round 869 (Div. 1),maroonrk,50,2023-04-29 16:50:00,3556,3388,-168
+1824,Codeforces Round 872 (Div. 1),maroonrk,2,2023-05-08 14:05:00,3388,3488,100
+1827,Codeforces Round 873 (Div. 1),maroonrk,4,2023-05-14 16:35:00,3488,3526,38
+1830,Codeforces Round 875 (Div. 1),maroonrk,11,2023-05-28 17:05:00,3526,3464,-62
+1835,Codeforces Round 880 (Div. 1),maroonrk,19,2023-06-18 16:35:00,3464,3393,-71
+1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,2,2023-06-24 17:05:00,3393,3497,104
+1844,Codeforces Round 884 (Div. 1 + Div. 2),maroonrk,22,2023-07-11 17:35:00,3497,3401,-96
+1852,Codeforces Round 887 (Div. 1),maroonrk,17,2023-07-23 17:05:00,3401,3355,-46
+1854,Codeforces Round 889 (Div. 1),maroonrk,12,2023-07-29 17:05:00,3355,3355,0
+1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),maroonrk,2,2023-08-26 17:35:00,3355,3468,113
+1863,Pinely Round 2 (Div. 1 + Div. 2),maroonrk,19,2023-08-30 17:35:00,3468,3395,-73
+1868,Codeforces Round 896 (Div. 1),maroonrk,1,2023-09-10 16:35:00,3395,3529,134
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,76,2023-09-18 16:50:00,3529,3354,-175
+1874,Codeforces Round 901 (Div. 1),maroonrk,24,2023-09-30 17:35:00,3354,3291,-63
+1876,"Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",maroonrk,2,2023-10-08 11:35:00,3291,3427,136
+1887,Codeforces Round 905 (Div. 1),maroonrk,2,2023-10-22 13:05:00,3427,3513,86
+1889,Codeforces Round 906 (Div. 1),maroonrk,772,2023-10-28 17:05:00,3513,3149,-364
+1893,Codeforces Round 908 (Div. 1),maroonrk,1,2023-11-07 16:35:00,3149,3390,241
+1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,4,2023-11-25 17:20:00,3390,3454,64
+1909,Pinely Round 3 (Div. 1 + Div. 2),maroonrk,2,2023-12-23 17:35:00,3454,3561,107
+1916,Good Bye 2023,maroonrk,10,2023-12-30 16:50:00,3561,3518,-43
+1919,Hello 2024,maroonrk,6,2024-01-06 17:05:00,3518,3524,6
+1924,Codeforces Round 921 (Div. 1),maroonrk,2,2024-01-27 16:45:00,3524,3605,81
+1930,think-cell Round 1,maroonrk,10,2024-02-17 17:35:00,3605,3540,-65
+1936,Codeforces Round 930 (Div. 1),maroonrk,13,2024-02-29 16:35:00,3540,3451,-89
+1943,Codeforces Round 934 (Div. 1),maroonrk,59,2024-03-16 17:00:00,3451,3296,-155
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,1,2024-03-30 17:35:00,3296,3487,191
+1951,Codeforces Global Round 25,maroonrk,4,2024-04-06 17:35:00,3487,3531,44
+1967,Codeforces Round 942 (Div. 1),maroonrk,24,2024-04-30 17:05:00,3531,3438,-93
+1975,Codeforces Round 947 (Div. 1 + Div. 2),maroonrk,21,2024-05-25 17:35:00,3438,3347,-91
+1984,Codeforces Global Round 26,maroonrk,10,2024-06-09 17:35:00,3347,3372,25
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),maroonrk,7,2024-06-30 17:35:00,3372,3397,25
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),maroonrk,80,2024-07-18 16:35:00,3397,3236,-161
+2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),maroonrk,23,2024-08-11 17:35:00,3236,3220,-16
+2006,Codeforces Round 969 (Div. 1),maroonrk,37,2024-08-30 17:05:00,3220,3163,-57
+2018,Codeforces Round 975 (Div. 1),maroonrk,7,2024-09-27 16:05:00,3163,3223,60
+2023,Codeforces Round 980 (Div. 1),maroonrk,2,2024-10-20 11:05:00,3223,3350,127
+2035,Codeforces Global Round 27,maroonrk,103,2024-10-27 17:35:00,3350,3204,-146
+2029,Refact.ai Match 1 (Codeforces Round 985),maroonrk,12,2024-11-09 17:35:00,3204,3226,22
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",maroonrk,10,2024-11-23 17:35:00,3226,3284,58
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",maroonrk,24,2024-11-30 17:35:00,3284,3266,-18
+2048,Codeforces Global Round 28,maroonrk,9,2024-12-19 17:35:00,3266,3299,33
+2057,Hello 2025,maroonrk,29,2025-01-04 17:05:00,3299,3262,-37
+2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",maroonrk,11,2025-01-20 17:35:00,3262,3295,33
+2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",maroonrk,6,2025-01-26 17:05:00,3295,3379,84
+2066,Codeforces Round 1004 (Div. 1),maroonrk,55,2025-02-11 16:35:00,3379,3258,-121
+2077,Codeforces Round 1008 (Div. 1),maroonrk,12,2025-03-10 17:15:00,3258,3277,19
+2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",maroonrk,5,2025-04-05 17:35:00,3277,3380,103
+2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",maroonrk,1,2025-04-19 16:35:00,3380,3582,202

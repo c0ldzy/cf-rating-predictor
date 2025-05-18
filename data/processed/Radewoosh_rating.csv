@@ -1,0 +1,255 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+462,Codeforces Round 263 (Div. 2),Radewoosh,236,2014-08-26 16:00:00,0,1733,1733
+464,Codeforces Round 265 (Div. 1),Radewoosh,458,2014-09-07 17:30:00,1733,1753,20
+472,Codeforces Round 270,Radewoosh,192,2014-09-28 18:05:00,1753,2036,283
+475,Bayan 2015 Contest Warm Up,Radewoosh,1358,2014-10-05 16:00:00,2036,1915,-121
+482,Codeforces Round 275 (Div. 1),Radewoosh,235,2014-10-24 19:10:00,1915,1979,64
+487,Codeforces Round 278 (Div. 1),Radewoosh,144,2014-11-21 19:20:00,1979,2074,95
+497,Codeforces Round 283 (Div. 1),Radewoosh,430,2014-12-17 18:30:00,2074,1996,-78
+500,Good Bye 2014,Radewoosh,752,2014-12-30 17:30:00,1996,1912,-84
+504,Codeforces Round 285 (Div. 1),Radewoosh,109,2015-01-12 11:00:00,1912,2034,122
+512,Codeforces Round 290 (Div. 1),Radewoosh,236,2015-02-02 18:35:00,2034,2099,65
+513,Rockethon 2015,Radewoosh,1109,2015-02-07 20:15:00,2099,2012,-87
+516,Codeforces Round 292 (Div. 1),Radewoosh,162,2015-02-17 18:35:00,2012,2140,128
+521,Codeforces Round 295 (Div. 1),Radewoosh,129,2015-03-02 09:05:00,2140,2168,28
+528,Codeforces Round 296 (Div. 1),Radewoosh,266,2015-03-17 18:45:00,2168,2122,-46
+526,ZeptoLab Code Rush 2015,Radewoosh,67,2015-04-04 19:05:00,2122,2275,153
+547,Codeforces Round 305 (Div. 1),Radewoosh,190,2015-05-26 18:35:00,2275,2234,-41
+549,Looksery Cup 2015,Radewoosh,232,2015-06-06 15:30:00,2234,2279,45
+553,Codeforces Round 309 (Div. 1),Radewoosh,522,2015-06-24 18:40:00,2279,2174,-105
+555,Codeforces Round 310 (Div. 1),Radewoosh,191,2015-06-27 16:10:00,2174,2214,40
+559,Codeforces Round 313 (Div. 1),Radewoosh,416,2015-07-22 16:00:00,2214,2122,-92
+566,"VK Cup 2015 - Finals, online mirror",Radewoosh,18,2015-07-30 19:20:00,2122,2235,113
+568,Codeforces Round 315 (Div. 1),Radewoosh,79,2015-08-10 18:30:00,2235,2310,75
+571,Codeforces Round 317 [AimFund Thanks-Round] (Div. 1),Radewoosh,43,2015-08-22 18:30:00,2310,2404,94
+573,Codeforces Round 318 [RussianCodeCup Thanks-Round] (Div. 1),Radewoosh,55,2015-08-29 18:40:00,2404,2465,61
+576,Codeforces Round 319 (Div. 1),Radewoosh,36,2015-09-10 18:40:00,2465,2511,46
+578,Codeforces Round 320 (Div. 1) [Bayan Thanks-Round],Radewoosh,259,2015-09-16 17:45:00,2511,2393,-118
+585,Codeforces Round 325 (Div. 1),Radewoosh,46,2015-10-12 11:10:00,2393,2413,20
+601,Codeforces Round 333 (Div. 1),Radewoosh,58,2015-11-24 18:35:00,2413,2431,18
+603,Codeforces Round 334 (Div. 1),Radewoosh,249,2015-12-01 17:35:00,2431,2333,-98
+605,Codeforces Round 335 (Div. 1),Radewoosh,74,2015-12-09 18:05:00,2333,2348,15
+607,Codeforces Round 336 (Div. 1),Radewoosh,127,2015-12-23 18:35:00,2348,2332,-16
+611,Good Bye 2015,Radewoosh,14,2015-12-30 18:05:00,2332,2492,160
+613,Codeforces Round 339 (Div. 1),Radewoosh,157,2016-01-14 18:35:00,2492,2423,-69
+618,Wunder Fund Round 2016 (Div. 1 + Div. 2 combined),Radewoosh,16,2016-01-29 19:10:00,2423,2548,125
+623,AIM Tech Round (Div. 1),Radewoosh,436,2016-02-04 19:05:00,2548,2378,-170
+626,8VC Venture Cup 2016 - Elimination Round,Radewoosh,40,2016-02-13 20:05:00,2378,2472,94
+633,"Manthan, Codefest 16",Radewoosh,183,2016-02-26 19:45:00,2472,2408,-64
+627,8VC Venture Cup 2016 - Final Round,Radewoosh,71,2016-02-28 20:10:00,2408,2407,-1
+650,Codeforces Round 345 (Div. 1),Radewoosh,77,2016-03-07 11:25:00,2407,2421,14
+655,CROC 2016 - Elimination Round  (Rated Unofficial Edition),Radewoosh,6,2016-03-18 18:35:00,2421,2537,116
+666,Codeforces Round 349 (Div. 1),Radewoosh,12,2016-04-29 18:35:00,2537,2631,94
+671,Codeforces Round 352 (Div. 1),Radewoosh,27,2016-05-11 18:35:00,2631,2661,30
+687,Codeforces Round 360 (Div. 1),Radewoosh,32,2016-06-29 19:05:00,2661,2672,11
+696,Codeforces Round 362 (Div. 1),Radewoosh,27,2016-07-14 18:50:00,2672,2693,21
+700,Codeforces Round 364 (Div. 1),Radewoosh,217,2016-07-22 18:35:00,2693,2542,-151
+713,Codeforces Round 371 (Div. 1),Radewoosh,5,2016-09-13 18:35:00,2542,2716,174
+715,Codeforces Round 372 (Div. 1),Radewoosh,25,2016-09-17 15:45:00,2716,2735,19
+725,Canada Cup 2016,Radewoosh,104,2016-10-22 17:35:00,2735,2668,-67
+739,Codeforces Round 381 (Div. 1),Radewoosh,5,2016-11-23 18:35:00,2668,2797,129
+736,Codeforces Round 382 (Div. 1),Radewoosh,124,2016-11-27 18:35:00,2797,2683,-114
+741,Codeforces Round 383 (Div. 1),Radewoosh,35,2016-12-06 16:35:00,2683,2681,-2
+750,Good Bye 2016,Radewoosh,12,2016-12-30 16:45:00,2681,2789,108
+757,"Codecraft-17 and Codeforces Round 391 (Div. 1 + Div. 2, combined)",Radewoosh,124,2017-01-12 18:35:00,2789,2699,-90
+755,8VC Venture Cup 2017 - Elimination Round,Radewoosh,28,2017-01-15 19:05:00,2699,2753,54
+756,8VC Venture Cup 2017 - Final Round,Radewoosh,43,2017-01-22 20:15:00,2753,2716,-37
+763,Codeforces Round 395 (Div. 1),Radewoosh,23,2017-02-02 15:35:00,2716,2751,35
+765,Codeforces Round 397 by Kaspersky Lab and Barcelona Bootcamp (Div. 1 + Div. 2 combined),Radewoosh,2,2017-02-14 11:05:00,2751,2926,175
+768,"Divide by Zero 2017 and Codeforces Round 399 (Div. 1 + Div. 2, combined)",Radewoosh,30,2017-02-20 18:45:00,2926,2896,-30
+776,"ICM Technex 2017 and Codeforces Round 400 (Div. 1 + Div. 2, combined)",Radewoosh,10,2017-02-23 16:55:00,2896,2943,47
+778,Codeforces Round 402 (Div. 1),Radewoosh,20,2017-02-26 10:05:00,2943,2895,-48
+781,"Codeforces Round 403 (Div. 1, based on Technocup 2017 Finals)",Radewoosh,33,2017-03-05 15:05:00,2895,2853,-42
+790,"Codeforces Round 405 (rated, Div. 1, based on VK Cup 2017 Round 1)",Radewoosh,22,2017-03-18 17:35:00,2853,2835,-18
+788,Codeforces Round 407 (Div. 1),Radewoosh,6,2017-03-29 18:05:00,2835,2922,87
+800,"Codeforces Round 409 (rated, Div. 1, based on VK Cup 2017 Round 2)",Radewoosh,9,2017-04-16 17:35:00,2922,2939,17
+793,Tinkoff Challenge - Elimination Round,Radewoosh,5,2017-04-23 18:45:00,2939,3017,78
+806,"Codeforces Round 412 (rated, Div. 1, based on VK Cup 2017 Round 3)",Radewoosh,69,2017-05-07 18:45:00,3017,2894,-123
+799,"Playrix Codescapes Cup (Codeforces Round 413, rated, Div. 1 + Div. 2)",Radewoosh,88,2017-05-11 17:35:00,2894,2806,-88
+809,Codeforces Round 415 (Div. 1),Radewoosh,1,2017-05-20 20:05:00,2806,3015,209
+815,Codeforces Round 419 (Div. 1),Radewoosh,1,2017-06-17 16:35:00,3015,3163,148
+827,"Codeforces Round 423 (Div. 1, rated, based on VK Cup Finals)",Radewoosh,4,2017-07-11 18:45:00,3163,3187,24
+830,"Codeforces Round 424 (Div. 1, rated, based on VK Cup Finals)",Radewoosh,25,2017-07-13 17:05:00,3187,3094,-93
+833,Codeforces Round 426 (Div. 1),Radewoosh,1,2017-07-30 16:35:00,3094,3246,152
+840,Codeforces Round 429 (Div. 1),Radewoosh,3,2017-08-18 17:05:00,3246,3266,20
+843,AIM Tech Round 4 (Div. 1),Radewoosh,29,2017-08-24 19:05:00,3266,3148,-118
+850,"Codeforces Round 432 (Div. 1, based on IndiaHacks Final Round 2017)",Radewoosh,22,2017-09-04 17:05:00,3148,3053,-95
+853,"Codeforces Round 433 (Div. 1, based on Olympiad of Metropolises)",Radewoosh,58,2017-09-06 14:55:00,3053,2928,-125
+875,"Codeforces Round 441 (Div. 1, by Moscow Team Olympiad)",Radewoosh,7,2017-10-16 13:05:00,2928,2956,28
+878,Codeforces Round 443 (Div. 1),Radewoosh,20,2017-10-26 16:45:00,2956,2915,-41
+891,Codeforces Round 446 (Div. 1),Radewoosh,2,2017-11-17 16:35:00,2915,3041,126
+896,Codeforces Round 449 (Div. 1),Radewoosh,7,2017-12-02 16:20:00,3041,3039,-2
+901,Codeforces Round 453 (Div. 1),Radewoosh,3,2017-12-19 17:35:00,3039,3085,46
+906,"Codeforces Round 454 (Div. 1, based on Technocup 2018 Elimination Round 4)",Radewoosh,2,2017-12-23 16:05:00,3085,3175,90
+908,Good Bye 2017,Radewoosh,4,2017-12-29 18:10:00,3175,3209,34
+913,Hello 2018,Radewoosh,17,2018-01-08 17:15:00,3209,3150,-59
+914,"Codecraft-18 and Codeforces Round 458 (Div. 1 + Div. 2, combined)",Radewoosh,14,2018-01-20 18:35:00,3150,3104,-46
+917,Codeforces Round 459 (Div. 1),Radewoosh,7,2018-01-29 16:35:00,3104,3084,-20
+932,"ICM Technex 2018 and Codeforces Round 463 (Div. 1 + Div. 2, combined)",Radewoosh,1,2018-02-15 16:35:00,3084,3216,132
+936,Codeforces Round 467 (Div. 1),Radewoosh,5,2018-02-25 18:05:00,3216,3218,2
+947,"Codeforces Round 470 (rated, Div. 1, based on VK Cup 2018 Round 1)",Radewoosh,45,2018-03-10 17:35:00,3218,3076,-142
+956,"Codeforces Round 472 (rated, Div. 1, based on VK Cup 2018 Round 2)",Radewoosh,2,2018-03-24 17:50:00,3076,3158,82
+963,Tinkoff Internship Warmup Round 2018 and Codeforces Round 475 (Div. 1),Radewoosh,3,2018-04-17 16:05:00,3158,3197,39
+983,"Codeforces Round 483 (Div. 1) [Thanks, Botan Investments and Victor Shaburov!]",Radewoosh,28,2018-05-15 16:45:00,3197,3088,-109
+981,Avito Code Challenge 2018,Radewoosh,3,2018-05-27 17:50:00,3088,3159,71
+986,Codeforces Round 485 (Div. 1),Radewoosh,3,2018-05-29 17:45:00,3159,3217,58
+993,Codeforces Round 488 by NEAR (Div. 1),Radewoosh,25,2018-06-16 19:05:00,3217,3098,-119
+995,"Codeforces Round 492 (Div. 1) [Thanks, uDebug!]",Radewoosh,8,2018-06-24 18:35:00,3098,3101,3
+997,Codeforces Round 493 (Div. 1),Radewoosh,16,2018-07-01 16:05:00,3101,3065,-36
+1007,Codeforces Round 497 (Div. 1),Radewoosh,35,2018-07-13 16:45:00,3065,2974,-91
+1010,Codeforces Round 499 (Div. 1),Radewoosh,11,2018-07-26 17:05:00,2974,2984,10
+1019,"Codeforces Round 503 (by SIS, Div. 1)",Radewoosh,2,2018-08-11 15:35:00,2984,3098,114
+1023,"Codeforces Round 504 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",Radewoosh,15,2018-08-17 16:50:00,3098,3061,-37
+1025,"Codeforces Round 505 (rated, Div. 1 + Div. 2, based on VK Cup 2018 Final)",Radewoosh,59,2018-08-19 15:50:00,3061,2953,-108
+1028,"AIM Tech Round 5 (rated, Div. 1 + Div. 2)",Radewoosh,40,2018-08-27 18:50:00,2953,2899,-54
+1060,"Codeforces Round 513 by Barcelona Bootcamp (rated, Div. 1 + Div. 2)",Radewoosh,10,2018-10-04 09:35:00,2899,2931,32
+1063,"Codeforces Round 516 (Div. 1, by Moscow Team Olympiad)",Radewoosh,8,2018-10-14 12:05:00,2931,2953,22
+1071,"Codeforces Round 517 (Div. 1, based on Technocup 2019 Elimination Round 2)",Radewoosh,1,2018-10-21 10:10:00,2953,3128,175
+1067,"Codeforces Round 518 (Div. 1) [Thanks, Mail.Ru!]",Radewoosh,1,2018-10-24 18:35:00,3128,3239,111
+1043,Codeforces Round 519 by Botan Investments,Radewoosh,16,2018-10-28 17:35:00,3239,3189,-50
+1074,Lyft Level 5 Challenge 2018 - Final Round (Open Div. 1),Radewoosh,1,2018-11-04 20:40:00,3189,3296,107
+1055,Mail.Ru Cup 2018 Round 2,Radewoosh,13,2018-11-10 17:05:00,3296,3230,-66
+1056,Mail.Ru Cup 2018 Round 3,Radewoosh,1,2018-11-25 19:05:00,3230,3353,123
+1083,Codeforces Round 526 (Div. 1),Radewoosh,1,2018-12-10 18:35:00,3353,3443,90
+1081,Avito Cool Challenge 2018,Radewoosh,10,2018-12-16 17:05:00,3443,3357,-86
+1086,"Codeforces Round 528 (Div. 1, based on Technocup 2019 Elimination Round 4)",Radewoosh,5,2018-12-23 15:35:00,3357,3334,-23
+1091,Good Bye 2018,Radewoosh,5,2018-12-30 17:15:00,3334,3351,17
+1098,Codeforces Round 530 (Div. 1),Radewoosh,1,2019-01-05 19:05:00,3351,3464,113
+1103,Codeforces Round 534 (Div. 1),Radewoosh,52,2019-01-22 16:35:00,3464,3257,-207
+1110,Codeforces Global Round 1,Radewoosh,58,2019-02-07 15:35:00,3257,3138,-119
+1109,Codeforces Round 539 (Div. 1),Radewoosh,60,2019-02-16 19:05:00,3138,2986,-152
+1137,Codeforces Round 545 (Div. 1),Radewoosh,3,2019-03-08 11:35:00,2986,3073,87
+1142,Codeforces Round 549 (Div. 1),Radewoosh,13,2019-03-30 19:10:00,3073,3040,-33
+1146,Forethought Future Cup - Elimination Round,Radewoosh,3,2019-04-20 20:35:00,3040,3152,112
+1158,Codeforces Round 559 (Div. 1),Radewoosh,54,2019-05-12 16:35:00,3152,3010,-142
+1148,Codeforces Global Round 3,Radewoosh,76,2019-06-01 16:50:00,3010,2918,-92
+1172,Codeforces Round 564 (Div. 1),Radewoosh,18,2019-06-07 14:05:00,2918,2906,-12
+1179,Codeforces Round 569 (Div. 1),Radewoosh,1,2019-06-21 19:05:00,2906,3117,211
+1188,Codeforces Round 572 (Div. 1),Radewoosh,3,2019-07-05 17:05:00,3117,3191,74
+1190,Codeforces Round 573 (Div. 1),Radewoosh,8,2019-07-12 16:35:00,3191,3179,-12
+1178,Codeforces Global Round 4,Radewoosh,2,2019-07-20 18:05:00,3179,3268,89
+1198,Codeforces Round 576 (Div. 1),Radewoosh,1,2019-07-30 16:35:00,3268,3403,135
+1208,"Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2)",Radewoosh,7,2019-08-25 16:40:00,3403,3362,-41
+1214,"Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",Radewoosh,4,2019-09-04 11:35:00,3362,3344,-18
+1237,Codeforces Global Round 5,Radewoosh,1,2019-10-16 17:05:00,3344,3468,124
+1242,Codeforces Round 599 (Div. 1),Radewoosh,37,2019-11-06 17:05:00,3468,3316,-152
+1254,Codeforces Round 601 (Div. 1),Radewoosh,1,2019-11-19 16:35:00,3316,3434,118
+1261,"Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",Radewoosh,6,2019-11-24 10:05:00,3434,3386,-48
+1264,Codeforces Round 604 (Div. 1),Radewoosh,3,2019-12-05 16:35:00,3386,3409,23
+1276,"Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",Radewoosh,2,2019-12-14 13:05:00,3409,3428,19
+1280,Codeforces Round 607 (Div. 1),Radewoosh,5,2019-12-15 07:05:00,3428,3359,-69
+1268,Codeforces Round 609 (Div. 1),Radewoosh,2,2019-12-21 13:05:00,3359,3414,55
+1270,Good Bye 2019,Radewoosh,1,2019-12-29 17:05:00,3414,3527,113
+1284,Hello 2020,Radewoosh,19,2020-01-04 14:35:00,3527,3418,-109
+1286,Codeforces Round 612 (Div. 1),Radewoosh,63,2020-01-05 16:05:00,3418,3251,-167
+1290,Codeforces Round 616 (Div. 1),Radewoosh,15,2020-02-02 16:35:00,3251,3206,-45
+1299,Codeforces Round 618 (Div. 1),Radewoosh,3,2020-02-09 16:05:00,3206,3281,75
+1307,Codeforces Round 621 (Div. 1 + Div. 2),Radewoosh,29,2020-02-17 17:50:00,3281,3199,-82
+1314,"Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",Radewoosh,3,2020-02-23 18:35:00,3199,3242,43
+1320,"Codeforces Round 625 (Div. 1, based on Technocup 2020 Final Round)",Radewoosh,4,2020-03-01 15:15:00,3242,3285,43
+1305,"Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",Radewoosh,18,2020-03-03 16:50:00,3285,3244,-41
+1322,"Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",Radewoosh,121,2020-03-07 11:35:00,3244,3070,-174
+1326,Codeforces Global Round 7,Radewoosh,15,2020-03-19 17:05:00,3070,3104,34
+1329,"Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",Radewoosh,288,2020-04-03 16:35:00,3104,2936,-168
+1338,Codeforces Round 633 (Div. 1),Radewoosh,2,2020-04-12 16:05:00,2936,3107,171
+1336,Codeforces Round 635 (Div. 1),Radewoosh,20,2020-04-15 17:05:00,3107,3105,-2
+1349,Codeforces Round 641 (Div. 1),Radewoosh,120,2020-05-12 15:05:00,3105,2990,-115
+1361,"Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",Radewoosh,9,2020-06-04 17:05:00,2990,3055,65
+1368,Codeforces Global Round 8,Radewoosh,5,2020-06-18 17:15:00,3055,3157,102
+1375,Codeforces Global Round 9,Radewoosh,90,2020-07-04 17:15:00,3157,3064,-93
+1381,Codeforces Round 658 (Div. 1),Radewoosh,9,2020-07-21 16:35:00,3064,3107,43
+1383,Codeforces Round 659 (Div. 1),Radewoosh,3,2020-07-24 16:35:00,3107,3216,109
+1394,Codeforces Round 664 (Div. 1),Radewoosh,18,2020-08-12 16:35:00,3216,3188,-28
+1396,Codeforces Round 666 (Div. 1),Radewoosh,2,2020-08-30 16:35:00,3188,3324,136
+1404,Codeforces Round 668 (Div. 1),Radewoosh,13,2020-09-06 16:35:00,3324,3289,-35
+1416,Codeforces Round 673 (Div. 1),Radewoosh,7,2020-09-27 17:05:00,3289,3288,-1
+1408,Grakn Forces 2020,Radewoosh,20,2020-09-30 17:20:00,3288,3245,-43
+1427,Codeforces Global Round 11,Radewoosh,28,2020-10-10 17:50:00,3245,3205,-40
+1428,Codeforces Raif Round 1 (Div. 1 + Div. 2),Radewoosh,1,2020-10-17 15:35:00,3205,3383,178
+1442,"Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",Radewoosh,5,2020-11-02 16:35:00,3383,3374,-9
+1446,"Codeforces Round 683 (Div. 1, by Meet IT)",Radewoosh,15,2020-11-15 17:05:00,3374,3322,-52
+1439,Codeforces Round 684 (Div. 1),Radewoosh,3,2020-11-17 16:50:00,3322,3382,60
+1458,Codeforces Round 691 (Div. 1),Radewoosh,16,2020-12-19 11:35:00,3382,3313,-69
+1464,"Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",Radewoosh,24,2020-12-20 17:05:00,3313,3241,-72
+1466,Good Bye 2020,Radewoosh,11,2020-12-30 17:35:00,3241,3268,27
+1470,Codeforces Round 694 (Div. 1),Radewoosh,4,2021-01-05 16:35:00,3268,3337,69
+1477,Codeforces Round 698 (Div. 1),Radewoosh,8,2021-01-28 16:50:00,3337,3352,15
+1479,Codeforces Round 700 (Div. 1),Radewoosh,9,2021-02-07 16:50:00,3352,3355,3
+1491,Codeforces Global Round 13,Radewoosh,11,2021-02-28 16:35:00,3355,3349,-6
+1495,Codeforces Round 706 (Div. 1),Radewoosh,1,2021-03-10 14:05:00,3349,3490,141
+1500,"Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",Radewoosh,22,2021-03-13 11:35:00,3490,3374,-116
+1483,"Codeforces Round 709 (Div. 1, based on Technocup 2021 Final Round)",Radewoosh,2,2021-03-21 15:35:00,3374,3461,87
+1503,Codeforces Round 712 (Div. 1),Radewoosh,6,2021-04-03 16:50:00,3461,3466,5
+1508,Codeforces Round 715 (Div. 1),Radewoosh,4,2021-04-16 16:50:00,3466,3494,28
+1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),Radewoosh,4,2021-04-23 17:20:00,3494,3528,34
+1515,Codeforces Global Round 14,Radewoosh,1,2021-05-02 17:35:00,3528,3648,120
+1528,Codeforces Round 722 (Div. 1),Radewoosh,3,2021-05-24 16:50:00,3648,3659,11
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",Radewoosh,2,2021-05-30 16:50:00,3659,3707,48
+1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),Radewoosh,3,2021-06-13 18:35:00,3707,3720,13
+1540,Codeforces Round 728 (Div. 1),Radewoosh,3,2021-06-25 17:50:00,3720,3712,-8
+1545,Codeforces Round 732 (Div. 1),Radewoosh,25,2021-07-11 16:35:00,3712,3550,-162
+1530,"Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",Radewoosh,3,2021-07-17 17:35:00,3550,3574,24
+1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",Radewoosh,7,2021-07-22 17:05:00,3574,3538,-36
+1548,Codeforces Round 736 (Div. 1),Radewoosh,8,2021-08-01 17:00:00,3538,3511,-27
+1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",Radewoosh,7,2021-08-29 17:05:00,3511,3511,0
+1566,Codeforces Global Round 16,Radewoosh,1,2021-09-12 17:05:00,3511,3655,144
+1580,Codeforces Round 745 (Div. 1),Radewoosh,3,2021-09-30 12:15:00,3655,3627,-28
+1601,Codeforces Round 751 (Div. 1),Radewoosh,5,2021-10-25 08:35:00,3627,3562,-65
+1603,Codeforces Round 752 (Div. 1),Radewoosh,85,2021-10-30 16:35:00,3562,3366,-196
+1610,Codeforces Global Round 17,Radewoosh,1,2021-11-23 17:35:00,3366,3525,159
+1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",Radewoosh,27,2021-11-28 17:05:00,3525,3418,-107
+1615,Codeforces Global Round 18,Radewoosh,11,2021-12-24 17:05:00,3418,3405,-13
+1616,Good Bye 2021: 2022 is NEAR,Radewoosh,4,2021-12-29 17:35:00,3405,3469,64
+1621,Hello 2022,Radewoosh,3,2022-01-03 16:50:00,3469,3545,76
+1630,Codeforces Round 768 (Div. 1),Radewoosh,5,2022-01-27 16:35:00,3545,3548,3
+1637,Codeforces Global Round 19,Radewoosh,45,2022-02-12 17:05:00,3548,3404,-144
+1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,5,2022-03-24 16:35:00,3404,3444,40
+1667,Codeforces Round 783 (Div. 1),Radewoosh,15,2022-04-19 16:35:00,3444,3399,-45
+1684,Codeforces Round 792 (Div. 1 + Div. 2),Radewoosh,44,2022-05-19 16:35:00,3399,3287,-112
+1687,Codeforces Round 796 (Div. 1),Radewoosh,77,2022-06-03 16:35:00,3287,3149,-138
+1693,Codeforces Round 800 (Div. 1),Radewoosh,1,2022-06-16 16:35:00,3149,3379,230
+1696,Codeforces Global Round 21,Radewoosh,8,2022-06-25 16:50:00,3379,3406,27
+1718,Codeforces Round 814 (Div. 1),Radewoosh,5,2022-08-16 16:35:00,3406,3442,36
+1737,Dytechlab Cup 2022,Radewoosh,12,2022-10-07 17:05:00,3442,3406,-36
+1753,Codeforces Round 829 (Div. 1),Radewoosh,4,2022-10-23 09:50:00,3406,3438,32
+1770,Good Bye 2022: 2023 is NEAR,Radewoosh,3,2022-12-30 17:05:00,3438,3528,90
+1779,Hello 2023,Radewoosh,12,2023-01-03 17:05:00,3528,3492,-36
+1782,"Codeforces Round 844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",Radewoosh,3,2023-01-15 15:05:00,3492,3535,43
+1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,3,2023-01-29 17:35:00,3535,3602,67
+1801,Codeforces Round 857 (Div. 1),Radewoosh,15,2023-03-09 12:35:00,3602,3515,-87
+1804,Nebius Welcome Round (Div. 1 + Div. 2),Radewoosh,100,2023-03-12 16:35:00,3515,3319,-196
+1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,3,2023-03-31 16:35:00,3319,3436,117
+1819,Codeforces Round 866 (Div. 1),Radewoosh,2,2023-04-15 11:05:00,3436,3515,79
+1817,Codeforces Round 869 (Div. 1),Radewoosh,54,2023-04-29 16:50:00,3515,3350,-165
+1824,Codeforces Round 872 (Div. 1),Radewoosh,24,2023-05-08 14:05:00,3350,3279,-71
+1830,Codeforces Round 875 (Div. 1),Radewoosh,5,2023-05-28 17:05:00,3279,3342,63
+1852,Codeforces Round 887 (Div. 1),Radewoosh,3,2023-07-23 17:05:00,3342,3438,96
+1854,Codeforces Round 889 (Div. 1),Radewoosh,1,2023-07-29 17:05:00,3438,3598,160
+1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),Radewoosh,1,2023-08-26 17:35:00,3598,3709,111
+1863,Pinely Round 2 (Div. 1 + Div. 2),Radewoosh,2,2023-08-30 17:35:00,3709,3740,31
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,11,2023-09-18 16:50:00,3740,3651,-89
+1876,"Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",Radewoosh,1,2023-10-08 11:35:00,3651,3752,101
+1889,Codeforces Round 906 (Div. 1),Radewoosh,5,2023-10-28 17:05:00,3752,3714,-38
+1893,Codeforces Round 908 (Div. 1),Radewoosh,8,2023-11-07 16:35:00,3714,3648,-66
+1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,1,2023-11-25 17:20:00,3648,3759,111
+1909,Pinely Round 3 (Div. 1 + Div. 2),Radewoosh,24,2023-12-23 17:35:00,3759,3606,-153
+1924,Codeforces Round 921 (Div. 1),Radewoosh,111,2024-01-27 16:45:00,3606,3376,-230
+1936,Codeforces Round 930 (Div. 1),Radewoosh,1,2024-02-29 16:35:00,3376,3532,156
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,2,2024-03-30 17:35:00,3532,3611,79
+1951,Codeforces Global Round 25,Radewoosh,18,2024-04-06 17:35:00,3611,3521,-90
+1967,Codeforces Round 942 (Div. 1),Radewoosh,8,2024-04-30 17:05:00,3521,3509,-12
+1984,Codeforces Global Round 26,Radewoosh,50,2024-06-09 17:35:00,3509,3373,-136
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),Radewoosh,1,2024-06-30 17:35:00,3373,3542,169
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),Radewoosh,6,2024-07-18 16:35:00,3542,3522,-20
+1991,Pinely Round 4 (Div. 1 + Div. 2),Radewoosh,3,2024-07-28 17:35:00,3522,3582,60
+2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),Radewoosh,2,2024-08-11 17:35:00,3582,3646,64
+2006,Codeforces Round 969 (Div. 1),Radewoosh,4,2024-08-30 17:05:00,3646,3646,0
+2029,Refact.ai Match 1 (Codeforces Round 985),Radewoosh,4,2024-11-09 17:35:00,3646,3633,-13
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",Radewoosh,6,2024-11-23 17:35:00,3633,3627,-6
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",Radewoosh,39,2024-11-30 17:35:00,3627,3483,-144
+2048,Codeforces Global Round 28,Radewoosh,20,2024-12-19 17:35:00,3483,3410,-73
+2053,Good Bye 2024: 2025 is NEAR,Radewoosh,5,2024-12-28 17:35:00,3410,3456,46
+2057,Hello 2025,Radewoosh,41,2025-01-04 17:05:00,3456,3355,-101
+2066,Codeforces Round 1004 (Div. 1),Radewoosh,3,2025-02-11 16:35:00,3355,3463,108
+2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",Radewoosh,8,2025-04-19 16:35:00,3463,3481,18
+2101,Codeforces Round 1024 (Div. 1),Radewoosh,1,2025-05-11 17:05:00,3481,3631,150

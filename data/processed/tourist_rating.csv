@@ -1,0 +1,282 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+2,Codeforces Beta Round 2,tourist,14,2010-02-25 19:00:00,0,1602,1602
+8,Codeforces Beta Round 8,tourist,5,2010-04-08 17:45:00,1602,1764,162
+10,Codeforces Beta Round 10,tourist,18,2010-04-15 17:45:00,1764,1878,114
+13,Codeforces Beta Round 13,tourist,11,2010-05-06 16:00:00,1878,1967,89
+19,Codeforces Beta Round 19,tourist,2,2010-06-24 17:00:00,1967,2063,96
+23,Codeforces Beta Round 23,tourist,15,2010-07-09 17:00:00,2063,2081,18
+24,Codeforces Beta Round 24,tourist,20,2010-07-26 15:00:00,2081,2098,17
+28,Codeforces Beta Round 28 (Codeforces format),tourist,11,2010-09-17 17:00:00,2098,2128,30
+33,Codeforces Beta Round 33 (Codeforces format),tourist,1,2010-10-07 17:00:00,2128,2203,75
+37,Codeforces Beta Round 37,tourist,3,2010-10-25 17:00:00,2203,2256,53
+38,School Personal Contest #1 (Winter Computer School 2010/11) - Codeforces Beta Round 38 (ACM-ICPC Rules),tourist,1,2010-10-30 16:00:00,2256,2270,14
+40,Codeforces Beta Round 39,tourist,1,2010-11-05 18:00:00,2270,2311,41
+42,Codeforces Beta Round 41,tourist,1,2010-11-18 18:00:00,2311,2341,30
+46,School Personal Contest #2 (Winter Computer School 2010/11) - Codeforces Beta Round 43 (ACM-ICPC Rules),tourist,2,2010-12-05 11:00:00,2341,2351,10
+51,Codeforces Beta Round 48,tourist,1,2010-12-28 18:30:00,2351,2388,37
+57,Codeforces Beta Round 53,tourist,1,2011-01-25 18:00:00,2388,2419,31
+60,Codeforces Beta Round 56,tourist,1,2011-02-19 18:00:00,2419,2438,19
+62,Codeforces Beta Round 58,tourist,1,2011-02-25 18:00:00,2438,2455,17
+67,Manthan 2011,tourist,1,2011-03-13 19:30:00,2455,2491,36
+73,Codeforces Beta Round 66,tourist,3,2011-04-10 10:30:00,2491,2494,3
+74,Codeforces Beta Round 68,tourist,1,2011-04-15 17:00:00,2494,2517,23
+77,Codeforces Beta Round 69 (Div. 1 Only),tourist,11,2011-04-19 17:15:00,2517,2501,-16
+82,Yandex.Algorithm 2011: Qualification 2,tourist,1,2011-05-06 17:00:00,2501,2514,13
+83,Codeforces Beta Round 72 (Div. 1 Only),tourist,1,2011-05-13 17:10:00,2514,2547,33
+85,Yandex.Algorithm 2011: Round 1,tourist,1,2011-05-20 17:00:00,2547,2586,39
+86,Yandex.Algorithm 2011: Round 2,tourist,2,2011-05-22 17:10:00,2586,2624,38
+87,Codeforces Beta Round 73 (Div. 1 Only),tourist,4,2011-06-07 17:00:00,2624,2632,8
+89,Codeforces Beta Round 74 (Div. 1 Only),tourist,2,2011-06-16 17:00:00,2632,2646,14
+97,Yandex.Algorithm 2011: Finals,tourist,7,2011-07-15 14:00:00,2646,2610,-36
+101,Codeforces Beta Round 79 (Div. 1 Only),tourist,4,2011-08-03 19:00:00,2610,2609,-1
+105,Codeforces Beta Round 81,tourist,5,2011-08-13 17:00:00,2609,2604,-5
+107,Codeforces Beta Round 83 (Div. 1 Only),tourist,2,2011-08-23 17:00:00,2604,2613,9
+109,Codeforces Beta Round 84 (Div. 1 Only),tourist,7,2011-08-29 18:00:00,2613,2601,-12
+111,Codeforces Beta Round 85 (Div. 1 Only),tourist,22,2011-09-03 14:00:00,2601,2549,-52
+113,Codeforces Beta Round 86 (Div. 1 Only),tourist,4,2011-09-08 17:00:00,2549,2560,11
+115,Codeforces Beta Round 87 (Div. 1 Only),tourist,1,2011-09-15 17:00:00,2560,2595,35
+117,Codeforces Beta Round 88,tourist,3,2011-09-23 17:00:00,2595,2612,17
+120,"School Regional Team Contest, Saratov, 2011",tourist,1,2011-10-18 11:30:00,2612,2635,23
+121,Codeforces Beta Round 91 (Div. 1 Only),tourist,1,2011-10-27 17:00:00,2635,2661,26
+123,Codeforces Beta Round 92 (Div. 1 Only),tourist,1,2011-11-03 17:10:00,2661,2683,22
+126,Codeforces Beta Round 93 (Div. 1 Only),tourist,2,2011-11-09 19:00:00,2683,2693,10
+128,Codeforces Beta Round 94 (Div. 1 Only),tourist,5,2011-11-15 08:10:00,2693,2670,-23
+140,Codeforces Round 100,tourist,3,2012-01-04 17:00:00,2670,2704,34
+142,Codeforces Round 102 (Div. 1),tourist,1,2012-01-12 17:05:00,2704,2762,58
+145,Codeforces Round 104 (Div. 1),tourist,1,2012-01-22 09:00:00,2762,2809,47
+150,Codeforces Round 107 (Div. 1),tourist,10,2012-02-17 17:00:00,2809,2783,-26
+154,Codeforces Round 109 (Div. 1),tourist,1,2012-02-24 17:00:00,2783,2831,48
+156,Codeforces Round 110 (Div. 1),tourist,1,2012-02-29 19:30:00,2831,2877,46
+161,VK Cup 2012 Round 1,tourist,3,2012-03-11 17:05:00,2877,2883,6
+163,VK Cup 2012 Round 2,tourist,1,2012-03-25 17:05:00,2883,2907,24
+167,Codeforces Round 114 (Div. 1),tourist,2,2012-03-27 17:00:00,2907,2906,-1
+173,Croc Champ 2012 - Round 1,tourist,1,2012-04-06 17:00:00,2906,2919,13
+164,VK Cup 2012 Round 3,tourist,8,2012-04-08 17:05:00,2919,2877,-42
+175,Codeforces Round 115,tourist,1,2012-04-14 11:00:00,2877,2887,10
+193,Codeforces Round 122 (Div. 1),tourist,2,2012-06-03 17:30:00,2887,2902,15
+196,Codeforces Round 124 (Div. 1),tourist,1,2012-06-12 15:00:00,2902,2938,36
+198,Codeforces Round 125 (Div. 1),tourist,2,2012-06-22 17:30:00,2938,2964,26
+204,Codeforces Round 129 (Div. 1),tourist,1,2012-07-11 17:30:00,2964,3022,58
+211,VK Cup 2012 Finals,tourist,3,2012-07-15 09:30:00,3022,3010,-12
+213,Codeforces Round 131 (Div. 1),tourist,3,2012-07-30 17:30:00,3010,2998,-12
+217,Codeforces Round 134 (Div. 1),tourist,4,2012-08-18 09:05:00,2998,2973,-25
+223,Codeforces Round 138 (Div. 1),tourist,2,2012-09-16 17:30:00,2973,2991,18
+232,Codeforces Round 144 (Div. 1),tourist,1,2012-10-11 17:30:00,2991,3042,51
+240,"Codeforces Round 145 (Div. 1, ACM-ICPC Rules)",tourist,3,2012-10-16 09:00:00,3042,3022,-20
+235,Codeforces Round 146 (Div. 1),tourist,6,2012-10-21 09:10:00,3022,2977,-45
+241,"Bayan 2012-2013 Elimination Round (ACM ICPC Rules, English statements)",tourist,1,2012-11-01 18:30:00,2977,3034,57
+238,Codeforces Round 148 (Div. 1),tourist,1,2012-11-04 18:00:00,3034,3082,48
+243,Codeforces Round 150 (Div. 1),tourist,11,2012-11-16 17:40:00,3082,3016,-66
+251,Codeforces Round 153 (Div. 1),tourist,2,2012-12-06 17:30:00,3016,3030,14
+269,Codeforces Round 165 (Div. 1),tourist,3,2013-02-01 17:30:00,3030,3026,-4
+273,Codeforces Round 167 (Div. 1),tourist,2,2013-02-13 17:30:00,3026,3039,13
+280,Codeforces Round 172 (Div. 1),tourist,7,2013-03-10 17:30:00,3039,2990,-49
+292,Croc Champ 2013 - Round 1,tourist,1,2013-04-15 17:35:00,2990,3051,61
+297,Codeforces Round 180 (Div. 1),tourist,1,2013-04-19 17:30:00,3051,3103,52
+293,Croc Champ 2013 - Round 2,tourist,1,2013-04-22 17:45:00,3103,3157,54
+308,Croc Champ 2013 - Finals,tourist,1,2013-05-17 12:30:00,3157,3188,31
+316,ABBYY Cup 3.0,tourist,2,2013-06-12 17:00:00,3188,3195,7
+317,Codeforces Round 188 (Div. 1),tourist,24,2013-06-14 17:30:00,3195,3088,-107
+331,ABBYY Cup 3.0 - Finals (online version),tourist,1,2013-07-17 17:45:00,3088,3136,48
+329,Codeforces Round 192 (Div. 1),tourist,9,2013-07-20 15:30:00,3136,3072,-64
+335,MemSQL start[c]up Round 2 - online version,tourist,1,2013-08-03 20:00:00,3072,3121,49
+338,Codeforces Round 196 (Div. 1),tourist,1,2013-08-16 18:00:00,3121,3165,44
+343,Codeforces Round 200 (Div. 1),tourist,1,2013-09-14 17:40:00,3165,3210,45
+356,Codeforces Round 207 (Div. 1),tourist,1,2013-10-15 14:00:00,3210,3250,40
+367,Codeforces Round 215 (Div. 1),tourist,4,2013-11-26 17:30:00,3250,3205,-45
+372,Codeforces Round 219 (Div. 1),tourist,2,2013-12-13 16:00:00,3205,3209,4
+377,Codeforces Round 222 (Div. 1),tourist,2,2013-12-29 17:30:00,3209,3209,0
+379,Good Bye 2013,tourist,19,2013-12-30 17:30:00,3209,3093,-116
+388,Codeforces Round 228 (Div. 1),tourist,1,2014-02-03 17:45:00,3093,3141,48
+407,Codeforces Round 239 (Div. 1),tourist,1,2014-03-30 09:00:00,3141,3186,45
+418,RCC 2014 Warmup (Div. 1),tourist,1,2014-04-17 17:40:00,3186,3228,42
+436,Zepto Code Rush 2014,tourist,3,2014-06-13 18:00:00,3228,3206,-22
+442,Codeforces Round 253 (Div. 1),tourist,1,2014-06-19 17:30:00,3206,3245,39
+452,MemSQL Start[c]UP 2.0 - Round 1,tourist,8,2014-07-27 19:30:00,3245,3173,-72
+455,Codeforces Round 260 (Div. 1),tourist,1,2014-08-08 17:30:00,3173,3213,40
+458,MemSQL Start[c]UP 2.0 - Round 2 - Online Round,tourist,1,2014-08-10 20:00:00,3213,3260,47
+464,Codeforces Round 265 (Div. 1),tourist,1,2014-09-07 17:30:00,3260,3299,39
+472,Codeforces Round 270,tourist,21,2014-09-28 18:05:00,3299,3164,-135
+482,Codeforces Round 275 (Div. 1),tourist,1,2014-10-24 19:10:00,3164,3203,39
+494,Codeforces Round 282 (Div. 1),tourist,1,2014-12-13 18:30:00,3203,3240,37
+500,Good Bye 2014,tourist,1,2014-12-30 17:30:00,3240,3254,14
+512,Codeforces Round 290 (Div. 1),tourist,5,2015-02-02 18:35:00,3254,3201,-53
+513,Rockethon 2015,tourist,1,2015-02-07 20:15:00,3201,3239,38
+524,VK Cup 2015 - Round 1,tourist,4,2015-03-21 16:00:00,3239,3223,-16
+526,ZeptoLab Code Rush 2015,tourist,1,2015-04-04 19:05:00,3223,3274,51
+532,VK Cup 2015 - Round 2,tourist,1,2015-04-17 18:30:00,3274,3341,67
+541,VK Cup 2015 - Раунд 3,tourist,1,2015-05-03 18:30:00,3341,3407,66
+549,Looksery Cup 2015,tourist,1,2015-06-06 15:30:00,3407,3445,38
+562,VK Cup 2015 - Finals,tourist,1,2015-07-26 11:15:00,3445,3503,58
+573,Codeforces Round 318 [RussianCodeCup Thanks-Round] (Div. 1),tourist,166,2015-08-29 18:40:00,3503,3374,-129
+607,Codeforces Round 336 (Div. 1),tourist,2,2015-12-23 18:35:00,3374,3374,0
+611,Good Bye 2015,tourist,1,2015-12-30 18:05:00,3374,3444,70
+626,8VC Venture Cup 2016 - Elimination Round,tourist,6,2016-02-13 20:05:00,3444,3373,-71
+633,"Manthan, Codefest 16",tourist,1,2016-02-26 19:45:00,3373,3444,71
+627,8VC Venture Cup 2016 - Final Round,tourist,1,2016-02-28 20:10:00,3444,3518,74
+650,Codeforces Round 345 (Div. 1),tourist,1,2016-03-07 11:25:00,3518,3582,64
+645,CROC 2016 - Elimination Round,tourist,2,2016-03-18 18:35:00,3582,3534,-48
+639,VK Cup 2016 - Round 1,tourist,1,2016-03-28 18:35:00,3534,3588,54
+662,"CROC 2016 - Final Round [Private, For Onsite Finalists Only]",tourist,1,2016-04-15 16:15:00,3588,3640,52
+641,VK Cup 2016 - Round 2,tourist,4,2016-04-24 18:35:00,3640,3501,-139
+643,VK Cup 2016 - Round 3,tourist,1,2016-05-07 18:05:00,3501,3554,53
+687,Codeforces Round 360 (Div. 1),tourist,2,2016-06-29 19:05:00,3554,3525,-29
+695,VK Cup 2016 - Finals,tourist,1,2016-07-03 11:50:00,3525,3580,55
+744,Codeforces Round 385 (Div. 1),tourist,1,2016-12-17 18:35:00,3580,3638,58
+750,Good Bye 2016,tourist,2,2016-12-30 16:45:00,3638,3615,-23
+757,"Codecraft-17 and Codeforces Round 391 (Div. 1 + Div. 2, combined)",tourist,1,2017-01-12 18:35:00,3615,3670,55
+755,8VC Venture Cup 2017 - Elimination Round,tourist,1,2017-01-15 19:05:00,3670,3739,69
+756,8VC Venture Cup 2017 - Final Round,tourist,7,2017-01-22 20:15:00,3739,3544,-195
+776,"ICM Technex 2017 and Codeforces Round 400 (Div. 1 + Div. 2, combined)",tourist,2,2017-02-23 16:55:00,3544,3534,-10
+799,"Playrix Codescapes Cup (Codeforces Round 413, rated, Div. 1 + Div. 2)",tourist,1,2017-05-11 17:35:00,3534,3602,68
+843,AIM Tech Round 4 (Div. 1),tourist,7,2017-08-24 19:05:00,3602,3488,-114
+859,MemSQL Start[c]UP 3.0 - Round 1,tourist,4,2017-09-16 20:05:00,3488,3438,-50
+855,"Manthan, Codefest 17",tourist,3,2017-09-24 17:05:00,3438,3411,-27
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round 437 (Div. 1),tourist,1,2017-09-30 20:05:00,3411,3496,85
+947,"Codeforces Round 470 (rated, Div. 1, based on VK Cup 2018 Round 1)",tourist,140,2018-03-10 17:35:00,3496,3206,-290
+966,"Codeforces Round 477 (rated, Div. 1, based on VK Cup 2018 Round 3)",tourist,3,2018-04-29 15:45:00,3206,3235,29
+981,Avito Code Challenge 2018,tourist,1,2018-05-27 17:50:00,3235,3341,106
+986,Codeforces Round 485 (Div. 1),tourist,1,2018-05-29 17:45:00,3341,3434,93
+1037,"Manthan, Codefest 18 (rated, Div. 1 + Div. 2)",tourist,1,2018-09-02 16:35:00,3434,3509,75
+1033,Lyft Level 5 Challenge 2018 - Elimination Round,tourist,1,2018-10-07 19:05:00,3509,3581,72
+1043,Codeforces Round 519 by Botan Investments,tourist,126,2018-10-28 17:35:00,3581,3312,-269
+1044,Lyft Level 5 Challenge 2018 - Final Round,tourist,1,2018-11-04 20:10:00,3312,3401,89
+1055,Mail.Ru Cup 2018 Round 2,tourist,5,2018-11-10 17:05:00,3401,3372,-29
+1081,Avito Cool Challenge 2018,tourist,1,2018-12-16 17:05:00,3372,3469,97
+1091,Good Bye 2018,tourist,1,2018-12-30 17:15:00,3469,3559,90
+1097,Hello 2019,tourist,3,2019-01-04 17:45:00,3559,3539,-20
+1110,Codeforces Global Round 1,tourist,1,2019-02-07 15:35:00,3539,3624,85
+1119,Codeforces Global Round 2,tourist,2,2019-04-06 13:35:00,3624,3628,4
+1146,Forethought Future Cup - Elimination Round,tourist,1,2019-04-20 20:35:00,3628,3698,70
+1148,Codeforces Global Round 3,tourist,2,2019-06-01 16:50:00,3698,3686,-12
+1198,Codeforces Round 576 (Div. 1),tourist,2,2019-07-30 16:35:00,3686,3645,-41
+1208,"Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2)",tourist,1,2019-08-25 16:40:00,3645,3711,66
+1209,"Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",tourist,11,2019-09-14 15:35:00,3711,3557,-154
+1246,"Codeforces Round 596 (Div. 1, based on Technocup 2020 Elimination Round 2)",tourist,3,2019-10-26 13:05:00,3557,3532,-25
+1261,"Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",tourist,2,2019-11-24 10:05:00,3532,3544,12
+1264,Codeforces Round 604 (Div. 1),tourist,2,2019-12-05 16:35:00,3544,3556,12
+1266,Codeforces Global Round 6,tourist,3,2019-12-17 17:35:00,3556,3539,-17
+1268,Codeforces Round 609 (Div. 1),tourist,1,2019-12-21 13:05:00,3539,3615,76
+1270,Good Bye 2019,tourist,50,2019-12-29 17:05:00,3615,3418,-197
+1284,Hello 2020,tourist,4,2020-01-04 14:35:00,3418,3430,12
+1292,Codeforces Round 614 (Div. 1),tourist,2,2020-01-19 15:35:00,3430,3461,31
+1290,Codeforces Round 616 (Div. 1),tourist,1,2020-02-02 16:35:00,3461,3549,88
+1307,Codeforces Round 621 (Div. 1 + Div. 2),tourist,26,2020-02-17 17:50:00,3549,3404,-145
+1310,VK Cup 2019-2020 - Elimination Round (Engine),tourist,1,2020-02-23 18:35:00,3404,3496,92
+1305,"Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",tourist,1,2020-03-03 16:50:00,3496,3585,89
+1326,Codeforces Global Round 7,tourist,1,2020-03-19 17:05:00,3585,3669,84
+1329,"Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",tourist,2,2020-04-03 16:35:00,3669,3673,4
+1338,Codeforces Round 633 (Div. 1),tourist,1,2020-04-12 16:05:00,3673,3733,60
+1336,Codeforces Round 635 (Div. 1),tourist,29,2020-04-15 17:05:00,3733,3541,-192
+1349,Codeforces Round 641 (Div. 1),tourist,26,2020-05-12 15:05:00,3541,3409,-132
+1361,"Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",tourist,1,2020-06-04 17:05:00,3409,3520,111
+1368,Codeforces Global Round 8,tourist,2,2020-06-18 17:15:00,3520,3567,47
+1375,Codeforces Global Round 9,tourist,1,2020-07-04 17:15:00,3567,3669,102
+1383,Codeforces Round 659 (Div. 1),tourist,1,2020-07-24 16:35:00,3669,3735,66
+1394,Codeforces Round 664 (Div. 1),tourist,41,2020-08-12 16:35:00,3735,3515,-220
+1392,Codeforces Global Round 10,tourist,4,2020-08-16 17:35:00,3515,3506,-9
+1396,Codeforces Round 666 (Div. 1),tourist,1,2020-08-30 16:35:00,3506,3613,107
+1404,Codeforces Round 668 (Div. 1),tourist,36,2020-09-06 16:35:00,3613,3438,-175
+1416,Codeforces Round 673 (Div. 1),tourist,1,2020-09-27 17:05:00,3438,3533,95
+1408,Grakn Forces 2020,tourist,1,2020-09-30 17:20:00,3533,3629,96
+1427,Codeforces Global Round 11,tourist,22,2020-10-10 17:50:00,3629,3509,-120
+1434,"Codeforces Round 679 (Div. 1, based on Technocup 2021 Elimination Round 1)",tourist,1,2020-10-25 13:05:00,3509,3619,110
+1441,VK Cup 2019-2020 - Final Round (Engine),tourist,1,2020-11-01 16:05:00,3619,3687,68
+1450,Codeforces Global Round 12,tourist,2,2020-12-06 17:35:00,3687,3712,25
+1458,Codeforces Round 691 (Div. 1),tourist,1,2020-12-19 11:35:00,3712,3783,71
+1464,"Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",tourist,20,2020-12-20 17:05:00,3783,3601,-182
+1466,Good Bye 2020,tourist,1,2020-12-30 17:35:00,3601,3702,101
+1470,Codeforces Round 694 (Div. 1),tourist,1,2021-01-05 16:35:00,3702,3778,76
+1477,Codeforces Round 698 (Div. 1),tourist,3,2021-01-28 16:50:00,3778,3748,-30
+1491,Codeforces Global Round 13,tourist,35,2021-02-28 16:35:00,3748,3565,-183
+1495,Codeforces Round 706 (Div. 1),tourist,3,2021-03-10 14:05:00,3565,3572,7
+1500,"Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",tourist,1,2021-03-13 11:35:00,3572,3668,96
+1503,Codeforces Round 712 (Div. 1),tourist,2,2021-04-03 16:50:00,3668,3697,29
+1508,Codeforces Round 715 (Div. 1),tourist,3,2021-04-16 16:50:00,3697,3682,-15
+1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),tourist,8,2021-04-23 17:20:00,3682,3617,-65
+1515,Codeforces Global Round 14,tourist,6,2021-05-02 17:35:00,3617,3579,-38
+1528,Codeforces Round 722 (Div. 1),tourist,8,2021-05-24 16:50:00,3579,3538,-41
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",tourist,1,2021-05-30 16:50:00,3538,3669,131
+1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),tourist,2,2021-06-13 18:35:00,3669,3723,54
+1540,Codeforces Round 728 (Div. 1),tourist,2,2021-06-25 17:50:00,3723,3748,25
+1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",tourist,3,2021-07-22 17:05:00,3748,3729,-19
+1552,Codeforces Global Round 15,tourist,1,2021-07-25 17:20:00,3729,3822,93
+1548,Codeforces Round 736 (Div. 1),tourist,2,2021-08-01 17:00:00,3822,3819,-3
+1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",tourist,22,2021-08-29 17:05:00,3819,3656,-163
+1566,Codeforces Global Round 16,tourist,2,2021-09-12 17:05:00,3656,3707,51
+1603,Codeforces Round 752 (Div. 1),tourist,1,2021-10-30 16:35:00,3707,3804,97
+1610,Codeforces Global Round 17,tourist,2,2021-11-23 17:35:00,3804,3797,-7
+1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",tourist,1,2021-11-28 17:05:00,3797,3870,73
+1615,Codeforces Global Round 18,tourist,8,2021-12-24 17:05:00,3870,3756,-114
+1616,Good Bye 2021: 2022 is NEAR,tourist,1,2021-12-29 17:35:00,3756,3836,80
+1621,Hello 2022,tourist,1,2022-01-03 16:50:00,3836,3911,75
+1628,Codeforces Round 767 (Div. 1),tourist,1,2022-01-22 16:35:00,3911,3979,68
+1630,Codeforces Round 768 (Div. 1),tourist,9,2022-01-27 16:35:00,3979,3809,-170
+1637,Codeforces Global Round 19,tourist,1,2022-02-12 17:05:00,3809,3879,70
+1641,Codeforces Round 773 (Div. 1),tourist,1,2022-02-23 12:10:00,3879,3946,67
+1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,8,2022-03-24 16:35:00,3946,3796,-150
+1667,Codeforces Round 783 (Div. 1),tourist,2,2022-04-19 16:35:00,3796,3801,5
+1672,Codeforces Global Round 20,tourist,2,2022-04-23 17:05:00,3801,3814,13
+1677,Codeforces Round 789 (Div. 1),tourist,2,2022-05-08 16:35:00,3814,3805,-9
+1684,Codeforces Round 792 (Div. 1 + Div. 2),tourist,1,2022-05-19 16:35:00,3805,3882,77
+1685,Codeforces Round 794 (Div. 1),tourist,6,2022-05-25 19:50:00,3882,3764,-118
+1687,Codeforces Round 796 (Div. 1),tourist,4,2022-06-03 16:35:00,3764,3732,-32
+1693,Codeforces Round 800 (Div. 1),tourist,3,2022-06-16 16:35:00,3732,3727,-5
+1696,Codeforces Global Round 21,tourist,7,2022-06-25 16:50:00,3727,3671,-56
+1707,Codeforces Round 808 (Div. 1),tourist,3,2022-07-16 16:35:00,3671,3678,7
+1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,1,2022-07-31 16:35:00,3678,3771,93
+1718,Codeforces Round 814 (Div. 1),tourist,1,2022-08-16 16:35:00,3771,3851,80
+1738,Codeforces Global Round 22,tourist,6,2022-09-30 17:05:00,3851,3757,-94
+1737,Dytechlab Cup 2022,tourist,1,2022-10-07 17:05:00,3757,3834,77
+1746,Codeforces Global Round 23,tourist,1,2022-10-15 16:50:00,3834,3912,78
+1750,"CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,10,2022-11-06 17:05:00,3912,3735,-177
+1761,Pinely Round 1 (Div. 1 + Div. 2),tourist,1,2022-11-20 17:05:00,3735,3817,82
+1774,"Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,3,2022-12-17 17:05:00,3817,3764,-53
+1770,Good Bye 2022: 2023 is NEAR,tourist,5,2022-12-30 17:05:00,3764,3731,-33
+1779,Hello 2023,tourist,2,2023-01-03 17:05:00,3731,3768,37
+1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,2,2023-01-29 17:35:00,3768,3803,35
+1801,Codeforces Round 857 (Div. 1),tourist,17,2023-03-09 12:35:00,3803,3658,-145
+1804,Nebius Welcome Round (Div. 1 + Div. 2),tourist,2,2023-03-12 16:35:00,3658,3706,48
+1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,73,2023-03-31 16:35:00,3706,3486,-220
+1815,Codeforces Round 865 (Div. 1),tourist,1,2023-04-09 17:00:00,3486,3635,149
+1819,Codeforces Round 866 (Div. 1),tourist,5,2023-04-15 11:05:00,3635,3588,-47
+1817,Codeforces Round 869 (Div. 1),tourist,2,2023-04-29 16:50:00,3588,3662,74
+1827,Codeforces Round 873 (Div. 1),tourist,6,2023-05-14 16:35:00,3662,3622,-40
+1830,Codeforces Round 875 (Div. 1),tourist,4,2023-05-28 17:05:00,3622,3611,-11
+1835,Codeforces Round 880 (Div. 1),tourist,2,2023-06-18 16:35:00,3611,3664,53
+1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,1,2023-06-24 17:05:00,3664,3755,91
+1844,Codeforces Round 884 (Div. 1 + Div. 2),tourist,2,2023-07-11 17:35:00,3755,3767,12
+1852,Codeforces Round 887 (Div. 1),tourist,4,2023-07-23 17:05:00,3767,3726,-41
+1854,Codeforces Round 889 (Div. 1),tourist,3,2023-07-29 17:05:00,3726,3727,1
+1863,Pinely Round 2 (Div. 1 + Div. 2),tourist,1,2023-08-30 17:35:00,3727,3817,90
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,6,2023-09-18 16:50:00,3817,3751,-66
+1874,Codeforces Round 901 (Div. 1),tourist,2,2023-09-30 17:35:00,3751,3775,24
+1889,Codeforces Round 906 (Div. 1),tourist,46,2023-10-28 17:05:00,3775,3557,-218
+1893,Codeforces Round 908 (Div. 1),tourist,4,2023-11-07 16:35:00,3557,3584,27
+1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,18,2023-11-25 17:20:00,3584,3485,-99
+1909,Pinely Round 3 (Div. 1 + Div. 2),tourist,33,2023-12-23 17:35:00,3485,3375,-110
+1916,Good Bye 2023,tourist,22,2023-12-30 16:50:00,3375,3330,-45
+1919,Hello 2024,tourist,7,2024-01-06 17:05:00,3330,3375,45
+1930,think-cell Round 1,tourist,7,2024-02-17 17:35:00,3375,3395,20
+1936,Codeforces Round 930 (Div. 1),tourist,4,2024-02-29 16:35:00,3395,3434,39
+1943,Codeforces Round 934 (Div. 1),tourist,1,2024-03-16 17:00:00,3434,3572,138
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,6,2024-03-30 17:35:00,3572,3565,-7
+1967,Codeforces Round 942 (Div. 1),tourist,1,2024-04-30 17:05:00,3565,3690,125
+1975,Codeforces Round 947 (Div. 1 + Div. 2),tourist,1,2024-05-25 17:35:00,3690,3757,67
+1984,Codeforces Global Round 26,tourist,1,2024-06-09 17:35:00,3757,3845,88
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),tourist,3,2024-06-30 17:35:00,3845,3803,-42
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),tourist,1,2024-07-18 16:35:00,3803,3880,77
+1991,Pinely Round 4 (Div. 1 + Div. 2),tourist,1,2024-07-28 17:35:00,3880,3947,67
+2006,Codeforces Round 969 (Div. 1),tourist,1,2024-08-30 17:05:00,3947,4009,62
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",tourist,2,2024-11-23 17:35:00,4009,3993,-16
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",tourist,2,2024-11-30 17:35:00,3993,3985,-8
+2057,Hello 2025,tourist,13,2025-01-04 17:05:00,3985,3815,-170
+2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",tourist,2,2025-01-20 17:35:00,3815,3841,26
+2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",tourist,3,2025-01-26 17:05:00,3841,3840,-1
+2066,Codeforces Round 1004 (Div. 1),tourist,2,2025-02-11 16:35:00,3840,3857,17
+2077,Codeforces Round 1008 (Div. 1),tourist,4,2025-03-10 17:15:00,3857,3798,-59
+2089,Codeforces Round 1012 (Div. 1),tourist,1,2025-03-23 08:05:00,3798,3892,94
+2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",tourist,8,2025-04-05 17:35:00,3892,3796,-96
+2096,"Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",tourist,5,2025-04-19 16:35:00,3796,3761,-35
+2097,Codeforces Round 1021 (Div. 1),tourist,1,2025-04-26 11:35:00,3761,3850,89
+2101,Codeforces Round 1024 (Div. 1),tourist,2,2025-05-11 17:05:00,3850,3843,-7

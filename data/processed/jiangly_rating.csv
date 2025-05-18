@@ -1,0 +1,181 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating,delta
+1105,Codeforces Round 533 (Div. 2),jiangly,190,2019-01-20 14:05:00,0,1683,1683
+1138,Codeforces Round 545 (Div. 2),jiangly,370,2019-03-08 11:35:00,1683,1721,38
+1155,Educational Codeforces Round 63 (Rated for Div. 2),jiangly,510,2019-04-22 16:35:00,1721,1762,41
+1150,Codeforces Round 556 (Div. 2),jiangly,1,2019-04-29 16:35:00,1762,2085,323
+1158,Codeforces Round 559 (Div. 1),jiangly,240,2019-05-12 16:35:00,2085,2076,-9
+1167,Educational Codeforces Round 65 (Rated for Div. 2),jiangly,177,2019-05-15 16:35:00,2076,2083,7
+1172,Codeforces Round 564 (Div. 1),jiangly,170,2019-06-07 14:05:00,2083,2141,58
+1179,Codeforces Round 569 (Div. 1),jiangly,75,2019-06-21 19:05:00,2141,2243,102
+1188,Codeforces Round 572 (Div. 1),jiangly,37,2019-07-05 17:05:00,2243,2379,136
+1190,Codeforces Round 573 (Div. 1),jiangly,93,2019-07-12 16:35:00,2379,2409,30
+1198,Codeforces Round 576 (Div. 1),jiangly,208,2019-07-30 16:35:00,2409,2371,-38
+1205,Codeforces Round 580 (Div. 1),jiangly,39,2019-08-18 15:55:00,2371,2472,101
+1208,"Manthan, Codefest 19 (open for everyone, rated, Div. 1 + Div. 2)",jiangly,32,2019-08-25 16:40:00,2472,2568,96
+1214,"Codeforces Round 583 (Div. 1 + Div. 2, based on Olympiad of Metropolises)",jiangly,70,2019-09-04 11:35:00,2568,2571,3
+1209,"Codeforces Round 584 - Dasha Code Championship - Elimination Round (rated, open for everyone, Div. 1 + Div. 2)",jiangly,108,2019-09-14 15:35:00,2571,2572,1
+1220,Codeforces Round 586 (Div. 1 + Div. 2),jiangly,518,2019-09-18 18:05:00,2572,2446,-126
+1229,Codeforces Round 588 (Div. 1),jiangly,131,2019-09-23 16:35:00,2446,2444,-2
+1237,Codeforces Global Round 5,jiangly,37,2019-10-16 17:05:00,2444,2566,122
+1239,Codeforces Round 594 (Div. 1),jiangly,285,2019-10-20 11:05:00,2566,2461,-105
+1246,"Codeforces Round 596 (Div. 1, based on Technocup 2020 Elimination Round 2)",jiangly,72,2019-10-26 13:05:00,2461,2488,27
+1242,Codeforces Round 599 (Div. 1),jiangly,43,2019-11-06 17:05:00,2488,2572,84
+1254,Codeforces Round 601 (Div. 1),jiangly,34,2019-11-19 16:35:00,2572,2636,64
+1261,"Codeforces Round 602 (Div. 1, based on Technocup 2020 Elimination Round 3)",jiangly,16,2019-11-24 10:05:00,2636,2724,88
+1264,Codeforces Round 604 (Div. 1),jiangly,10,2019-12-05 16:35:00,2724,2828,104
+1276,"Codeforces Round 606 (Div. 1, based on Technocup 2020 Elimination Round 4)",jiangly,26,2019-12-14 13:05:00,2828,2839,11
+1280,Codeforces Round 607 (Div. 1),jiangly,17,2019-12-15 07:05:00,2839,2846,7
+1266,Codeforces Global Round 6,jiangly,43,2019-12-17 17:35:00,2846,2846,0
+1268,Codeforces Round 609 (Div. 1),jiangly,38,2019-12-21 13:05:00,2846,2827,-19
+1270,Good Bye 2019,jiangly,80,2019-12-29 17:05:00,2827,2801,-26
+1284,Hello 2020,jiangly,84,2020-01-04 14:35:00,2801,2783,-18
+1286,Codeforces Round 612 (Div. 1),jiangly,7,2020-01-05 16:05:00,2783,2911,128
+1292,Codeforces Round 614 (Div. 1),jiangly,5,2020-01-19 15:35:00,2911,3017,106
+1290,Codeforces Round 616 (Div. 1),jiangly,9,2020-02-02 16:35:00,3017,3066,49
+1299,Codeforces Round 618 (Div. 1),jiangly,16,2020-02-09 16:05:00,3066,3073,7
+1307,Codeforces Round 621 (Div. 1 + Div. 2),jiangly,234,2020-02-17 17:50:00,3073,2907,-166
+1314,"Codeforces Round 623 (Div. 1, based on VK Cup 2019-2020 - Elimination Round, Engine)",jiangly,20,2020-02-23 18:35:00,2907,2901,-6
+1320,"Codeforces Round 625 (Div. 1, based on Technocup 2020 Final Round)",jiangly,26,2020-03-01 15:15:00,2901,2920,19
+1305,"Ozon Tech Challenge 2020 (Div.1 + Div.2, Rated, T-shirts + prizes!)",jiangly,180,2020-03-03 16:50:00,2920,2823,-97
+1322,"Codeforces Round 626 (Div. 1, based on Moscow Open Olympiad in Informatics)",jiangly,8,2020-03-07 11:35:00,2823,2921,98
+1326,Codeforces Global Round 7,jiangly,4,2020-03-19 17:05:00,2921,3078,157
+1329,"Codeforces Round 631 (Div. 1) - Thanks, Denis aramis Shitov!",jiangly,10,2020-04-03 16:35:00,3078,3129,51
+1338,Codeforces Round 633 (Div. 1),jiangly,9,2020-04-12 16:05:00,3129,3160,31
+1336,Codeforces Round 635 (Div. 1),jiangly,22,2020-04-15 17:05:00,3160,3139,-21
+1349,Codeforces Round 641 (Div. 1),jiangly,352,2020-05-12 15:05:00,3139,2946,-193
+1361,"Codeforces Round 647 (Div. 1) - Thanks, Algo Muse!",jiangly,58,2020-06-04 17:05:00,2946,2906,-40
+1368,Codeforces Global Round 8,jiangly,138,2020-06-18 17:15:00,2906,2839,-67
+1375,Codeforces Global Round 9,jiangly,31,2020-07-04 17:15:00,2839,2889,50
+1381,Codeforces Round 658 (Div. 1),jiangly,34,2020-07-21 16:35:00,2889,2896,7
+1383,Codeforces Round 659 (Div. 1),jiangly,5,2020-07-24 16:35:00,2896,3027,131
+1394,Codeforces Round 664 (Div. 1),jiangly,13,2020-08-12 16:35:00,3027,3067,40
+1396,Codeforces Round 666 (Div. 1),jiangly,24,2020-08-30 16:35:00,3067,3065,-2
+1404,Codeforces Round 668 (Div. 1),jiangly,14,2020-09-06 16:35:00,3065,3091,26
+1416,Codeforces Round 673 (Div. 1),jiangly,20,2020-09-27 17:05:00,3091,3075,-16
+1408,Grakn Forces 2020,jiangly,11,2020-09-30 17:20:00,3075,3126,51
+1427,Codeforces Global Round 11,jiangly,15,2020-10-10 17:50:00,3126,3158,32
+1434,"Codeforces Round 679 (Div. 1, based on Technocup 2021 Elimination Round 1)",jiangly,73,2020-10-25 13:05:00,3158,3051,-107
+1444,"Codeforces Round 680 (Div. 1, based on Moscow Team Olympiad)",jiangly,5,2020-11-01 13:05:00,3051,3132,81
+1442,"Codeforces Round 681 (Div. 1, based on VK Cup 2019-2020 - Final)",jiangly,9,2020-11-02 16:35:00,3132,3151,19
+1446,"Codeforces Round 683 (Div. 1, by Meet IT)",jiangly,33,2020-11-15 17:05:00,3151,3102,-49
+1439,Codeforces Round 684 (Div. 1),jiangly,5,2020-11-17 16:50:00,3102,3186,84
+1456,"Codeforces Round 687 (Div. 1, based on Technocup 2021 Elimination Round 2)",jiangly,10,2020-11-29 09:05:00,3186,3184,-2
+1450,Codeforces Global Round 12,jiangly,3,2020-12-06 17:35:00,3184,3307,123
+1458,Codeforces Round 691 (Div. 1),jiangly,7,2020-12-19 11:35:00,3307,3316,9
+1464,"Codeforces Round 692 (Div. 1, based on Technocup 2021 Elimination Round 3)",jiangly,2,2020-12-20 17:05:00,3316,3444,128
+1466,Good Bye 2020,jiangly,78,2020-12-30 17:35:00,3444,3290,-154
+1470,Codeforces Round 694 (Div. 1),jiangly,3,2021-01-05 16:35:00,3290,3375,85
+1477,Codeforces Round 698 (Div. 1),jiangly,16,2021-01-28 16:50:00,3375,3328,-47
+1479,Codeforces Round 700 (Div. 1),jiangly,11,2021-02-07 16:50:00,3328,3324,-4
+1491,Codeforces Global Round 13,jiangly,4,2021-02-28 16:35:00,3324,3391,67
+1495,Codeforces Round 706 (Div. 1),jiangly,89,2021-03-10 14:05:00,3391,3229,-162
+1500,"Codeforces Round 707 (Div. 1, based on Moscow Open Olympiad in Informatics)",jiangly,2,2021-03-13 11:35:00,3229,3355,126
+1483,"Codeforces Round 709 (Div. 1, based on Technocup 2021 Final Round)",jiangly,11,2021-03-21 15:35:00,3355,3327,-28
+1503,Codeforces Round 712 (Div. 1),jiangly,10,2021-04-03 16:50:00,3327,3330,3
+1508,Codeforces Round 715 (Div. 1),jiangly,17,2021-04-16 16:50:00,3330,3283,-47
+1517,Contest 2050 and Codeforces Round 718 (Div. 1 + Div. 2),jiangly,7,2021-04-23 17:20:00,3283,3332,49
+1515,Codeforces Global Round 14,jiangly,8,2021-05-02 17:35:00,3332,3349,17
+1528,Codeforces Round 722 (Div. 1),jiangly,4,2021-05-24 16:50:00,3349,3420,71
+1523,"Deltix Round, Spring 2021 (open for everyone, rated, Div. 1 + Div. 2)",jiangly,6,2021-05-30 16:50:00,3420,3457,37
+1534,Codeforces LATOKEN Round 1 (Div. 1 + Div. 2),jiangly,12,2021-06-13 18:35:00,3457,3432,-25
+1540,Codeforces Round 728 (Div. 1),jiangly,76,2021-06-25 17:50:00,3432,3240,-192
+1545,Codeforces Round 732 (Div. 1),jiangly,7,2021-07-11 16:35:00,3240,3295,55
+1530,"Codeforces Round 733 (Div. 1 + Div. 2, based on VK Cup 2021 - Elimination (Engine))",jiangly,1,2021-07-17 17:35:00,3295,3468,173
+1553,"Harbour.Space Scholarship Contest 2021-2022 (open for everyone, rated, Div. 1 + Div. 2)",jiangly,10,2021-07-22 17:05:00,3468,3433,-35
+1552,Codeforces Global Round 15,jiangly,63,2021-07-25 17:20:00,3433,3298,-135
+1548,Codeforces Round 736 (Div. 1),jiangly,29,2021-08-01 17:00:00,3298,3246,-52
+1558,"Codeforces Round 740 (Div. 1, based on VK Cup 2021 - Final (Engine))",jiangly,8,2021-08-24 17:05:00,3246,3275,29
+1556,"Deltix Round, Summer 2021 (open for everyone, rated, Div. 1 + Div. 2)",jiangly,2,2021-08-29 17:05:00,3275,3432,157
+1566,Codeforces Global Round 16,jiangly,4,2021-09-12 17:05:00,3432,3492,60
+1580,Codeforces Round 745 (Div. 1),jiangly,276,2021-09-30 12:15:00,3492,3204,-288
+1586,"Codeforces Round 749 (Div. 1 + Div. 2, based on Technocup 2022 Elimination Round 1)",jiangly,3,2021-10-17 13:20:00,3204,3288,84
+1603,Codeforces Round 752 (Div. 1),jiangly,9,2021-10-30 16:35:00,3288,3326,38
+1588,"Codeforces Round 755 (Div. 1, based on Technocup 2022 Elimination Round 2)",jiangly,4,2021-11-14 08:20:00,3326,3354,28
+1610,Codeforces Global Round 17,jiangly,28,2021-11-23 17:35:00,3354,3287,-67
+1609,"Deltix Round, Autumn 2021 (open for everyone, rated, Div. 1 + Div. 2)",jiangly,7,2021-11-28 17:05:00,3287,3334,47
+1615,Codeforces Global Round 18,jiangly,98,2021-12-24 17:05:00,3334,3189,-145
+1616,Good Bye 2021: 2022 is NEAR,jiangly,28,2021-12-29 17:35:00,3189,3179,-10
+1621,Hello 2022,jiangly,53,2022-01-03 16:50:00,3179,3125,-54
+1628,Codeforces Round 767 (Div. 1),jiangly,8,2022-01-22 16:35:00,3125,3207,82
+1630,Codeforces Round 768 (Div. 1),jiangly,12,2022-01-27 16:35:00,3207,3231,24
+1637,Codeforces Global Round 19,jiangly,7,2022-02-12 17:05:00,3231,3299,68
+1641,Codeforces Round 773 (Div. 1),jiangly,6,2022-02-23 12:10:00,3299,3356,57
+1648,"Codeforces Round 775 (Div. 1, based on Moscow Open Olympiad in Informatics)",jiangly,1,2022-03-06 12:10:00,3356,3509,153
+1654,"Codeforces Round 778 (Div. 1 + Div. 2, based on Technocup 2022 Final Round)",jiangly,82,2022-03-20 13:50:00,3509,3323,-186
+1656,"CodeTON Round 1 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,1,2022-03-24 16:35:00,3323,3504,181
+1667,Codeforces Round 783 (Div. 1),jiangly,9,2022-04-19 16:35:00,3504,3480,-24
+1672,Codeforces Global Round 20,jiangly,11,2022-04-23 17:05:00,3480,3461,-19
+1677,Codeforces Round 789 (Div. 1),jiangly,12,2022-05-08 16:35:00,3461,3415,-46
+1684,Codeforces Round 792 (Div. 1 + Div. 2),jiangly,11,2022-05-19 16:35:00,3415,3401,-14
+1685,Codeforces Round 794 (Div. 1),jiangly,2,2022-05-25 19:50:00,3401,3509,108
+1687,Codeforces Round 796 (Div. 1),jiangly,3,2022-06-03 16:35:00,3509,3568,59
+1693,Codeforces Round 800 (Div. 1),jiangly,4,2022-06-16 16:35:00,3568,3587,19
+1696,Codeforces Global Round 21,jiangly,2,2022-06-25 16:50:00,3587,3653,66
+1707,Codeforces Round 808 (Div. 1),jiangly,4,2022-07-16 16:35:00,3653,3643,-10
+1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,2,2022-07-31 16:35:00,3643,3688,45
+1718,Codeforces Round 814 (Div. 1),jiangly,6,2022-08-16 16:35:00,3688,3634,-54
+1738,Codeforces Global Round 22,jiangly,7,2022-09-30 17:05:00,3634,3590,-44
+1746,Codeforces Global Round 23,jiangly,6,2022-10-15 16:50:00,3590,3581,-9
+1753,Codeforces Round 829 (Div. 1),jiangly,1,2022-10-23 09:50:00,3581,3670,89
+1740,Codeforces Round 831 (Div. 1 + Div. 2),jiangly,1,2022-10-29 11:55:00,3670,3754,84
+1750,"CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,9,2022-11-06 17:05:00,3754,3633,-121
+1761,Pinely Round 1 (Div. 1 + Div. 2),jiangly,6,2022-11-20 17:05:00,3633,3591,-42
+1764,Codeforces Global Round 24,jiangly,2,2022-11-26 16:35:00,3591,3628,37
+1770,Good Bye 2022: 2023 is NEAR,jiangly,10,2022-12-30 17:05:00,3628,3585,-43
+1779,Hello 2023,jiangly,6,2023-01-03 17:05:00,3585,3583,-2
+1782,"Codeforces Round 844 (Div. 1 + Div. 2, based on VK Cup 2022 - Elimination Round)",jiangly,8,2023-01-15 15:05:00,3583,3523,-60
+1787,"TypeDB Forces 2023 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,17,2023-01-29 17:35:00,3523,3465,-58
+1785,"Codeforces Round 850 (Div. 1, based on VK Cup 2022 - Final Round)",jiangly,6,2023-02-05 15:05:00,3465,3474,9
+1799,Codeforces Round 854 by cybercats (Div. 1 + Div. 2),jiangly,1,2023-02-27 17:35:00,3474,3600,126
+1801,Codeforces Round 857 (Div. 1),jiangly,2,2023-03-09 12:35:00,3600,3669,69
+1804,Nebius Welcome Round (Div. 1 + Div. 2),jiangly,1,2023-03-12 16:35:00,3669,3772,103
+1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,1,2023-03-31 16:35:00,3772,3859,87
+1815,Codeforces Round 865 (Div. 1),jiangly,2,2023-04-09 17:00:00,3859,3841,-18
+1817,Codeforces Round 869 (Div. 1),jiangly,47,2023-04-29 16:50:00,3841,3614,-227
+1824,Codeforces Round 872 (Div. 1),jiangly,1,2023-05-08 14:05:00,3614,3710,96
+1827,Codeforces Round 873 (Div. 1),jiangly,2,2023-05-14 16:35:00,3710,3741,31
+1830,Codeforces Round 875 (Div. 1),jiangly,6,2023-05-28 17:05:00,3741,3666,-75
+1835,Codeforces Round 880 (Div. 1),jiangly,30,2023-06-18 16:35:00,3666,3513,-153
+1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,7,2023-06-24 17:05:00,3513,3498,-15
+1844,Codeforces Round 884 (Div. 1 + Div. 2),jiangly,7,2023-07-11 17:35:00,3498,3485,-13
+1852,Codeforces Round 887 (Div. 1),jiangly,1,2023-07-23 17:05:00,3485,3625,140
+1854,Codeforces Round 889 (Div. 1),jiangly,22,2023-07-29 17:05:00,3625,3514,-111
+1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),jiangly,6,2023-08-26 17:35:00,3514,3503,-11
+1863,Pinely Round 2 (Div. 1 + Div. 2),jiangly,4,2023-08-30 17:35:00,3503,3536,33
+1868,Codeforces Round 896 (Div. 1),jiangly,2,2023-09-10 16:35:00,3536,3583,47
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,3,2023-09-18 16:50:00,3583,3632,49
+1876,"Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round)",jiangly,4,2023-10-08 11:35:00,3632,3626,-6
+1887,Codeforces Round 905 (Div. 1),jiangly,1,2023-10-22 13:05:00,3626,3720,94
+1893,Codeforces Round 908 (Div. 1),jiangly,7,2023-11-07 16:35:00,3720,3662,-58
+1909,Pinely Round 3 (Div. 1 + Div. 2),jiangly,3,2023-12-23 17:35:00,3662,3682,20
+1916,Good Bye 2023,jiangly,6,2023-12-30 16:50:00,3682,3639,-43
+1924,Codeforces Round 921 (Div. 1),jiangly,1,2024-01-27 16:45:00,3639,3744,105
+1930,think-cell Round 1,jiangly,6,2024-02-17 17:35:00,3744,3677,-67
+1936,Codeforces Round 930 (Div. 1),jiangly,7,2024-02-29 16:35:00,3677,3598,-79
+1943,Codeforces Round 934 (Div. 1),jiangly,2,2024-03-16 17:00:00,3598,3640,42
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,8,2024-03-30 17:35:00,3640,3597,-43
+1951,Codeforces Global Round 25,jiangly,34,2024-04-06 17:35:00,3597,3468,-129
+1965,Codeforces Round 941 (Div. 1),jiangly,1,2024-04-27 16:35:00,3468,3578,110
+1967,Codeforces Round 942 (Div. 1),jiangly,2,2024-04-30 17:05:00,3578,3647,69
+1984,Codeforces Global Round 26,jiangly,2,2024-06-09 17:35:00,3647,3707,60
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),jiangly,5,2024-07-18 16:35:00,3707,3669,-38
+1991,Pinely Round 4 (Div. 1 + Div. 2),jiangly,7,2024-07-28 17:35:00,3669,3627,-42
+2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),jiangly,1,2024-08-11 17:35:00,3627,3734,107
+2006,Codeforces Round 969 (Div. 1),jiangly,2,2024-08-30 17:05:00,3734,3773,39
+2018,Codeforces Round 975 (Div. 1),jiangly,1,2024-09-27 16:05:00,3773,3839,66
+2023,Codeforces Round 980 (Div. 1),jiangly,1,2024-10-20 11:05:00,3839,3904,65
+2035,Codeforces Global Round 27,jiangly,3,2024-10-27 17:35:00,3904,3831,-73
+2029,Refact.ai Match 1 (Codeforces Round 985),jiangly,2,2024-11-09 17:35:00,3831,3823,-8
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",jiangly,8,2024-11-23 17:35:00,3823,3743,-80
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",jiangly,21,2024-11-30 17:35:00,3743,3618,-125
+2046,Codeforces Round 990 (Div. 1),jiangly,1,2024-12-03 08:25:00,3618,3741,123
+2048,Codeforces Global Round 28,jiangly,1,2024-12-19 17:35:00,3741,3814,73
+2053,Good Bye 2024: 2025 is NEAR,jiangly,1,2024-12-28 17:35:00,3814,3884,70
+2057,Hello 2025,jiangly,1,2025-01-04 17:05:00,3884,3976,92
+2061,"IAEPC Preliminary Contest (Codeforces Round 999, Div. 1 + Div. 2)",jiangly,1,2025-01-20 17:35:00,3976,4039,63
+2062,"Ethflow Round 1 (Codeforces Round 1001, Div. 1 + Div. 2)",jiangly,8,2025-01-26 17:05:00,4039,3898,-141
+2066,Codeforces Round 1004 (Div. 1),jiangly,13,2025-02-11 16:35:00,3898,3747,-151
+2077,Codeforces Round 1008 (Div. 1),jiangly,1,2025-03-10 17:15:00,3747,3845,98
+2089,Codeforces Round 1012 (Div. 1),jiangly,3,2025-03-23 08:05:00,3845,3797,-48
+2084,"Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",jiangly,10,2025-04-05 17:35:00,3797,3710,-87
+2097,Codeforces Round 1021 (Div. 1),jiangly,3,2025-04-26 11:35:00,3710,3700,-10
